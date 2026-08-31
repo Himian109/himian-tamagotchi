@@ -1,6 +1,7 @@
 /**
  * 口袋星球圖鑑路由：首頁、攻略、代碼與來源都維持清楚返回路徑與一致裝置感。
  */
+import "./data/homeArtworkFallback";
 import { Toaster } from "@/components/ui/sonner";
 import { TooltipProvider } from "@/components/ui/tooltip";
 import NotFound from "@/pages/NotFound";
