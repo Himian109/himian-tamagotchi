@@ -1,0 +1,13 @@
+{
+  "name": "himian-Tamagotchi｜Tamagotchi Paradise 中文攻略",
+  "short_name": "himian-Tama",
+  "description": "Tamagotchi Paradise 繁體中文攻略與角色資料庫",
+  "lang": "zh-Hant",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fff8e7",
+  "theme_color": "#ff6f61",
+  "icons": [
+    {"src": "/manus-storage/himian-tamagotchi-logo_b4345249.png", "sizes": "192x192", "type": "image/png"}
+  ]
+}

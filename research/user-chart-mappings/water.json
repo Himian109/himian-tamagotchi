@@ -1,0 +1,233 @@
+[
+  {
+    "field": "Water",
+    "row": 1,
+    "slot": "young",
+    "catalog_id": "glide-young-glide-young-png",
+    "english_name": "Glide Young",
+    "user_name_simplified": "斯亦斯亦",
+    "user_name_traditional": "斯亦斯亦",
+    "visual_evidence": "Blue whale-like character",
+    "confidence": "high"
+  },
+  {
+    "field": "Water",
+    "row": 1,
+    "slot": "adult_perfect",
+    "catalog_id": "irukatchi-irukatchi-paradise-png",
+    "english_name": "Irukatchi",
+    "user_name_simplified": "海豚吉",
+    "user_name_traditional": "海豚吉",
+    "visual_evidence": "Blue dolphin-like character",
+    "confidence": "high"
+  },
+  {
+    "field": "Water",
+    "row": 1,
+    "slot": "adult_0_1",
+    "catalog_id": "kametchi-kametchi-paradise-png",
+    "english_name": "Kametchi",
+    "user_name_simplified": "龟龟吉",
+    "user_name_traditional": "龜龜吉",
+    "visual_evidence": "Yellow and green turtle-like character",
+    "confidence": "high"
+  },
+  {
+    "field": "Water",
+    "row": 1,
+    "slot": "adult_2_5",
+    "catalog_id": "kujiratchi-kujiratchi-paradise-png",
+    "english_name": "Kujiratchi",
+    "user_name_simplified": "鲸鲸吉",
+    "user_name_traditional": "鯨鯨吉",
+    "visual_evidence": "Dark blue whale-like character",
+    "confidence": "high"
+  },
+  {
+    "field": "Water",
+    "row": 1,
+    "slot": "adult_6",
+    "catalog_id": "uruotchi-uruotchi-paradise-png",
+    "english_name": "Uruotchi",
+    "user_name_simplified": "乌尔吉",
+    "user_name_traditional": "烏爾吉",
+    "visual_evidence": "Purple tadpole-like character",
+    "confidence": "high"
+  },
+  {
+    "field": "Water",
+    "row": 2,
+    "slot": "young",
+    "catalog_id": "paddle-young-paddle-young-png",
+    "english_name": "Paddle Young",
+    "user_name_simplified": "拍拍",
+    "user_name_traditional": "拍拍",
+    "visual_evidence": "Pink axolotl-like character",
+    "confidence": "high"
+  },
+  {
+    "field": "Water",
+    "row": 2,
+    "slot": "adult_perfect",
+    "catalog_id": "axolopatchi-axolopatchi-paradise-png",
+    "english_name": "Axolopatchi",
+    "user_name_simplified": "阿活洛帕吉",
+    "user_name_traditional": "阿活洛帕吉",
+    "visual_evidence": "Purple axolotl-like character",
+    "confidence": "high"
+  },
+  {
+    "field": "Water",
+    "row": 2,
+    "slot": "adult_0_1",
+    "catalog_id": "imoritchi-imoritchi-paradise-png",
+    "english_name": "Imoritchi",
+    "user_name_simplified": "伊莫哩吉",
+    "user_name_traditional": "伊莫哩吉",
+    "visual_evidence": "Red salamander-like character",
+    "confidence": "high"
+  },
+  {
+    "field": "Water",
+    "row": 2,
+    "slot": "adult_2_5",
+    "catalog_id": "kawazutchi-kawazutchi-paradise-png",
+    "english_name": "Kawazutchi",
+    "user_name_simplified": "雨蛙吉",
+    "user_name_traditional": "雨蛙吉",
+    "visual_evidence": "Teal frog-like character",
+    "confidence": "high"
+  },
+  {
+    "field": "Water",
+    "row": 2,
+    "slot": "adult_6",
+    "catalog_id": "beavertchi-beavertchi-paradise-png",
+    "english_name": "Beavertchi",
+    "user_name_simplified": "比巴吉",
+    "user_name_traditional": "比巴吉",
+    "visual_evidence": "Orange beaver-like character",
+    "confidence": "high"
+  },
+  {
+    "field": "Water",
+    "row": 3,
+    "slot": "young",
+    "catalog_id": "leap-young-leap-young-png",
+    "english_name": "Leap Young",
+    "user_name_simplified": "皮奇皮奇",
+    "user_name_traditional": "皮奇皮奇",
+    "visual_evidence": "Blue fish-like character",
+    "confidence": "high"
+  },
+  {
+    "field": "Water",
+    "row": 3,
+    "slot": "adult_perfect",
+    "catalog_id": "otototchi-otototchi-paradise-png",
+    "english_name": "Otototchi",
+    "user_name_simplified": "海马吉",
+    "user_name_traditional": "海馬吉",
+    "visual_evidence": "Purple seahorse-like character",
+    "confidence": "high"
+  },
+  {
+    "field": "Water",
+    "row": 3,
+    "slot": "adult_0_1",
+    "catalog_id": "sharktchi-sharktchi-paradise-png",
+    "english_name": "Sharktchi",
+    "user_name_simplified": "鲨鱼吉",
+    "user_name_traditional": "鯊魚吉",
+    "visual_evidence": "Blue shark-like character",
+    "confidence": "high"
+  },
+  {
+    "field": "Water",
+    "row": 3,
+    "slot": "adult_2_5",
+    "catalog_id": "ankotchi-ankotchi-paradise-png",
+    "english_name": "Ankotchi",
+    "user_name_simplified": "安康吉",
+    "user_name_traditional": "安康吉",
+    "visual_evidence": "Blue anglerfish-like character",
+    "confidence": "high"
+  },
+  {
+    "field": "Water",
+    "row": 3,
+    "slot": "adult_6",
+    "catalog_id": "gusokutchi-gusokutchi-paradise-png",
+    "english_name": "Gusokutchi",
+    "user_name_simplified": "多多吉",
+    "user_name_traditional": "多多吉",
+    "visual_evidence": "Green turtle-like character",
+    "confidence": "high"
+  },
+  {
+    "field": "Water",
+    "row": 4,
+    "slot": "young",
+    "catalog_id": "float-young-float-young-png",
+    "english_name": "Float Young",
+    "user_name_simplified": "浮游浮游",
+    "user_name_traditional": "浮游浮游",
+    "visual_evidence": "Red jellyfish-like character",
+    "confidence": "high"
+  },
+  {
+    "field": "Water",
+    "row": 4,
+    "slot": "adult_perfect",
+    "catalog_id": "kuraratchi-kuraratchi-paradise-png",
+    "english_name": "Kuraratchi",
+    "user_name_simplified": "浮浮吉",
+    "user_name_traditional": "浮浮吉",
+    "visual_evidence": "Yellow squid-like character",
+    "confidence": "high"
+  },
+  {
+    "field": "Water",
+    "row": 4,
+    "slot": "adult_0_1",
+    "catalog_id": "mendakotchi-mendakotchi-paradise-png",
+    "english_name": "Mendakotchi",
+    "user_name_simplified": "萌哒吉",
+    "user_name_traditional": "萌噠吉",
+    "visual_evidence": "Red sea bunny-like character",
+    "confidence": "high"
+  },
+  {
+    "field": "Water",
+    "row": 4,
+    "slot": "adult_2_5",
+    "catalog_id": "amefuratchi-amefuratchi-paradise-png",
+    "english_name": "Amefuratchi",
+    "user_name_simplified": "海兔吉",
+    "user_name_traditional": "海兔吉",
+    "visual_evidence": "Blue sea slug-like character",
+    "confidence": "high"
+  },
+  {
+    "field": "Water",
+    "row": 4,
+    "slot": "adult_6",
+    "catalog_id": "tachutchi-tachutchi-paradise-png",
+    "english_name": "Tachutchi",
+    "user_name_simplified": "足足吉",
+    "user_name_traditional": "足足吉",
+    "visual_evidence": "White shell-like character",
+    "confidence": "high"
+  },
+  {
+    "field": "Water",
+    "row": "hidden",
+    "slot": "hidden",
+    "catalog_id": "mermarintchi-mermarintchi-paradise-png",
+    "english_name": "Mermarintchi",
+    "user_name_simplified": "人鱼吉",
+    "user_name_traditional": "人魚吉",
+    "visual_evidence": "Mermaid-like character",
+    "confidence": "high"
+  }
+]

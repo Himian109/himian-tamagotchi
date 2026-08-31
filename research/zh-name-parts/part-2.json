@@ -1,0 +1,173 @@
+[
+  {
+    "id": "flap-young-flap-young-png",
+    "english_name": "Flap Young",
+    "chinese_name": "帕塔揚",
+    "japanese_name": "パタヤング",
+    "naming_basis": "transliteration",
+    "source_url": "https://tamagotchi.fandom.com/wiki/Flap_Young",
+    "notes": "No official translation found. Transliteration based on Japanese reading."
+  },
+  {
+    "id": "float-young-float-young-png",
+    "english_name": "Float Young",
+    "chinese_name": "普卡揚",
+    "japanese_name": "プカヤング",
+    "naming_basis": "transliteration",
+    "source_url": "https://tamagotchi.fandom.com/wiki/Float_Young",
+    "notes": "No official translation found. Transliteration based on Japanese reading."
+  },
+  {
+    "id": "float-young-tropical-float-young-png",
+    "english_name": "Tropical Float Young",
+    "chinese_name": "熱帶普卡揚",
+    "japanese_name": "プカヤング",
+    "naming_basis": "transliteration",
+    "source_url": "https://tamagotchi.fandom.com/wiki/Float_Young",
+    "notes": "No official translation found. Transliteration based on Japanese reading. Prefix added."
+  },
+  {
+    "id": "glide-young-glide-young-png",
+    "english_name": "Glide Young",
+    "chinese_name": "斯伊揚",
+    "japanese_name": "スィーヤング",
+    "naming_basis": "transliteration",
+    "source_url": "https://tamagotchi.fandom.com/wiki/Glide_Young",
+    "notes": "No official translation found. Transliteration based on Japanese reading."
+  },
+  {
+    "id": "glide-young-icy-glide-young-png",
+    "english_name": "Icy Glide Young",
+    "chinese_name": "冰原斯伊揚",
+    "japanese_name": "スィーヤング",
+    "naming_basis": "transliteration",
+    "source_url": "https://tamagotchi.fandom.com/wiki/Glide_Young",
+    "notes": "No official translation found. Transliteration based on Japanese reading. Prefix added."
+  },
+  {
+    "id": "dangouotchi-dangouotchi-png",
+    "english_name": "Dangouotchi",
+    "chinese_name": "丹戈烏奧吉",
+    "japanese_name": "ダンゴウオッチ",
+    "naming_basis": "transliteration",
+    "source_url": "https://tamagotchi.fandom.com/wiki/Dangouotchi",
+    "notes": "Transliteration based on Japanese reading."
+  },
+  {
+    "id": "eagletchi-eagletchi-png",
+    "english_name": "Eagletchi",
+    "chinese_name": "伊古魯吉",
+    "japanese_name": "イーグルッチ",
+    "naming_basis": "transliteration",
+    "source_url": "https://tamagotchi.fandom.com/wiki/Eagletchi",
+    "notes": "Transliteration based on Japanese reading."
+  },
+  {
+    "id": "elizardotchi-elizardotchi-png",
+    "english_name": "Elizardotchi",
+    "chinese_name": "艾利札多吉",
+    "japanese_name": "エリザドッチ",
+    "naming_basis": "transliteration",
+    "source_url": "https://tamagotchi.fandom.com/wiki/Elizardotchi",
+    "notes": "Transliteration based on Japanese reading."
+  },
+  {
+    "id": "forest-horhotchi-forest-horhotchi-png",
+    "english_name": "Forest Horhotchi",
+    "chinese_name": "森林霍霍吉",
+    "japanese_name": "ホーホッチ",
+    "naming_basis": "transliteration",
+    "source_url": "https://tamagotchi.fandom.com/wiki/Horhotchi",
+    "notes": "Transliteration based on Japanese reading. Prefix added."
+  },
+  {
+    "id": "furawatchi-furawatchi-png",
+    "english_name": "Furawatchi",
+    "chinese_name": "花花星人",
+    "japanese_name": "ふらわっち",
+    "naming_basis": "official_zh",
+    "source_url": "https://tamagotchi.fandom.com/wiki/Furawatchi",
+    "notes": "Official translation."
+  },
+  {
+    "id": "gemtchi-gemtchi-png",
+    "english_name": "Gemtchi",
+    "chinese_name": "傑姆吉",
+    "japanese_name": "ジェムッチ",
+    "naming_basis": "transliteration",
+    "source_url": "https://tamagotchi.fandom.com/wiki/Gemtchi",
+    "notes": "Transliteration based on Japanese reading."
+  },
+  {
+    "id": "ginjirotchi-ginjirotchi-png",
+    "english_name": "Ginjirotchi",
+    "chinese_name": "銀次郎星人",
+    "japanese_name": "ぎんじろっち",
+    "naming_basis": "community_zh",
+    "source_url": "https://tamagotchi.fandom.com/wiki/Ginjirotchi",
+    "notes": "Community translation."
+  },
+  {
+    "id": "gumax-gumax-png",
+    "english_name": "Gumax",
+    "chinese_name": "古馬克斯",
+    "japanese_name": "グマックス",
+    "naming_basis": "transliteration",
+    "source_url": "https://tamagotchi.fandom.com/wiki/Gumax",
+    "notes": "Transliteration based on Japanese reading."
+  },
+  {
+    "id": "gusokutchi-gusokutchi-png",
+    "english_name": "Gusokutchi",
+    "chinese_name": "古索庫吉",
+    "japanese_name": "グソクッチ",
+    "naming_basis": "transliteration",
+    "source_url": "https://tamagotchi.fandom.com/wiki/Gusokutchi",
+    "notes": "Transliteration based on Japanese reading."
+  },
+  {
+    "id": "hatchitchi-hatchitchi-png",
+    "english_name": "Hatchitchi",
+    "chinese_name": "哈奇吉",
+    "japanese_name": "ハッチッチ",
+    "naming_basis": "transliteration",
+    "source_url": "https://tamagotchi.fandom.com/wiki/Hatchitchi",
+    "notes": "Transliteration based on Japanese reading."
+  },
+  {
+    "id": "heavytchi-heavytchi-png",
+    "english_name": "Heavytchi",
+    "chinese_name": "赫比吉",
+    "japanese_name": "ヘビッチ",
+    "naming_basis": "transliteration",
+    "source_url": "https://tamagotchi.fandom.com/wiki/Heavytchi",
+    "notes": "Transliteration based on Japanese reading."
+  },
+  {
+    "id": "hobohorntchi-hobohorntchi-png",
+    "english_name": "Hobohorntchi",
+    "chinese_name": "霍波霍恩吉",
+    "japanese_name": "ホボホーンッチ",
+    "naming_basis": "transliteration",
+    "source_url": "https://tamagotchi.fandom.com/wiki/Hobohorntchi",
+    "notes": "Transliteration based on Japanese reading."
+  },
+  {
+    "id": "hoppentchi-hoppentchi-png",
+    "english_name": "Hoppentchi",
+    "chinese_name": "霍彭吉",
+    "japanese_name": "ホッペンッチ",
+    "naming_basis": "transliteration",
+    "source_url": "https://tamagotchi.fandom.com/wiki/Hoppentchi",
+    "notes": "Transliteration based on Japanese reading."
+  },
+  {
+    "id": "horhotchi-horhotchi-png",
+    "english_name": "Horhotchi",
+    "chinese_name": "霍霍吉",
+    "japanese_name": "ホーホッチ",
+    "naming_basis": "transliteration",
+    "source_url": "https://tamagotchi.fandom.com/wiki/Horhotchi",
+    "notes": "Transliteration based on Japanese reading."
+  }
+]

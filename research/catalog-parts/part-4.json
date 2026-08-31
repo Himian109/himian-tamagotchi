@@ -1,0 +1,443 @@
+[
+  {
+    "name_en": "Flap Young",
+    "name_ja": "ぱたぱたヤング",
+    "stage": "Young",
+    "version_group": "Purple Sky",
+    "shell_requirement": "Any",
+    "field": "Sky",
+    "species": "Flap",
+    "evolves_from": "Sky Kid",
+    "care_tier": "Any",
+    "care_mistakes": "Any",
+    "perfect_care": "No",
+    "food_cells": "Chicken",
+    "connection_requirement": "None",
+    "other_requirement": "None",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "https://tamapara-wiki.com/そら属性/"
+    ]
+  },
+  {
+    "name_en": "Chirp Young",
+    "name_ja": "ぴよぴよヤング",
+    "stage": "Young",
+    "version_group": "Purple Sky",
+    "shell_requirement": "Any",
+    "field": "Sky",
+    "species": "Chirp",
+    "evolves_from": "Sky Kid",
+    "care_tier": "Any",
+    "care_mistakes": "Any",
+    "perfect_care": "No",
+    "food_cells": "Corn",
+    "connection_requirement": "None",
+    "other_requirement": "None",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "https://tamapara-wiki.com/そら属性/"
+    ]
+  },
+  {
+    "name_en": "Bumble Young",
+    "name_ja": "ぶんぶんヤング",
+    "stage": "Young",
+    "version_group": "Purple Sky",
+    "shell_requirement": "Any",
+    "field": "Sky",
+    "species": "Flutter",
+    "evolves_from": "Sky Kid",
+    "care_tier": "Any",
+    "care_mistakes": "Any",
+    "perfect_care": "No",
+    "food_cells": "Syrup",
+    "connection_requirement": "None",
+    "other_requirement": "None",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "https://tamapara-wiki.com/そら属性/"
+    ]
+  },
+  {
+    "name_en": "Rocky Young",
+    "name_ja": "かちかちヤング",
+    "stage": "Young",
+    "version_group": "Purple Sky",
+    "shell_requirement": "Any",
+    "field": "Sky",
+    "species": "Mineral",
+    "evolves_from": "Sky Kid",
+    "care_tier": "Any",
+    "care_mistakes": "Any",
+    "perfect_care": "No",
+    "food_cells": "None (Indeterminable)",
+    "connection_requirement": "None",
+    "other_requirement": "None",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "https://tamapara-wiki.com/そら属性/"
+    ]
+  },
+  {
+    "name_en": "Horhotchi",
+    "name_ja": "ほーほっち",
+    "stage": "Adult",
+    "version_group": "Purple Sky",
+    "shell_requirement": "Any",
+    "field": "Sky",
+    "species": "Flap",
+    "evolves_from": "Flap Young",
+    "care_tier": "Perfect",
+    "care_mistakes": "0",
+    "perfect_care": "Yes (5+ Hunger & Happy)",
+    "food_cells": "Any",
+    "connection_requirement": "None",
+    "other_requirement": "None",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "https://tamapara-wiki.com/そら属性/"
+    ]
+  },
+  {
+    "name_en": "Mongatchi",
+    "name_ja": "もんがっち",
+    "stage": "Adult",
+    "version_group": "Purple Sky",
+    "shell_requirement": "Any",
+    "field": "Sky",
+    "species": "Flap",
+    "evolves_from": "Flap Young",
+    "care_tier": "Good",
+    "care_mistakes": "0-1",
+    "perfect_care": "No",
+    "food_cells": "Any",
+    "connection_requirement": "None",
+    "other_requirement": "None",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "https://tamapara-wiki.com/そら属性/"
+    ]
+  },
+  {
+    "name_en": "Eagletchi",
+    "name_ja": "いーぐるっち",
+    "stage": "Adult",
+    "version_group": "Purple Sky",
+    "shell_requirement": "Any",
+    "field": "Sky",
+    "species": "Flap",
+    "evolves_from": "Flap Young",
+    "care_tier": "Average",
+    "care_mistakes": "2-5",
+    "perfect_care": "No",
+    "food_cells": "Any",
+    "connection_requirement": "None",
+    "other_requirement": "None",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "https://tamapara-wiki.com/そら属性/"
+    ]
+  },
+  {
+    "name_en": "Batchi",
+    "name_ja": "ばっち",
+    "stage": "Adult",
+    "version_group": "Purple Sky",
+    "shell_requirement": "Any",
+    "field": "Sky",
+    "species": "Flap",
+    "evolves_from": "Flap Young",
+    "care_tier": "Bad",
+    "care_mistakes": "6+",
+    "perfect_care": "No",
+    "food_cells": "Any",
+    "connection_requirement": "None",
+    "other_requirement": "None",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "https://tamapara-wiki.com/そら属性/"
+    ]
+  },
+  {
+    "name_en": "Peacotchi",
+    "name_ja": "ぴーこっち",
+    "stage": "Adult",
+    "version_group": "Purple Sky",
+    "shell_requirement": "Any",
+    "field": "Sky",
+    "species": "Chirp",
+    "evolves_from": "Chirp Young",
+    "care_tier": "Perfect",
+    "care_mistakes": "0",
+    "perfect_care": "Yes (5+ Hunger & Happy)",
+    "food_cells": "Any",
+    "connection_requirement": "None",
+    "other_requirement": "None",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "https://tamapara-wiki.com/そら属性/"
+    ]
+  },
+  {
+    "name_en": "Batatchi",
+    "name_ja": "ばたっち",
+    "stage": "Adult",
+    "version_group": "Purple Sky",
+    "shell_requirement": "Any",
+    "field": "Sky",
+    "species": "Chirp",
+    "evolves_from": "Chirp Young",
+    "care_tier": "Good",
+    "care_mistakes": "0-1",
+    "perfect_care": "No",
+    "food_cells": "Any",
+    "connection_requirement": "None",
+    "other_requirement": "None",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "https://tamapara-wiki.com/そら属性/"
+    ]
+  },
+  {
+    "name_en": "Kuchipatchi",
+    "name_ja": "くちぱっち",
+    "stage": "Adult",
+    "version_group": "Purple Sky",
+    "shell_requirement": "Any",
+    "field": "Sky",
+    "species": "Chirp",
+    "evolves_from": "Chirp Young",
+    "care_tier": "Average",
+    "care_mistakes": "2-5",
+    "perfect_care": "No",
+    "food_cells": "Any",
+    "connection_requirement": "None",
+    "other_requirement": "None",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "https://tamapara-wiki.com/そら属性/"
+    ]
+  },
+  {
+    "name_en": "Kiwitchi",
+    "name_ja": "きうぃっち",
+    "stage": "Adult",
+    "version_group": "Purple Sky",
+    "shell_requirement": "Any",
+    "field": "Sky",
+    "species": "Chirp",
+    "evolves_from": "Chirp Young",
+    "care_tier": "Bad",
+    "care_mistakes": "6+",
+    "perfect_care": "No",
+    "food_cells": "Any",
+    "connection_requirement": "None",
+    "other_requirement": "None",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "https://tamapara-wiki.com/そら属性/"
+    ]
+  },
+  {
+    "name_en": "Papillotchi",
+    "name_ja": "ぱぴよっち",
+    "stage": "Adult",
+    "version_group": "Purple Sky",
+    "shell_requirement": "Any",
+    "field": "Sky",
+    "species": "Flutter",
+    "evolves_from": "Bumble Young",
+    "care_tier": "Perfect",
+    "care_mistakes": "0",
+    "perfect_care": "Yes (5+ Hunger & Happy)",
+    "food_cells": "Any",
+    "connection_requirement": "None",
+    "other_requirement": "None",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "https://tamapara-wiki.com/そら属性/"
+    ]
+  },
+  {
+    "name_en": "Kabutotchi",
+    "name_ja": "カブトっち",
+    "stage": "Adult",
+    "version_group": "Purple Sky",
+    "shell_requirement": "Any",
+    "field": "Sky",
+    "species": "Flutter",
+    "evolves_from": "Bumble Young",
+    "care_tier": "Good",
+    "care_mistakes": "0-1",
+    "perfect_care": "No",
+    "food_cells": "Any",
+    "connection_requirement": "None",
+    "other_requirement": "None",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "https://tamapara-wiki.com/そら属性/"
+    ]
+  },
+  {
+    "name_en": "Tentotchi",
+    "name_ja": "てんとっち",
+    "stage": "Adult",
+    "version_group": "Purple Sky",
+    "shell_requirement": "Any",
+    "field": "Sky",
+    "species": "Flutter",
+    "evolves_from": "Bumble Young",
+    "care_tier": "Average",
+    "care_mistakes": "2-5",
+    "perfect_care": "No",
+    "food_cells": "Any",
+    "connection_requirement": "None",
+    "other_requirement": "None",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "https://tamapara-wiki.com/そら属性/"
+    ]
+  },
+  {
+    "name_en": "Hatchitchi",
+    "name_ja": "はっちっち",
+    "stage": "Adult",
+    "version_group": "Purple Sky",
+    "shell_requirement": "Any",
+    "field": "Sky",
+    "species": "Flutter",
+    "evolves_from": "Bumble Young",
+    "care_tier": "Bad",
+    "care_mistakes": "6+",
+    "perfect_care": "No",
+    "food_cells": "Any",
+    "connection_requirement": "None",
+    "other_requirement": "None",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "https://tamapara-wiki.com/そら属性/"
+    ]
+  },
+  {
+    "name_en": "Gemtchi",
+    "name_ja": "じぇむっち",
+    "stage": "Adult",
+    "version_group": "Purple Sky",
+    "shell_requirement": "Any",
+    "field": "Sky",
+    "species": "Mineral",
+    "evolves_from": "Rocky Young",
+    "care_tier": "Perfect",
+    "care_mistakes": "0",
+    "perfect_care": "Yes (5+ Hunger & Happy)",
+    "food_cells": "Any",
+    "connection_requirement": "None",
+    "other_requirement": "None",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "https://tamapara-wiki.com/そら属性/"
+    ]
+  },
+  {
+    "name_en": "Oretatchi",
+    "name_ja": "おれたっち",
+    "stage": "Adult",
+    "version_group": "Purple Sky",
+    "shell_requirement": "Any",
+    "field": "Sky",
+    "species": "Mineral",
+    "evolves_from": "Rocky Young",
+    "care_tier": "Good",
+    "care_mistakes": "0-1",
+    "perfect_care": "No",
+    "food_cells": "Any",
+    "connection_requirement": "None",
+    "other_requirement": "None",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "https://tamapara-wiki.com/そら属性/"
+    ]
+  },
+  {
+    "name_en": "Ishikorotchi",
+    "name_ja": "いしころっち",
+    "stage": "Adult",
+    "version_group": "Purple Sky",
+    "shell_requirement": "Any",
+    "field": "Sky",
+    "species": "Mineral",
+    "evolves_from": "Rocky Young",
+    "care_tier": "Average",
+    "care_mistakes": "2-5",
+    "perfect_care": "No",
+    "food_cells": "Any",
+    "connection_requirement": "None",
+    "other_requirement": "None",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "https://tamapara-wiki.com/そら属性/"
+    ]
+  },
+  {
+    "name_en": "Magmatchi",
+    "name_ja": "まぐまっち",
+    "stage": "Adult",
+    "version_group": "Purple Sky",
+    "shell_requirement": "Any",
+    "field": "Sky",
+    "species": "Mineral",
+    "evolves_from": "Rocky Young",
+    "care_tier": "Bad",
+    "care_mistakes": "6+",
+    "perfect_care": "No",
+    "food_cells": "Any",
+    "connection_requirement": "None",
+    "other_requirement": "None",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "https://tamapara-wiki.com/そら属性/"
+    ]
+  },
+  {
+    "name_en": "Yayacorntchi",
+    "name_ja": "ややこーんっち",
+    "stage": "Adult",
+    "version_group": "Purple Sky",
+    "shell_requirement": "Purple Sky device only",
+    "field": "Sky",
+    "species": "Secret",
+    "evolves_from": "Flap Young, Chirp Young, or Bumble Young",
+    "care_tier": "Any",
+    "care_mistakes": "Any",
+    "perfect_care": "No",
+    "food_cells": "Any",
+    "connection_requirement": "Connect a Purple Sky version with two different versions during the Young Stage",
+    "other_requirement": "Cannot evolve from Rocky Young",
+    "secret": true,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "https://tamapara-wiki.com/そら属性/"
+    ]
+  }
+]

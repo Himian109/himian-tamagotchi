@@ -1,0 +1,65 @@
+[
+  {
+    "id": "water-kid",
+    "english_name": "Water Kid",
+    "chinese_name": "水之子",
+    "japanese_name": "みずのこ",
+    "naming_basis": "transliteration",
+    "source_url": "",
+    "notes": "無官方或通行名稱，暫譯"
+  },
+  {
+    "id": "wolftchi",
+    "english_name": "Wolftchi",
+    "chinese_name": "沃爾夫吉",
+    "japanese_name": "ウルフっち",
+    "naming_basis": "transliteration",
+    "source_url": "https://tamagotchi.fandom.com/wiki/Wolftchi",
+    "notes": "無官方或通行名稱，依日文音譯"
+  },
+  {
+    "id": "yashikitchi",
+    "english_name": "Yashikitchi",
+    "chinese_name": "屋敷吉",
+    "japanese_name": "やしきっち",
+    "naming_basis": "transliteration",
+    "source_url": "https://tamagotchi.fandom.com/wiki/Yashikitchi",
+    "notes": "無官方或通行名稱，依日文音譯"
+  },
+  {
+    "id": "yayacorntchi",
+    "english_name": "Yayacorntchi",
+    "chinese_name": "雅雅角吉",
+    "japanese_name": "ややこーんっち",
+    "naming_basis": "transliteration",
+    "source_url": "https://tamagotchi.fandom.com/wiki/Yayacorntchi",
+    "notes": "無官方或通行名稱，依日文音譯"
+  },
+  {
+    "id": "yaytytchi",
+    "english_name": "Yaytytchi",
+    "chinese_name": "雅伊蒂吉",
+    "japanese_name": "やいてぃっち",
+    "naming_basis": "transliteration",
+    "source_url": "https://tamagotchi.fandom.com/wiki/Yaytytchi",
+    "notes": "無官方或通行名稱，依日文音譯"
+  },
+  {
+    "id": "yukiraratchi",
+    "english_name": "Yukiraratchi",
+    "chinese_name": "雪拉拉吉",
+    "japanese_name": "ゆきららっち",
+    "naming_basis": "transliteration",
+    "source_url": "https://tamagotchi.fandom.com/wiki/Yukiraratchi",
+    "notes": "無官方或通行名稱，依日文音譯"
+  },
+  {
+    "id": "yukiusatchi",
+    "english_name": "Yukiusatchi",
+    "chinese_name": "雪兔吉",
+    "japanese_name": "ゆきうさっち",
+    "naming_basis": "transliteration",
+    "source_url": "https://tamagotchi.fandom.com/wiki/Yukiusatchi",
+    "notes": "無官方或通行名稱，依日文音譯"
+  }
+]

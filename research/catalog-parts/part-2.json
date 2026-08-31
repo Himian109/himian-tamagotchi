@@ -1,0 +1,1342 @@
+[
+  {
+    "name_en": "Babymarutchi",
+    "name_ja": "未確認",
+    "stage": "Baby",
+    "version_group": "Pink Land / Blue Water / Purple Sky",
+    "shell_requirement": "未確認",
+    "field": "Any Field",
+    "species": "未確認",
+    "evolves_from": "Egg",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "Always hatches from an egg",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Land Kid",
+    "name_ja": "未確認",
+    "stage": "Kid",
+    "version_group": "Pink Land / Blue Water / Purple Sky",
+    "shell_requirement": "未確認",
+    "field": "Land Field",
+    "species": "未確認",
+    "evolves_from": "Babymarutchi",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "Raise Babymarutchi in the Land Field",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Water Kid",
+    "name_ja": "未確認",
+    "stage": "Kid",
+    "version_group": "Pink Land / Blue Water / Purple Sky",
+    "shell_requirement": "未確認",
+    "field": "Water Field",
+    "species": "未確認",
+    "evolves_from": "Babymarutchi",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "Raise Babymarutchi in the Water Field",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Sky Kid",
+    "name_ja": "未確認",
+    "stage": "Kid",
+    "version_group": "Pink Land / Blue Water / Purple Sky",
+    "shell_requirement": "未確認",
+    "field": "Sky Field",
+    "species": "未確認",
+    "evolves_from": "Babymarutchi",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "Raise Babymarutchi in the Sky Field",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Roar Young",
+    "name_ja": "未確認",
+    "stage": "Young",
+    "version_group": "Pink Land / Blue Water / Purple Sky",
+    "shell_requirement": "未確認",
+    "field": "Land Field",
+    "species": "Roar",
+    "evolves_from": "Land Kid",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "Meat",
+    "connection_requirement": "未確認",
+    "other_requirement": "",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Toddle Young",
+    "name_ja": "未確認",
+    "stage": "Young",
+    "version_group": "Pink Land / Blue Water / Purple Sky",
+    "shell_requirement": "未確認",
+    "field": "Land Field",
+    "species": "Toddle",
+    "evolves_from": "Land Kid",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "Carrot",
+    "connection_requirement": "未確認",
+    "other_requirement": "",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Lick Young",
+    "name_ja": "未確認",
+    "stage": "Young",
+    "version_group": "Pink Land / Blue Water / Purple Sky",
+    "shell_requirement": "未確認",
+    "field": "Land Field",
+    "species": "Lick",
+    "evolves_from": "Land Kid",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "Worm",
+    "connection_requirement": "未確認",
+    "other_requirement": "",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Sprout Young",
+    "name_ja": "未確認",
+    "stage": "Young",
+    "version_group": "Pink Land / Blue Water / Purple Sky",
+    "shell_requirement": "未確認",
+    "field": "Land Field",
+    "species": "Sprout",
+    "evolves_from": "Land Kid",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "indeterminable",
+    "connection_requirement": "未確認",
+    "other_requirement": "Cannot evolve into Chodracotchi",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Glide Young",
+    "name_ja": "未確認",
+    "stage": "Young",
+    "version_group": "Pink Land / Blue Water / Purple Sky",
+    "shell_requirement": "未確認",
+    "field": "Water Field",
+    "species": "Glide",
+    "evolves_from": "Water Kid",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "Seafood",
+    "connection_requirement": "未確認",
+    "other_requirement": "",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Leap Young",
+    "name_ja": "未確認",
+    "stage": "Young",
+    "version_group": "Pink Land / Blue Water / Purple Sky",
+    "shell_requirement": "未確認",
+    "field": "Water Field",
+    "species": "Leap",
+    "evolves_from": "Water Kid",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "Seaweed",
+    "connection_requirement": "未確認",
+    "other_requirement": "",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Paddle Young",
+    "name_ja": "未確認",
+    "stage": "Young",
+    "version_group": "Pink Land / Blue Water / Purple Sky",
+    "shell_requirement": "未確認",
+    "field": "Water Field",
+    "species": "Paddle",
+    "evolves_from": "Water Kid",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "Plankton",
+    "connection_requirement": "未確認",
+    "other_requirement": "",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Float Young",
+    "name_ja": "未確認",
+    "stage": "Young",
+    "version_group": "Pink Land / Blue Water / Purple Sky",
+    "shell_requirement": "未確認",
+    "field": "Water Field",
+    "species": "Float",
+    "evolves_from": "Water Kid",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "indeterminable",
+    "connection_requirement": "未確認",
+    "other_requirement": "Cannot evolve into Mermarintchi",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Flap Young",
+    "name_ja": "未確認",
+    "stage": "Young",
+    "version_group": "Pink Land / Blue Water / Purple Sky",
+    "shell_requirement": "未確認",
+    "field": "Sky Field",
+    "species": "Flap",
+    "evolves_from": "Sky Kid",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "Chicken",
+    "connection_requirement": "未確認",
+    "other_requirement": "Flap Young is misnamed as \"Chirp Young\" on the device",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Chirp Young",
+    "name_ja": "未確認",
+    "stage": "Young",
+    "version_group": "Pink Land / Blue Water / Purple Sky",
+    "shell_requirement": "未確認",
+    "field": "Sky Field",
+    "species": "Chirp",
+    "evolves_from": "Sky Kid",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "Corn",
+    "connection_requirement": "未確認",
+    "other_requirement": "Chirp Young is misnamed as \"Flap Young\" on the device",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Bumble Young",
+    "name_ja": "未確認",
+    "stage": "Young",
+    "version_group": "Pink Land / Blue Water / Purple Sky",
+    "shell_requirement": "未確認",
+    "field": "Sky Field",
+    "species": "Flutter",
+    "evolves_from": "Sky Kid",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "Syrup",
+    "connection_requirement": "未確認",
+    "other_requirement": "",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Rocky Young",
+    "name_ja": "未確認",
+    "stage": "Young",
+    "version_group": "Pink Land / Blue Water / Purple Sky",
+    "shell_requirement": "未確認",
+    "field": "Sky Field",
+    "species": "Mineral",
+    "evolves_from": "Sky Kid",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "indeterminable",
+    "connection_requirement": "未確認",
+    "other_requirement": "Cannot evolve into Yayacorntchi",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Meowtchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Pink Land / Blue Water / Purple Sky",
+    "shell_requirement": "未確認",
+    "field": "Land Field",
+    "species": "Roar",
+    "evolves_from": "Roar Young",
+    "care_tier": "Tier 1",
+    "care_mistakes": "0",
+    "perfect_care": true,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "未確認",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Pochitchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Pink Land / Blue Water / Purple Sky",
+    "shell_requirement": "未確認",
+    "field": "Land Field",
+    "species": "Roar",
+    "evolves_from": "Roar Young",
+    "care_tier": "Tier 2",
+    "care_mistakes": "0-1",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "未確認",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Gumax",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Pink Land / Blue Water / Purple Sky",
+    "shell_requirement": "未確認",
+    "field": "Land Field",
+    "species": "Roar",
+    "evolves_from": "Roar Young",
+    "care_tier": "Tier 3",
+    "care_mistakes": "2-5",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "未確認",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Ratchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Pink Land / Blue Water / Purple Sky",
+    "shell_requirement": "未確認",
+    "field": "Land Field",
+    "species": "Roar",
+    "evolves_from": "Roar Young",
+    "care_tier": "Tier 4",
+    "care_mistakes": "6+",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "未確認",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Mametchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Pink Land / Blue Water / Purple Sky",
+    "shell_requirement": "未確認",
+    "field": "Land Field",
+    "species": "Toddle",
+    "evolves_from": "Toddle Young",
+    "care_tier": "Tier 1",
+    "care_mistakes": "0",
+    "perfect_care": true,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "未確認",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Mimitchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Pink Land / Blue Water / Purple Sky",
+    "shell_requirement": "未確認",
+    "field": "Land Field",
+    "species": "Toddle",
+    "evolves_from": "Toddle Young",
+    "care_tier": "Tier 2",
+    "care_mistakes": "0-1",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "未確認",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Molmotchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Pink Land / Blue Water / Purple Sky",
+    "shell_requirement": "未確認",
+    "field": "Land Field",
+    "species": "Toddle",
+    "evolves_from": "Toddle Young",
+    "care_tier": "Tier 3",
+    "care_mistakes": "2-5",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "未確認",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Sheeptchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Pink Land / Blue Water / Purple Sky",
+    "shell_requirement": "未確認",
+    "field": "Land Field",
+    "species": "Toddle",
+    "evolves_from": "Toddle Young",
+    "care_tier": "Tier 4",
+    "care_mistakes": "6+",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "未確認",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Leopatchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Pink Land / Blue Water / Purple Sky",
+    "shell_requirement": "未確認",
+    "field": "Land Field",
+    "species": "Lick",
+    "evolves_from": "Lick Young",
+    "care_tier": "Tier 1",
+    "care_mistakes": "0",
+    "perfect_care": true,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "未確認",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Sebiretchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Pink Land / Blue Water / Purple Sky",
+    "shell_requirement": "未確認",
+    "field": "Land Field",
+    "species": "Lick",
+    "evolves_from": "Lick Young",
+    "care_tier": "Tier 2",
+    "care_mistakes": "0-1",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "未確認",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Elizardotchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Pink Land / Blue Water / Purple Sky",
+    "shell_requirement": "未確認",
+    "field": "Land Field",
+    "species": "Lick",
+    "evolves_from": "Lick Young",
+    "care_tier": "Tier 3",
+    "care_mistakes": "2-5",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "未確認",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Heavytchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Pink Land / Blue Water / Purple Sky",
+    "shell_requirement": "未確認",
+    "field": "Land Field",
+    "species": "Lick",
+    "evolves_from": "Lick Young",
+    "care_tier": "Tier 4",
+    "care_mistakes": "6+",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "未確認",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Furawatchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Pink Land / Blue Water / Purple Sky",
+    "shell_requirement": "未確認",
+    "field": "Land Field",
+    "species": "Sprout",
+    "evolves_from": "Sprout Young",
+    "care_tier": "Tier 1",
+    "care_mistakes": "0",
+    "perfect_care": true,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "未確認",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Potsunentchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Pink Land / Blue Water / Purple Sky",
+    "shell_requirement": "未確認",
+    "field": "Land Field",
+    "species": "Sprout",
+    "evolves_from": "Sprout Young",
+    "care_tier": "Tier 2",
+    "care_mistakes": "0-1",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "未確認",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Tustustchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Pink Land / Blue Water / Purple Sky",
+    "shell_requirement": "未確認",
+    "field": "Land Field",
+    "species": "Sprout",
+    "evolves_from": "Sprout Young",
+    "care_tier": "Tier 3",
+    "care_mistakes": "2-5",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "未確認",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Shigemi-san",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Pink Land / Blue Water / Purple Sky",
+    "shell_requirement": "未確認",
+    "field": "Land Field",
+    "species": "Sprout",
+    "evolves_from": "Sprout Young",
+    "care_tier": "Tier 4",
+    "care_mistakes": "6+",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "未確認",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Chodracotchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Pink Land / Blue Water / Purple Sky",
+    "shell_requirement": "未確認",
+    "field": "Land Field",
+    "species": "???",
+    "evolves_from": "??? Young",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "Connect a Pink Land version with two different versions during the Young Stage Cannot evolve from Sprout Young",
+    "other_requirement": "未確認",
+    "secret": true,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Irukatchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Pink Land / Blue Water / Purple Sky",
+    "shell_requirement": "未確認",
+    "field": "Water Field",
+    "species": "Glide",
+    "evolves_from": "Glide Young",
+    "care_tier": "Tier 1",
+    "care_mistakes": "0",
+    "perfect_care": true,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "未確認",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Kametchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Pink Land / Blue Water / Purple Sky",
+    "shell_requirement": "未確認",
+    "field": "Water Field",
+    "species": "Glide",
+    "evolves_from": "Glide Young",
+    "care_tier": "Tier 2",
+    "care_mistakes": "0-1",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "未確認",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Kujiratchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Pink Land / Blue Water / Purple Sky",
+    "shell_requirement": "未確認",
+    "field": "Water Field",
+    "species": "Glide",
+    "evolves_from": "Glide Young",
+    "care_tier": "Tier 3",
+    "care_mistakes": "2-5",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "未確認",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Uruotchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Pink Land / Blue Water / Purple Sky",
+    "shell_requirement": "未確認",
+    "field": "Water Field",
+    "species": "Glide",
+    "evolves_from": "Glide Young",
+    "care_tier": "Tier 4",
+    "care_mistakes": "6+",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "未確認",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Axolopatchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Pink Land / Blue Water / Purple Sky",
+    "shell_requirement": "未確認",
+    "field": "Water Field",
+    "species": "Leap",
+    "evolves_from": "Leap Young",
+    "care_tier": "Tier 1",
+    "care_mistakes": "0",
+    "perfect_care": true,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "未確認",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Imoritchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Pink Land / Blue Water / Purple Sky",
+    "shell_requirement": "未確認",
+    "field": "Water Field",
+    "species": "Leap",
+    "evolves_from": "Leap Young",
+    "care_tier": "Tier 2",
+    "care_mistakes": "0-1",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "未確認",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Kawazutchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Pink Land / Blue Water / Purple Sky",
+    "shell_requirement": "未確認",
+    "field": "Water Field",
+    "species": "Leap",
+    "evolves_from": "Leap Young",
+    "care_tier": "Tier 3",
+    "care_mistakes": "2-5",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "未確認",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Beavertchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Pink Land / Blue Water / Purple Sky",
+    "shell_requirement": "未確認",
+    "field": "Water Field",
+    "species": "Leap",
+    "evolves_from": "Leap Young",
+    "care_tier": "Tier 4",
+    "care_mistakes": "6+",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "未確認",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Tachutchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Pink Land / Blue Water / Purple Sky",
+    "shell_requirement": "未確認",
+    "field": "Water Field",
+    "species": "Paddle",
+    "evolves_from": "Paddle Young",
+    "care_tier": "Tier 1",
+    "care_mistakes": "0",
+    "perfect_care": true,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "未確認",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Sharktchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Pink Land / Blue Water / Purple Sky",
+    "shell_requirement": "未確認",
+    "field": "Water Field",
+    "species": "Paddle",
+    "evolves_from": "Paddle Young",
+    "care_tier": "Tier 2",
+    "care_mistakes": "0-1",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "未確認",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Ankotchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Pink Land / Blue Water / Purple Sky",
+    "shell_requirement": "未確認",
+    "field": "Water Field",
+    "species": "Paddle",
+    "evolves_from": "Paddle Young",
+    "care_tier": "Tier 3",
+    "care_mistakes": "2-5",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "未確認",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Otototchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Pink Land / Blue Water / Purple Sky",
+    "shell_requirement": "未確認",
+    "field": "Water Field",
+    "species": "Paddle",
+    "evolves_from": "Paddle Young",
+    "care_tier": "Tier 4",
+    "care_mistakes": "6+",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "未確認",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Kuraratchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Pink Land / Blue Water / Purple Sky",
+    "shell_requirement": "未確認",
+    "field": "Water Field",
+    "species": "Float",
+    "evolves_from": "Float Young",
+    "care_tier": "Tier 1",
+    "care_mistakes": "0",
+    "perfect_care": true,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "未確認",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Mendakotchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Pink Land / Blue Water / Purple Sky",
+    "shell_requirement": "未確認",
+    "field": "Water Field",
+    "species": "Float",
+    "evolves_from": "Float Young",
+    "care_tier": "Tier 2",
+    "care_mistakes": "0-1",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "未確認",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Amefuratchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Pink Land / Blue Water / Purple Sky",
+    "shell_requirement": "未確認",
+    "field": "Water Field",
+    "species": "Float",
+    "evolves_from": "Float Young",
+    "care_tier": "Tier 3",
+    "care_mistakes": "2-5",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "未確認",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Gusokutchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Pink Land / Blue Water / Purple Sky",
+    "shell_requirement": "未確認",
+    "field": "Water Field",
+    "species": "Float",
+    "evolves_from": "Float Young",
+    "care_tier": "Tier 4",
+    "care_mistakes": "6+",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "未確認",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Mermarintchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Pink Land / Blue Water / Purple Sky",
+    "shell_requirement": "未確認",
+    "field": "Water Field",
+    "species": "???",
+    "evolves_from": "??? Young",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "Connect a Blue Water version with two different versions during the Young Stage Cannot evolve from Float Young",
+    "other_requirement": "未確認",
+    "secret": true,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Horhotchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Pink Land / Blue Water / Purple Sky",
+    "shell_requirement": "未確認",
+    "field": "Sky Field",
+    "species": "Flap",
+    "evolves_from": "Flap Young",
+    "care_tier": "Tier 1",
+    "care_mistakes": "0",
+    "perfect_care": true,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "未確認",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Mongatchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Pink Land / Blue Water / Purple Sky",
+    "shell_requirement": "未確認",
+    "field": "Sky Field",
+    "species": "Flap",
+    "evolves_from": "Flap Young",
+    "care_tier": "Tier 2",
+    "care_mistakes": "0-1",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "未確認",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Eagletchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Pink Land / Blue Water / Purple Sky",
+    "shell_requirement": "未確認",
+    "field": "Sky Field",
+    "species": "Flap",
+    "evolves_from": "Flap Young",
+    "care_tier": "Tier 3",
+    "care_mistakes": "2-5",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "未確認",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Batchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Pink Land / Blue Water / Purple Sky",
+    "shell_requirement": "未確認",
+    "field": "Sky Field",
+    "species": "Flap",
+    "evolves_from": "Flap Young",
+    "care_tier": "Tier 4",
+    "care_mistakes": "6+",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "未確認",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Peacotchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Pink Land / Blue Water / Purple Sky",
+    "shell_requirement": "未確認",
+    "field": "Sky Field",
+    "species": "Chirp",
+    "evolves_from": "Chirp Young",
+    "care_tier": "Tier 1",
+    "care_mistakes": "0",
+    "perfect_care": true,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "未確認",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Batatchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Pink Land / Blue Water / Purple Sky",
+    "shell_requirement": "未確認",
+    "field": "Sky Field",
+    "species": "Chirp",
+    "evolves_from": "Chirp Young",
+    "care_tier": "Tier 2",
+    "care_mistakes": "0-1",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "未確認",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Kuchipatchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Pink Land / Blue Water / Purple Sky",
+    "shell_requirement": "未確認",
+    "field": "Sky Field",
+    "species": "Chirp",
+    "evolves_from": "Chirp Young",
+    "care_tier": "Tier 3",
+    "care_mistakes": "2-5",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "未確認",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Kiwitchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Pink Land / Blue Water / Purple Sky",
+    "shell_requirement": "未確認",
+    "field": "Sky Field",
+    "species": "Chirp",
+    "evolves_from": "Chirp Young",
+    "care_tier": "Tier 4",
+    "care_mistakes": "6+",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "未確認",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Papillotchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Pink Land / Blue Water / Purple Sky",
+    "shell_requirement": "未確認",
+    "field": "Sky Field",
+    "species": "Flutter",
+    "evolves_from": "Flutter Young",
+    "care_tier": "Tier 1",
+    "care_mistakes": "0",
+    "perfect_care": true,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "未確認",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Kabutotchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Pink Land / Blue Water / Purple Sky",
+    "shell_requirement": "未確認",
+    "field": "Sky Field",
+    "species": "Flutter",
+    "evolves_from": "Flutter Young",
+    "care_tier": "Tier 2",
+    "care_mistakes": "0-1",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "未確認",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Tentotchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Pink Land / Blue Water / Purple Sky",
+    "shell_requirement": "未確認",
+    "field": "Sky Field",
+    "species": "Flutter",
+    "evolves_from": "Flutter Young",
+    "care_tier": "Tier 3",
+    "care_mistakes": "2-5",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "未確認",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Hatchitchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Pink Land / Blue Water / Purple Sky",
+    "shell_requirement": "未確認",
+    "field": "Sky Field",
+    "species": "Flutter",
+    "evolves_from": "Flutter Young",
+    "care_tier": "Tier 4",
+    "care_mistakes": "6+",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "未確認",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Gemtchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Pink Land / Blue Water / Purple Sky",
+    "shell_requirement": "未確認",
+    "field": "Sky Field",
+    "species": "Mineral",
+    "evolves_from": "Mineral Young",
+    "care_tier": "Tier 1",
+    "care_mistakes": "0",
+    "perfect_care": true,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "未確認",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Oretatchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Pink Land / Blue Water / Purple Sky",
+    "shell_requirement": "未確認",
+    "field": "Sky Field",
+    "species": "Mineral",
+    "evolves_from": "Mineral Young",
+    "care_tier": "Tier 2",
+    "care_mistakes": "0-1",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "未確認",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Ishikorotchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Pink Land / Blue Water / Purple Sky",
+    "shell_requirement": "未確認",
+    "field": "Sky Field",
+    "species": "Mineral",
+    "evolves_from": "Mineral Young",
+    "care_tier": "Tier 3",
+    "care_mistakes": "2-5",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "未確認",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Magmatchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Pink Land / Blue Water / Purple Sky",
+    "shell_requirement": "未確認",
+    "field": "Sky Field",
+    "species": "Mineral",
+    "evolves_from": "Mineral Young",
+    "care_tier": "Tier 4",
+    "care_mistakes": "6+",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "未確認",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Yayacorntchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Pink Land / Blue Water / Purple Sky",
+    "shell_requirement": "未確認",
+    "field": "Sky Field",
+    "species": "???",
+    "evolves_from": "??? Young",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "Connect a Purple Sky version with two different versions during the Young Stage Cannot evolve from Rocky Young",
+    "other_requirement": "未確認",
+    "secret": true,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  }
+]

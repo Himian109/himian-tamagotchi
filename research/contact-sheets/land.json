@@ -1,0 +1,149 @@
+[
+  {
+    "index": 1,
+    "id": "lick-young-lick-young-png",
+    "english_name": "Lick Young",
+    "stage": "Young",
+    "local_asset": "/home/ubuntu/webdev-static-assets/tamagotchi-catalog/lick-young-lick-young-png.png"
+  },
+  {
+    "index": 2,
+    "id": "roar-young-roar-young-png",
+    "english_name": "Roar Young",
+    "stage": "Young",
+    "local_asset": "/home/ubuntu/webdev-static-assets/tamagotchi-catalog/roar-young-roar-young-png.png"
+  },
+  {
+    "index": 3,
+    "id": "sprout-young-sprout-young-png",
+    "english_name": "Sprout Young",
+    "stage": "Young",
+    "local_asset": "/home/ubuntu/webdev-static-assets/tamagotchi-catalog/sprout-young-sprout-young-png.png"
+  },
+  {
+    "index": 4,
+    "id": "toddle-young-toddle-young-png",
+    "english_name": "Toddle Young",
+    "stage": "Young",
+    "local_asset": "/home/ubuntu/webdev-static-assets/tamagotchi-catalog/toddle-young-toddle-young-png.png"
+  },
+  {
+    "index": 5,
+    "id": "chodracotchi-chodracotchi-paradise-png",
+    "english_name": "Chodracotchi",
+    "stage": "Adult",
+    "local_asset": "/home/ubuntu/webdev-static-assets/tamagotchi-catalog/chodracotchi-chodracotchi-paradise-png.png"
+  },
+  {
+    "index": 6,
+    "id": "elizardotchi-elizardotchi-paradise-png",
+    "english_name": "Elizardotchi",
+    "stage": "Adult",
+    "local_asset": "/home/ubuntu/webdev-static-assets/tamagotchi-catalog/elizardotchi-elizardotchi-paradise-png.png"
+  },
+  {
+    "index": 7,
+    "id": "furawatchi-furawatchi-paradise-artwork-png",
+    "english_name": "Furawatchi",
+    "stage": "Adult",
+    "local_asset": "/home/ubuntu/webdev-static-assets/tamagotchi-catalog/furawatchi-furawatchi-paradise-artwork-png.png"
+  },
+  {
+    "index": 8,
+    "id": "gumax-gumax-paradise-png",
+    "english_name": "Gumax",
+    "stage": "Adult",
+    "local_asset": "/home/ubuntu/webdev-static-assets/tamagotchi-catalog/gumax-gumax-paradise-png.png"
+  },
+  {
+    "index": 9,
+    "id": "heavytchi-heavytchi-paradise-png",
+    "english_name": "Heavytchi",
+    "stage": "Adult",
+    "local_asset": "/home/ubuntu/webdev-static-assets/tamagotchi-catalog/heavytchi-heavytchi-paradise-png.png"
+  },
+  {
+    "index": 10,
+    "id": "leopatchi-leopatchi-paradise-png",
+    "english_name": "Leopatchi",
+    "stage": "Adult",
+    "local_asset": "/home/ubuntu/webdev-static-assets/tamagotchi-catalog/leopatchi-leopatchi-paradise-png.png"
+  },
+  {
+    "index": 11,
+    "id": "mametchi-mametchi-paradise-png",
+    "english_name": "Mametchi",
+    "stage": "Adult",
+    "local_asset": "/home/ubuntu/webdev-static-assets/tamagotchi-catalog/mametchi-mametchi-paradise-png.png"
+  },
+  {
+    "index": 12,
+    "id": "meowtchi-meowtchi-png",
+    "english_name": "Meowtchi",
+    "stage": "Adult",
+    "local_asset": "/home/ubuntu/webdev-static-assets/tamagotchi-catalog/meowtchi-meowtchi-png.png"
+  },
+  {
+    "index": 13,
+    "id": "mimitchi-mimitchi-paradise-png",
+    "english_name": "Mimitchi",
+    "stage": "Adult",
+    "local_asset": "/home/ubuntu/webdev-static-assets/tamagotchi-catalog/mimitchi-mimitchi-paradise-png.png"
+  },
+  {
+    "index": 14,
+    "id": "molmotchi-molmotchi-paradise-png",
+    "english_name": "Molmotchi",
+    "stage": "Adult",
+    "local_asset": "/home/ubuntu/webdev-static-assets/tamagotchi-catalog/molmotchi-molmotchi-paradise-png.png"
+  },
+  {
+    "index": 15,
+    "id": "pochitchi-pochitchi-paradise-png",
+    "english_name": "Pochitchi",
+    "stage": "Adult",
+    "local_asset": "/home/ubuntu/webdev-static-assets/tamagotchi-catalog/pochitchi-pochitchi-paradise-png.png"
+  },
+  {
+    "index": 16,
+    "id": "potsunentchi-potsunentchi-paradise-png",
+    "english_name": "Potsunentchi",
+    "stage": "Adult",
+    "local_asset": "/home/ubuntu/webdev-static-assets/tamagotchi-catalog/potsunentchi-potsunentchi-paradise-png.png"
+  },
+  {
+    "index": 17,
+    "id": "ratchi-ratchi-paradise-png",
+    "english_name": "Ratchi",
+    "stage": "Adult",
+    "local_asset": "/home/ubuntu/webdev-static-assets/tamagotchi-catalog/ratchi-ratchi-paradise-png.png"
+  },
+  {
+    "index": 18,
+    "id": "sebiretchi-sebiretchi-paradise-png",
+    "english_name": "Sebiretchi",
+    "stage": "Adult",
+    "local_asset": "/home/ubuntu/webdev-static-assets/tamagotchi-catalog/sebiretchi-sebiretchi-paradise-png.png"
+  },
+  {
+    "index": 19,
+    "id": "sheeptchi-sheeptchi-paradise-png",
+    "english_name": "Sheeptchi",
+    "stage": "Adult",
+    "local_asset": "/home/ubuntu/webdev-static-assets/tamagotchi-catalog/sheeptchi-sheeptchi-paradise-png.png"
+  },
+  {
+    "index": 20,
+    "id": "shigemi-san-shigemisan-paradise-png",
+    "english_name": "Shigemi-san",
+    "stage": "Adult",
+    "local_asset": "/home/ubuntu/webdev-static-assets/tamagotchi-catalog/shigemi-san-shigemisan-paradise-png.png"
+  },
+  {
+    "index": 21,
+    "id": "tustustchi-tustustchi-paradise-png",
+    "english_name": "Tustustchi",
+    "stage": "Adult",
+    "local_asset": "/home/ubuntu/webdev-static-assets/tamagotchi-catalog/tustustchi-tustustchi-paradise-png.png"
+  }
+]

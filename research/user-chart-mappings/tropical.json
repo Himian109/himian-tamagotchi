@@ -1,0 +1,233 @@
+[
+  {
+    "field": "Tropical",
+    "row": 1,
+    "slot": "young",
+    "catalog_id": "lick-young-tropicallickyoungparadiseartwork-png",
+    "english_name": "Lick Young",
+    "user_name_simplified": "羔羔",
+    "user_name_traditional": "羔羔",
+    "visual_evidence": "Name translation/phonetics match",
+    "confidence": "high"
+  },
+  {
+    "field": "Tropical",
+    "row": 1,
+    "slot": "adult_perfect",
+    "catalog_id": "tropical-meowtchi-tropicalmeowtchiparadiseartwork-png",
+    "english_name": "Tropical Meowtchi",
+    "user_name_simplified": "南方猫猫吉",
+    "user_name_traditional": "南方貓貓吉",
+    "visual_evidence": "Name translation/phonetics match",
+    "confidence": "high"
+  },
+  {
+    "field": "Tropical",
+    "row": 1,
+    "slot": "adult_0_1",
+    "catalog_id": "madillotchi-madillotchiparadiseartwork-png",
+    "english_name": "Madillotchi",
+    "user_name_simplified": "犰狳吉",
+    "user_name_traditional": "犰狳吉",
+    "visual_evidence": "Name translation/phonetics match",
+    "confidence": "high"
+  },
+  {
+    "field": "Tropical",
+    "row": 1,
+    "slot": "adult_2_5",
+    "catalog_id": "tarantytchi-tarantytchiparadiseartwork-png",
+    "english_name": "Tarantytchi",
+    "user_name_simplified": "塔兰托吉",
+    "user_name_traditional": "塔蘭托吉",
+    "visual_evidence": "Name translation/phonetics match",
+    "confidence": "high"
+  },
+  {
+    "field": "Tropical",
+    "row": 1,
+    "slot": "adult_6",
+    "catalog_id": "crocotchi-crocotchiparadiseartwork-png",
+    "english_name": "Crocotchi",
+    "user_name_simplified": "鳄鱼吉",
+    "user_name_traditional": "鱷魚吉",
+    "visual_evidence": "Name translation/phonetics match",
+    "confidence": "high"
+  },
+  {
+    "field": "Tropical",
+    "row": 2,
+    "slot": "young",
+    "catalog_id": "toddle-young-tropicaltoddleyoungparadiseartwork-png",
+    "english_name": "Toddle Young",
+    "user_name_simplified": "特库",
+    "user_name_traditional": "特庫",
+    "visual_evidence": "Name translation/phonetics match",
+    "confidence": "high"
+  },
+  {
+    "field": "Tropical",
+    "row": 2,
+    "slot": "adult_perfect",
+    "catalog_id": "tropical-mametchi-tropicalmametchiparadiseartwork-png",
+    "english_name": "Tropical Mametchi",
+    "user_name_simplified": "南方豆丁吉",
+    "user_name_traditional": "南方豆丁吉",
+    "visual_evidence": "Name translation/phonetics match",
+    "confidence": "high"
+  },
+  {
+    "field": "Tropical",
+    "row": 2,
+    "slot": "adult_0_1",
+    "catalog_id": "parorotchi-parorotchiparadiseartwork-png",
+    "english_name": "Parorotchi",
+    "user_name_simplified": "鹦鹉吉",
+    "user_name_traditional": "鸚鵡吉",
+    "visual_evidence": "Name translation/phonetics match",
+    "confidence": "high"
+  },
+  {
+    "field": "Tropical",
+    "row": 2,
+    "slot": "adult_2_5",
+    "catalog_id": "tenatchi-tenatchiparadiseartwork-png",
+    "english_name": "Tenatchi",
+    "user_name_simplified": "长臂吉",
+    "user_name_traditional": "長臂吉",
+    "visual_evidence": "Name translation/phonetics match",
+    "confidence": "high"
+  },
+  {
+    "field": "Tropical",
+    "row": 2,
+    "slot": "adult_6",
+    "catalog_id": "namakemotchi-namakemotchiparadiseartwork-png",
+    "english_name": "Namakemotchi",
+    "user_name_simplified": "树懒吉",
+    "user_name_traditional": "樹懶吉",
+    "visual_evidence": "Name translation/phonetics match",
+    "confidence": "high"
+  },
+  {
+    "field": "Tropical",
+    "row": 3,
+    "slot": "young",
+    "catalog_id": "roar-young-tropicalroaryoungparadiseartwork-png",
+    "english_name": "Roar Young",
+    "user_name_simplified": "佩洛",
+    "user_name_traditional": "佩洛",
+    "visual_evidence": "Name translation/phonetics match",
+    "confidence": "high"
+  },
+  {
+    "field": "Tropical",
+    "row": 3,
+    "slot": "adult_perfect",
+    "catalog_id": "kuikuitchi-kuikuitchiparadiseartwork-png",
+    "english_name": "Kuikuitchi",
+    "user_name_simplified": "食蚁吉",
+    "user_name_traditional": "食蟻吉",
+    "visual_evidence": "Name translation/phonetics match",
+    "confidence": "high"
+  },
+  {
+    "field": "Tropical",
+    "row": 3,
+    "slot": "adult_0_1",
+    "catalog_id": "poizutchi-poizutchiparadiseartwork-png",
+    "english_name": "Poizutchi",
+    "user_name_simplified": "箭蛙吉",
+    "user_name_traditional": "箭蛙吉",
+    "visual_evidence": "Name translation/phonetics match",
+    "confidence": "high"
+  },
+  {
+    "field": "Tropical",
+    "row": 3,
+    "slot": "adult_2_5",
+    "catalog_id": "chameleotchi-chameleotchi-png",
+    "english_name": "Chameleotchi",
+    "user_name_simplified": "变色龙吉",
+    "user_name_traditional": "變色龍吉",
+    "visual_evidence": "Name translation/phonetics match",
+    "confidence": "high"
+  },
+  {
+    "field": "Tropical",
+    "row": 3,
+    "slot": "adult_6",
+    "catalog_id": "iguanatchi-iguanatchiparadiseartwork-png",
+    "english_name": "Iguanatchi",
+    "user_name_simplified": "鬣蜥吉",
+    "user_name_traditional": "鬣蜥吉",
+    "visual_evidence": "Name translation/phonetics match",
+    "confidence": "high"
+  },
+  {
+    "field": "Tropical",
+    "row": 4,
+    "slot": "young",
+    "catalog_id": "sprout-young-tropicalsproutyoungparadiseartwork-png",
+    "english_name": "Sprout Young",
+    "user_name_simplified": "扭奇",
+    "user_name_traditional": "扭奇",
+    "visual_evidence": "Name translation/phonetics match",
+    "confidence": "high"
+  },
+  {
+    "field": "Tropical",
+    "row": 4,
+    "slot": "adult_perfect",
+    "catalog_id": "yashikitchi-yashikitchiparadiseartwork-png",
+    "english_name": "Yashikitchi",
+    "user_name_simplified": "椰树吉",
+    "user_name_traditional": "椰樹吉",
+    "visual_evidence": "Name translation/phonetics match",
+    "confidence": "high"
+  },
+  {
+    "field": "Tropical",
+    "row": 4,
+    "slot": "adult_0_1",
+    "catalog_id": "tropical-potsunentchi-tropicalpotsunentchiparadiseartwork-png",
+    "english_name": "Tropical Potsunentchi",
+    "user_name_simplified": "南方一朵吉",
+    "user_name_traditional": "南方一朵吉",
+    "visual_evidence": "Name translation/phonetics match",
+    "confidence": "high"
+  },
+  {
+    "field": "Tropical",
+    "row": 4,
+    "slot": "adult_2_5",
+    "catalog_id": "ananatchi-ananatchiparadiseartwork-png",
+    "english_name": "Ananatchi",
+    "user_name_simplified": "菠萝吉",
+    "user_name_traditional": "菠蘿吉",
+    "visual_evidence": "Name translation/phonetics match",
+    "confidence": "high"
+  },
+  {
+    "field": "Tropical",
+    "row": 4,
+    "slot": "adult_6",
+    "catalog_id": "avovotchi-avovotchiparadiseartwork-png",
+    "english_name": "Avovotchi",
+    "user_name_simplified": "牛油果吉",
+    "user_name_traditional": "牛油果吉",
+    "visual_evidence": "Name translation/phonetics match",
+    "confidence": "high"
+  },
+  {
+    "field": "Tropical",
+    "row": 5,
+    "slot": "hidden",
+    "catalog_id": "manapatchi-manapatchiparadiseartwork-png",
+    "english_name": "Manapatchi",
+    "user_name_simplified": "马纳叶吉",
+    "user_name_traditional": "馬納葉吉",
+    "visual_evidence": "Name translation/phonetics match",
+    "confidence": "high"
+  }
+]

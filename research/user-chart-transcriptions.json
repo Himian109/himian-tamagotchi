@@ -1,0 +1,1181 @@
+{
+  "total": 126,
+  "charts": [
+    {
+      "field": "Land",
+      "imagePath": "/home/ubuntu/upload/photo_2026-08-29_13-58-12.jpg",
+      "order": 1,
+      "items": [
+        {
+          "name": "羔羔",
+          "row": 1,
+          "slot": "young",
+          "appearance": "粉色圓形生物",
+          "confidence": 1,
+          "chinese_name": "羔羔",
+          "uncertain": false
+        },
+        {
+          "name": "猫猫吉",
+          "row": 1,
+          "slot": "adult_perfect",
+          "appearance": "粉色貓咪",
+          "confidence": 1,
+          "chinese_name": "猫猫吉",
+          "uncertain": false
+        },
+        {
+          "name": "波吉",
+          "row": 1,
+          "slot": "adult_0_1",
+          "appearance": "黃色狗",
+          "confidence": 1,
+          "chinese_name": "波吉",
+          "uncertain": false
+        },
+        {
+          "name": "叉叉熊",
+          "row": 1,
+          "slot": "adult_2_5",
+          "appearance": "藍色熊，胸口有叉",
+          "confidence": 1,
+          "chinese_name": "叉叉熊",
+          "uncertain": false
+        },
+        {
+          "name": "乐乐吉",
+          "row": 1,
+          "slot": "adult_6",
+          "appearance": "粉色老鼠",
+          "confidence": 1,
+          "chinese_name": "乐乐吉",
+          "uncertain": false
+        },
+        {
+          "name": "特库特库",
+          "row": 2,
+          "slot": "young",
+          "appearance": "黃色半圓生物",
+          "confidence": 1,
+          "chinese_name": "特库特库",
+          "uncertain": false
+        },
+        {
+          "name": "豆丁吉",
+          "row": 2,
+          "slot": "adult_perfect",
+          "appearance": "黃色臉藍色耳朵",
+          "confidence": 1,
+          "chinese_name": "豆丁吉",
+          "uncertain": false
+        },
+        {
+          "name": "大耳吉",
+          "row": 2,
+          "slot": "adult_0_1",
+          "appearance": "白色生物藍色長耳",
+          "confidence": 1,
+          "chinese_name": "大耳吉",
+          "uncertain": false
+        },
+        {
+          "name": "摩尔吉",
+          "row": 2,
+          "slot": "adult_2_5",
+          "appearance": "天竺鼠",
+          "confidence": 1,
+          "chinese_name": "摩尔吉",
+          "uncertain": false
+        },
+        {
+          "name": "咩咩吉",
+          "row": 2,
+          "slot": "adult_6",
+          "appearance": "綿羊",
+          "confidence": 1,
+          "chinese_name": "咩咩吉",
+          "uncertain": false
+        },
+        {
+          "name": "佩洛佩洛",
+          "row": 3,
+          "slot": "young",
+          "appearance": "橘色生物",
+          "confidence": 1,
+          "chinese_name": "佩洛佩洛",
+          "uncertain": false
+        },
+        {
+          "name": "守宫吉",
+          "row": 3,
+          "slot": "adult_perfect",
+          "appearance": "橘色守宮",
+          "confidence": 1,
+          "chinese_name": "守宫吉",
+          "uncertain": false
+        },
+        {
+          "name": "龙崽吉",
+          "row": 3,
+          "slot": "adult_0_1",
+          "appearance": "黃色恐龍",
+          "confidence": 1,
+          "chinese_name": "龙崽吉",
+          "uncertain": false
+        },
+        {
+          "name": "蜥蜥吉",
+          "row": 3,
+          "slot": "adult_2_5",
+          "appearance": "藍色傘蜥蜴",
+          "confidence": 1,
+          "chinese_name": "蜥蜥吉",
+          "uncertain": false
+        },
+        {
+          "name": "蛇蛇吉",
+          "row": 3,
+          "slot": "adult_6",
+          "appearance": "綠色蛇",
+          "confidence": 1,
+          "chinese_name": "蛇蛇吉",
+          "uncertain": false
+        },
+        {
+          "name": "扭奇扭奇",
+          "row": 4,
+          "slot": "young",
+          "appearance": "藍色水滴頭頂有葉子",
+          "confidence": 1,
+          "chinese_name": "扭奇扭奇",
+          "uncertain": false
+        },
+        {
+          "name": "芙朵吉",
+          "row": 4,
+          "slot": "adult_perfect",
+          "appearance": "粉色花朵生物",
+          "confidence": 1,
+          "chinese_name": "芙朵吉",
+          "uncertain": false
+        },
+        {
+          "name": "一朵吉",
+          "row": 4,
+          "slot": "adult_0_1",
+          "appearance": "藍色花朵生物",
+          "confidence": 1,
+          "chinese_name": "一朵吉",
+          "uncertain": false
+        },
+        {
+          "name": "刺刺吉",
+          "row": 4,
+          "slot": "adult_2_5",
+          "appearance": "仙人掌",
+          "confidence": 1,
+          "chinese_name": "刺刺吉",
+          "uncertain": false
+        },
+        {
+          "name": "灌木吉",
+          "row": 4,
+          "slot": "adult_6",
+          "appearance": "綠色灌木生物",
+          "confidence": 1,
+          "chinese_name": "灌木吉",
+          "uncertain": false
+        },
+        {
+          "name": "小龙吉",
+          "row": null,
+          "slot": "hidden",
+          "appearance": "粉色小龍",
+          "confidence": 1,
+          "chinese_name": "小龙吉",
+          "uncertain": false
+        }
+      ]
+    },
+    {
+      "field": "Forest",
+      "imagePath": "/home/ubuntu/upload/photo_2026-08-29_13-58-10.jpg",
+      "order": 2,
+      "items": [
+        {
+          "name": "羔羔",
+          "row": 1,
+          "slot": "young",
+          "appearance": "粉色圆球状",
+          "confidence": 1,
+          "chinese_name": "羔羔",
+          "uncertain": false
+        },
+        {
+          "name": "伙伙吉",
+          "row": 1,
+          "slot": "adult_perfect",
+          "appearance": "粉紫色猫头鹰",
+          "confidence": 1,
+          "chinese_name": "伙伙吉",
+          "uncertain": false
+        },
+        {
+          "name": "狐狐吉",
+          "row": 1,
+          "slot": "adult_0_1",
+          "appearance": "黄蓝色狐狸",
+          "confidence": 1,
+          "chinese_name": "狐狐吉",
+          "uncertain": false
+        },
+        {
+          "name": "老虎吉",
+          "row": 1,
+          "slot": "adult_2_5",
+          "appearance": "橙色老虎",
+          "confidence": 1,
+          "chinese_name": "老虎吉",
+          "uncertain": false
+        },
+        {
+          "name": "狸猫吉",
+          "row": 1,
+          "slot": "adult_6",
+          "appearance": "粉色胖狸猫",
+          "confidence": 1,
+          "chinese_name": "狸猫吉",
+          "uncertain": false
+        },
+        {
+          "name": "特库特库",
+          "row": 2,
+          "slot": "young",
+          "appearance": "浅蓝色小圆块",
+          "confidence": 1,
+          "chinese_name": "特库特库",
+          "uncertain": false
+        },
+        {
+          "name": "小熊猫吉",
+          "row": 2,
+          "slot": "adult_perfect",
+          "appearance": "粉蓝相间小熊猫",
+          "confidence": 1,
+          "chinese_name": "小熊猫吉",
+          "uncertain": false
+        },
+        {
+          "name": "小鹿吉",
+          "row": 2,
+          "slot": "adult_0_1",
+          "appearance": "粉色小鹿",
+          "confidence": 1,
+          "chinese_name": "小鹿吉",
+          "uncertain": false
+        },
+        {
+          "name": "水牛吉",
+          "row": 2,
+          "slot": "adult_2_5",
+          "appearance": "蓝色水牛",
+          "confidence": 1,
+          "chinese_name": "水牛吉",
+          "uncertain": false
+        },
+        {
+          "name": "熊猫猪吉",
+          "row": 2,
+          "slot": "adult_6",
+          "appearance": "黑白熊猫花纹猪",
+          "confidence": 1,
+          "chinese_name": "熊猫猪吉",
+          "uncertain": false
+        },
+        {
+          "name": "皮优皮优",
+          "row": 3,
+          "slot": "young",
+          "appearance": "白色小鸟",
+          "confidence": 1,
+          "chinese_name": "皮优皮优",
+          "uncertain": false
+        },
+        {
+          "name": "鹊鹊吉",
+          "row": 3,
+          "slot": "adult_perfect",
+          "appearance": "蓝色喜鹊",
+          "confidence": 1,
+          "chinese_name": "鹊鹊吉",
+          "uncertain": false
+        },
+        {
+          "name": "朱鹭吉",
+          "row": 3,
+          "slot": "adult_0_1",
+          "appearance": "白色红脸朱鹭",
+          "confidence": 1,
+          "chinese_name": "朱鹭吉",
+          "uncertain": false
+        },
+        {
+          "name": "大嘴吉",
+          "row": 3,
+          "slot": "adult_2_5",
+          "appearance": "绿色大嘴鸟",
+          "confidence": 1,
+          "chinese_name": "大嘴吉",
+          "uncertain": false
+        },
+        {
+          "name": "麻雀吉",
+          "row": 3,
+          "slot": "adult_6",
+          "appearance": "胖麻雀",
+          "confidence": 1,
+          "chinese_name": "麻雀吉",
+          "uncertain": false
+        },
+        {
+          "name": "扭奇扭奇",
+          "row": 4,
+          "slot": "young",
+          "appearance": "粉色尖头小生物",
+          "confidence": 1,
+          "chinese_name": "扭奇扭奇",
+          "uncertain": false
+        },
+        {
+          "name": "香菇吉",
+          "row": 4,
+          "slot": "adult_perfect",
+          "appearance": "顶着香菇的小生物",
+          "confidence": 1,
+          "chinese_name": "香菇吉",
+          "uncertain": false
+        },
+        {
+          "name": "桃桃吉",
+          "row": 4,
+          "slot": "adult_0_1",
+          "appearance": "粉色桃子状",
+          "confidence": 1,
+          "chinese_name": "桃桃吉",
+          "uncertain": false
+        },
+        {
+          "name": "菜叶吉",
+          "row": 4,
+          "slot": "adult_2_5",
+          "appearance": "绿色菜叶状",
+          "confidence": 1,
+          "chinese_name": "菜叶吉",
+          "uncertain": false
+        },
+        {
+          "name": "跑萝吉",
+          "row": 4,
+          "slot": "adult_6",
+          "appearance": "白色萝卜状",
+          "confidence": 1,
+          "chinese_name": "跑萝吉",
+          "uncertain": false
+        },
+        {
+          "name": "立龙吉",
+          "row": 5,
+          "slot": "hidden",
+          "appearance": "绿色小龙",
+          "confidence": 1,
+          "chinese_name": "立龙吉",
+          "uncertain": false
+        }
+      ]
+    },
+    {
+      "field": "Sky",
+      "imagePath": "/home/ubuntu/upload/photo_2026-08-29_13-58-07.jpg",
+      "order": 3,
+      "items": [
+        {
+          "name": "帕塔帕塔",
+          "row": 1,
+          "slot": "young",
+          "appearance": "blue creature",
+          "confidence": "high",
+          "chinese_name": "帕塔帕塔",
+          "uncertain": false
+        },
+        {
+          "name": "伙伙吉",
+          "row": 1,
+          "slot": "adult_perfect",
+          "appearance": "blue owl",
+          "confidence": "high",
+          "chinese_name": "伙伙吉",
+          "uncertain": false
+        },
+        {
+          "name": "飞鼠吉",
+          "row": 1,
+          "slot": "adult_0_1",
+          "appearance": "white flying squirrel",
+          "confidence": "high",
+          "chinese_name": "飞鼠吉",
+          "uncertain": false
+        },
+        {
+          "name": "伊哥吉",
+          "row": 1,
+          "slot": "adult_2_5",
+          "appearance": "purple eagle",
+          "confidence": "high",
+          "chinese_name": "伊哥吉",
+          "uncertain": false
+        },
+        {
+          "name": "蝠吉",
+          "row": 1,
+          "slot": "adult_6",
+          "appearance": "dark blue bat",
+          "confidence": "high",
+          "chinese_name": "蝠吉",
+          "uncertain": false
+        },
+        {
+          "name": "皮优皮优",
+          "row": 2,
+          "slot": "young",
+          "appearance": "green bean",
+          "confidence": "high",
+          "chinese_name": "皮优皮优",
+          "uncertain": false
+        },
+        {
+          "name": "孔雀吉",
+          "row": 2,
+          "slot": "adult_perfect",
+          "appearance": "blue peacock",
+          "confidence": "high",
+          "chinese_name": "孔雀吉",
+          "uncertain": false
+        },
+        {
+          "name": "啪嗒吉",
+          "row": 2,
+          "slot": "adult_0_1",
+          "appearance": "yellow bird",
+          "confidence": "high",
+          "chinese_name": "啪嗒吉",
+          "uncertain": false
+        },
+        {
+          "name": "大嘴吉",
+          "row": 2,
+          "slot": "adult_2_5",
+          "appearance": "green big mouth bird",
+          "confidence": "high",
+          "chinese_name": "大嘴吉",
+          "uncertain": false
+        },
+        {
+          "name": "奇异吉",
+          "row": 2,
+          "slot": "adult_6",
+          "appearance": "green kiwi bird",
+          "confidence": "high",
+          "chinese_name": "奇异吉",
+          "uncertain": false
+        },
+        {
+          "name": "奔奔",
+          "row": 3,
+          "slot": "young",
+          "appearance": "yellow blob",
+          "confidence": "high",
+          "chinese_name": "奔奔",
+          "uncertain": false
+        },
+        {
+          "name": "蝶蝶吉",
+          "row": 3,
+          "slot": "adult_perfect",
+          "appearance": "butterfly",
+          "confidence": "high",
+          "chinese_name": "蝶蝶吉",
+          "uncertain": false
+        },
+        {
+          "name": "甲虫吉",
+          "row": 3,
+          "slot": "adult_0_1",
+          "appearance": "red beetle",
+          "confidence": "high",
+          "chinese_name": "甲虫吉",
+          "uncertain": false
+        },
+        {
+          "name": "小瓢吉",
+          "row": 3,
+          "slot": "adult_2_5",
+          "appearance": "yellow ladybug",
+          "confidence": "high",
+          "chinese_name": "小瓢吉",
+          "uncertain": false
+        },
+        {
+          "name": "蜂蜂吉",
+          "row": 3,
+          "slot": "adult_6",
+          "appearance": "bee",
+          "confidence": "high",
+          "chinese_name": "蜂蜂吉",
+          "uncertain": false
+        },
+        {
+          "name": "卡奇卡奇",
+          "row": 4,
+          "slot": "young",
+          "appearance": "gray stone",
+          "confidence": "high",
+          "chinese_name": "卡奇卡奇",
+          "uncertain": false
+        },
+        {
+          "name": "宝石吉",
+          "row": 4,
+          "slot": "adult_perfect",
+          "appearance": "gem creature",
+          "confidence": "high",
+          "chinese_name": "宝石吉",
+          "uncertain": false
+        },
+        {
+          "name": "矿石吉",
+          "row": 4,
+          "slot": "adult_0_1",
+          "appearance": "purple crystals",
+          "confidence": "high",
+          "chinese_name": "矿石吉",
+          "uncertain": false
+        },
+        {
+          "name": "岩石吉",
+          "row": 4,
+          "slot": "adult_2_5",
+          "appearance": "gray rock",
+          "confidence": "high",
+          "chinese_name": "岩石吉",
+          "uncertain": false
+        },
+        {
+          "name": "岩浆吉",
+          "row": 4,
+          "slot": "adult_6",
+          "appearance": "red lava",
+          "confidence": "high",
+          "chinese_name": "岩浆吉",
+          "uncertain": false
+        },
+        {
+          "name": "独角吉",
+          "row": "hidden",
+          "slot": "hidden",
+          "appearance": "unicorn",
+          "confidence": "high",
+          "chinese_name": "独角吉",
+          "uncertain": false
+        }
+      ]
+    },
+    {
+      "field": "Water",
+      "imagePath": "/home/ubuntu/upload/photo_2026-08-29_13-58-05.jpg",
+      "order": 4,
+      "items": [
+        {
+          "name": "斯亦斯亦",
+          "row": 1,
+          "slot": "young",
+          "description": "Blue whale-like character",
+          "confidence": "high",
+          "chinese_name": "斯亦斯亦",
+          "uncertain": false
+        },
+        {
+          "name": "海豚吉",
+          "row": 1,
+          "slot": "adult_perfect",
+          "description": "Blue dolphin-like character",
+          "confidence": "high",
+          "chinese_name": "海豚吉",
+          "uncertain": false
+        },
+        {
+          "name": "龟龟吉",
+          "row": 1,
+          "slot": "adult_0_1",
+          "description": "Yellow and green turtle-like character",
+          "confidence": "high",
+          "chinese_name": "龟龟吉",
+          "uncertain": false
+        },
+        {
+          "name": "鲸鲸吉",
+          "row": 1,
+          "slot": "adult_2_5",
+          "description": "Dark blue whale-like character",
+          "confidence": "high",
+          "chinese_name": "鲸鲸吉",
+          "uncertain": false
+        },
+        {
+          "name": "乌尔吉",
+          "row": 1,
+          "slot": "adult_6",
+          "description": "Purple tadpole-like character",
+          "confidence": "high",
+          "chinese_name": "乌尔吉",
+          "uncertain": false
+        },
+        {
+          "name": "拍拍",
+          "row": 2,
+          "slot": "young",
+          "description": "Pink axolotl-like character",
+          "confidence": "high",
+          "chinese_name": "拍拍",
+          "uncertain": false
+        },
+        {
+          "name": "阿活洛帕吉",
+          "row": 2,
+          "slot": "adult_perfect",
+          "description": "Purple axolotl-like character",
+          "confidence": "high",
+          "chinese_name": "阿活洛帕吉",
+          "uncertain": false
+        },
+        {
+          "name": "伊莫哩吉",
+          "row": 2,
+          "slot": "adult_0_1",
+          "description": "Red salamander-like character",
+          "confidence": "high",
+          "chinese_name": "伊莫哩吉",
+          "uncertain": false
+        },
+        {
+          "name": "雨蛙吉",
+          "row": 2,
+          "slot": "adult_2_5",
+          "description": "Teal frog-like character",
+          "confidence": "high",
+          "chinese_name": "雨蛙吉",
+          "uncertain": false
+        },
+        {
+          "name": "比巴吉",
+          "row": 2,
+          "slot": "adult_6",
+          "description": "Orange beaver-like character",
+          "confidence": "high",
+          "chinese_name": "比巴吉",
+          "uncertain": false
+        },
+        {
+          "name": "皮奇皮奇",
+          "row": 3,
+          "slot": "young",
+          "description": "Blue fish-like character",
+          "confidence": "high",
+          "chinese_name": "皮奇皮奇",
+          "uncertain": false
+        },
+        {
+          "name": "海马吉",
+          "row": 3,
+          "slot": "adult_perfect",
+          "description": "Purple seahorse-like character",
+          "confidence": "high",
+          "chinese_name": "海马吉",
+          "uncertain": false
+        },
+        {
+          "name": "鲨鱼吉",
+          "row": 3,
+          "slot": "adult_0_1",
+          "description": "Blue shark-like character",
+          "confidence": "high",
+          "chinese_name": "鲨鱼吉",
+          "uncertain": false
+        },
+        {
+          "name": "安康吉",
+          "row": 3,
+          "slot": "adult_2_5",
+          "description": "Blue anglerfish-like character",
+          "confidence": "high",
+          "chinese_name": "安康吉",
+          "uncertain": false
+        },
+        {
+          "name": "多多吉",
+          "row": 3,
+          "slot": "adult_6",
+          "description": "Green turtle-like character",
+          "confidence": "high",
+          "chinese_name": "多多吉",
+          "uncertain": false
+        },
+        {
+          "name": "浮游浮游",
+          "row": 4,
+          "slot": "young",
+          "description": "Red jellyfish-like character",
+          "confidence": "high",
+          "chinese_name": "浮游浮游",
+          "uncertain": false
+        },
+        {
+          "name": "浮浮吉",
+          "row": 4,
+          "slot": "adult_perfect",
+          "description": "Yellow squid-like character",
+          "confidence": "high",
+          "chinese_name": "浮浮吉",
+          "uncertain": false
+        },
+        {
+          "name": "萌哒吉",
+          "row": 4,
+          "slot": "adult_0_1",
+          "description": "Red sea bunny-like character",
+          "confidence": "high",
+          "chinese_name": "萌哒吉",
+          "uncertain": false
+        },
+        {
+          "name": "海兔吉",
+          "row": 4,
+          "slot": "adult_2_5",
+          "description": "Blue sea slug-like character",
+          "confidence": "high",
+          "chinese_name": "海兔吉",
+          "uncertain": false
+        },
+        {
+          "name": "足足吉",
+          "row": 4,
+          "slot": "adult_6",
+          "description": "White shell-like character",
+          "confidence": "high",
+          "chinese_name": "足足吉",
+          "uncertain": false
+        },
+        {
+          "name": "人鱼吉",
+          "row": "hidden",
+          "slot": "hidden",
+          "description": "Mermaid-like character",
+          "confidence": "high",
+          "chinese_name": "人鱼吉",
+          "uncertain": false
+        }
+      ]
+    },
+    {
+      "field": "Tropical",
+      "imagePath": "/home/ubuntu/upload/photo_2026-08-29_10-56-40.jpg",
+      "order": 5,
+      "items": [
+        {
+          "name": "羔羔",
+          "row": 1,
+          "slot": "young",
+          "appearance": "粉色圓形生物",
+          "confidence": 1,
+          "chinese_name": "羔羔",
+          "uncertain": false
+        },
+        {
+          "name": "南方猫猫吉",
+          "row": 1,
+          "slot": "adult_perfect",
+          "appearance": "粉色貓咪",
+          "confidence": 1,
+          "chinese_name": "南方猫猫吉",
+          "uncertain": false
+        },
+        {
+          "name": "犰狳吉",
+          "row": 1,
+          "slot": "adult_0_1",
+          "appearance": "淺紫色生物",
+          "confidence": 1,
+          "chinese_name": "犰狳吉",
+          "uncertain": false
+        },
+        {
+          "name": "塔兰托吉",
+          "row": 1,
+          "slot": "adult_2_5",
+          "appearance": "深藍色生物",
+          "confidence": 1,
+          "chinese_name": "塔兰托吉",
+          "uncertain": false
+        },
+        {
+          "name": "鳄鱼吉",
+          "row": 1,
+          "slot": "adult_6",
+          "appearance": "藍色鱷魚",
+          "confidence": 1,
+          "chinese_name": "鳄鱼吉",
+          "uncertain": false
+        },
+        {
+          "name": "特库",
+          "row": 2,
+          "slot": "young",
+          "appearance": "黃色鳥類",
+          "confidence": 1,
+          "chinese_name": "特库",
+          "uncertain": false
+        },
+        {
+          "name": "南方豆丁吉",
+          "row": 2,
+          "slot": "adult_perfect",
+          "appearance": "黃綠色生物",
+          "confidence": 1,
+          "chinese_name": "南方豆丁吉",
+          "uncertain": false
+        },
+        {
+          "name": "鹦鹉吉",
+          "row": 2,
+          "slot": "adult_0_1",
+          "appearance": "綠色鸚鵡",
+          "confidence": 1,
+          "chinese_name": "鹦鹉吉",
+          "uncertain": false
+        },
+        {
+          "name": "长臂吉",
+          "row": 2,
+          "slot": "adult_2_5",
+          "appearance": "藍色長臂猿",
+          "confidence": 1,
+          "chinese_name": "长臂吉",
+          "uncertain": false
+        },
+        {
+          "name": "树懒吉",
+          "row": 2,
+          "slot": "adult_6",
+          "appearance": "綠色樹懶",
+          "confidence": 1,
+          "chinese_name": "树懒吉",
+          "uncertain": false
+        },
+        {
+          "name": "佩洛",
+          "row": 3,
+          "slot": "young",
+          "appearance": "粉色生物",
+          "confidence": 1,
+          "chinese_name": "佩洛",
+          "uncertain": false
+        },
+        {
+          "name": "食蚁吉",
+          "row": 3,
+          "slot": "adult_perfect",
+          "appearance": "藍白相間生物",
+          "confidence": 1,
+          "chinese_name": "食蚁吉",
+          "uncertain": false
+        },
+        {
+          "name": "箭蛙吉",
+          "row": 3,
+          "slot": "adult_0_1",
+          "appearance": "粉色青蛙",
+          "confidence": 1,
+          "chinese_name": "箭蛙吉",
+          "uncertain": false
+        },
+        {
+          "name": "变色龙吉",
+          "row": 3,
+          "slot": "adult_2_5",
+          "appearance": "綠色變色龍",
+          "confidence": 1,
+          "chinese_name": "变色龙吉",
+          "uncertain": false
+        },
+        {
+          "name": "鬣蜥吉",
+          "row": 3,
+          "slot": "adult_6",
+          "appearance": "橙色鬣蜥",
+          "confidence": 1,
+          "chinese_name": "鬣蜥吉",
+          "uncertain": false
+        },
+        {
+          "name": "扭奇",
+          "row": 4,
+          "slot": "young",
+          "appearance": "綠色植物",
+          "confidence": 1,
+          "chinese_name": "扭奇",
+          "uncertain": false
+        },
+        {
+          "name": "椰树吉",
+          "row": 4,
+          "slot": "adult_perfect",
+          "appearance": "椰子樹",
+          "confidence": 1,
+          "chinese_name": "椰树吉",
+          "uncertain": false
+        },
+        {
+          "name": "南方一朵吉",
+          "row": 4,
+          "slot": "adult_0_1",
+          "appearance": "紅花",
+          "confidence": 1,
+          "chinese_name": "南方一朵吉",
+          "uncertain": false
+        },
+        {
+          "name": "菠萝吉",
+          "row": 4,
+          "slot": "adult_2_5",
+          "appearance": "菠蘿",
+          "confidence": 1,
+          "chinese_name": "菠萝吉",
+          "uncertain": false
+        },
+        {
+          "name": "牛油果吉",
+          "row": 4,
+          "slot": "adult_6",
+          "appearance": "牛油果",
+          "confidence": 1,
+          "chinese_name": "牛油果吉",
+          "uncertain": false
+        },
+        {
+          "name": "马纳叶吉",
+          "row": 5,
+          "slot": "hidden",
+          "appearance": "綠色海牛",
+          "confidence": 1,
+          "chinese_name": "马纳叶吉",
+          "uncertain": false
+        }
+      ]
+    },
+    {
+      "field": "Ice",
+      "imagePath": "/home/ubuntu/upload/photo_2026-08-29_10-56-43.jpg",
+      "order": 6,
+      "items": [
+        {
+          "name": "羔羔",
+          "row": 1,
+          "slot": "young",
+          "appearance": "青綠色，頭上有小葉子",
+          "confidence": "high",
+          "chinese_name": "羔羔",
+          "uncertain": false
+        },
+        {
+          "name": "雪貂吉",
+          "row": 1,
+          "slot": "adult_perfect",
+          "appearance": "白色雪貂",
+          "confidence": "high",
+          "chinese_name": "雪貂吉",
+          "uncertain": false
+        },
+        {
+          "name": "冰狼吉",
+          "row": 1,
+          "slot": "adult_0_1",
+          "appearance": "淺藍色冰狼",
+          "confidence": "high",
+          "chinese_name": "冰狼吉",
+          "uncertain": false
+        },
+        {
+          "name": "冰熊吉",
+          "row": 1,
+          "slot": "adult_2_5",
+          "appearance": "淺藍色冰熊",
+          "confidence": "high",
+          "chinese_name": "冰熊吉",
+          "uncertain": false
+        },
+        {
+          "name": "海豹吉",
+          "row": 1,
+          "slot": "adult_6",
+          "appearance": "青綠色海豹",
+          "confidence": "high",
+          "chinese_name": "海豹吉",
+          "uncertain": false
+        },
+        {
+          "name": "斯亦",
+          "row": 2,
+          "slot": "young",
+          "appearance": "白色，像小海豚",
+          "confidence": "high",
+          "chinese_name": "斯亦",
+          "uncertain": false
+        },
+        {
+          "name": "白海豚吉",
+          "row": 2,
+          "slot": "adult_perfect",
+          "appearance": "白色海豚",
+          "confidence": "high",
+          "chinese_name": "白海豚吉",
+          "uncertain": false
+        },
+        {
+          "name": "银次郎吉",
+          "row": 2,
+          "slot": "adult_0_1",
+          "appearance": "藍色企鵝或鳥",
+          "confidence": "high",
+          "chinese_name": "银次郎吉",
+          "uncertain": false
+        },
+        {
+          "name": "海獭吉",
+          "row": 2,
+          "slot": "adult_2_5",
+          "appearance": "黃色海獺",
+          "confidence": "high",
+          "chinese_name": "海獭吉",
+          "uncertain": false
+        },
+        {
+          "name": "企鹅吉",
+          "row": 2,
+          "slot": "adult_6",
+          "appearance": "深藍色企鵝",
+          "confidence": "high",
+          "chinese_name": "企鹅吉",
+          "uncertain": false
+        },
+        {
+          "name": "特库",
+          "row": 3,
+          "slot": "young",
+          "appearance": "黃色圓形",
+          "confidence": "high",
+          "chinese_name": "特库",
+          "uncertain": false
+        },
+        {
+          "name": "旅鼠吉",
+          "row": 3,
+          "slot": "adult_perfect",
+          "appearance": "白色和深藍色旅鼠",
+          "confidence": "high",
+          "chinese_name": "旅鼠吉",
+          "uncertain": false
+        },
+        {
+          "name": "驼鹿吉",
+          "row": 3,
+          "slot": "adult_0_1",
+          "appearance": "棕色駝鹿",
+          "confidence": "high",
+          "chinese_name": "驼鹿吉",
+          "uncertain": false
+        },
+        {
+          "name": "雷鸟吉",
+          "row": 3,
+          "slot": "adult_2_5",
+          "appearance": "淺黃色雷鳥",
+          "confidence": "high",
+          "chinese_name": "雷鸟吉",
+          "uncertain": false
+        },
+        {
+          "name": "雪兔吉",
+          "row": 3,
+          "slot": "adult_6",
+          "appearance": "白色雪兔",
+          "confidence": "high",
+          "chinese_name": "雪兔吉",
+          "uncertain": false
+        },
+        {
+          "name": "浮游",
+          "row": 4,
+          "slot": "young",
+          "appearance": "藍色水滴狀",
+          "confidence": "high",
+          "chinese_name": "浮游",
+          "uncertain": false
+        },
+        {
+          "name": "海天使吉",
+          "row": 4,
+          "slot": "adult_perfect",
+          "appearance": "粉色海天使",
+          "confidence": "high",
+          "chinese_name": "海天使吉",
+          "uncertain": false
+        },
+        {
+          "name": "圆鱼吉",
+          "row": 4,
+          "slot": "adult_0_1",
+          "appearance": "紅色圓魚",
+          "confidence": "high",
+          "chinese_name": "圆鱼吉",
+          "uncertain": false
+        },
+        {
+          "name": "雪蟹吉",
+          "row": 4,
+          "slot": "adult_2_5",
+          "appearance": "淺藍色雪蟹",
+          "confidence": "high",
+          "chinese_name": "雪蟹吉",
+          "uncertain": false
+        },
+        {
+          "name": "雪晶吉",
+          "row": 4,
+          "slot": "adult_6",
+          "appearance": "雪花狀",
+          "confidence": "high",
+          "chinese_name": "雪晶吉",
+          "uncertain": false
+        },
+        {
+          "name": "独角鲸吉",
+          "row": "hidden",
+          "slot": "hidden",
+          "appearance": "紫色獨角鯨",
+          "confidence": "high",
+          "chinese_name": "独角鲸吉",
+          "uncertain": false
+        }
+      ]
+    }
+  ]
+}

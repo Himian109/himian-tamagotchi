@@ -1,0 +1,536 @@
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/amefuratchi-amefuratchi-paradise-png.png (size: 76082 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/amefuratchi-amefuratchi-paradise-png_9af16a83.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/ananatchi-ananatchiparadiseartwork-png.png (size: 30120 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/ananatchi-ananatchiparadiseartwork-png_875a7c51.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/ankotchi-ankotchi-paradise-png.png (size: 64392 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/ankotchi-ankotchi-paradise-png_3221cec3.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/avovotchi-avovotchiparadiseartwork-png.png (size: 31668 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/avovotchi-avovotchiparadiseartwork-png_f240ba97.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/axolopatchi-axolopatchi-paradise-png.png (size: 77052 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/axolopatchi-axolopatchi-paradise-png_5fca8d1e.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/azaratchi-azaratchiparadiseartwork-png.png (size: 68268 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/azaratchi-azaratchiparadiseartwork-png_17a64704.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/babymarutchi-babymarutchi-png.png (size: 61350 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/babymarutchi-babymarutchi-png_1a6e96b5.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/batatchi-batatchi-paradise-png.png (size: 80102 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/batatchi-batatchi-paradise-png_0a3df0b5.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/batchi-batchi-paradise-png.png (size: 40502 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/batchi-batchi-paradise-png_9291a5cb.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/bbmarutchi-bbmarutchi-paradise-artwork-png.png (size: 39936 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/bbmarutchi-bbmarutchi-paradise-artwork-png_4bab3edf.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/beavertchi-beavertchi-paradise-png.png (size: 91562 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/beavertchi-beavertchi-paradise-png_7bc5f2bc.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/bumble-young-bumble-young-png.png (size: 37104 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/bumble-young-bumble-young-png_e1e57a42.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/chameleotchi-chameleotchi-png.png (size: 69854 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/chameleotchi-chameleotchi-png_f15b3ac6.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/chirp-young-chirp-young-paradise-artwork-png.png (size: 37658 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/chirp-young-chirp-young-paradise-artwork-png_d5b73d1f.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/chirp-young-forestchirpyoungparadiseartwork-png.png (size: 34178 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/chirp-young-forestchirpyoungparadiseartwork-png_2d71d52c.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/chodracotchi-chodracotchi-paradise-png.png (size: 87238 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/chodracotchi-chodracotchi-paradise-png_df80f14b.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/crocotchi-crocotchiparadiseartwork-png.png (size: 61186 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/crocotchi-crocotchiparadiseartwork-png_1880ecf6.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/dangouotchi-dangouotchiparadiseartwork-png.png (size: 34432 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/dangouotchi-dangouotchiparadiseartwork-png_6c56562c.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/eagletchi-eagletchi-paradise-png.png (size: 67724 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/eagletchi-eagletchi-paradise-png_50dec659.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/elizardotchi-elizardotchi-paradise-png.png (size: 92402 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/elizardotchi-elizardotchi-paradise-png_41ec4450.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/flap-young-flap-young-paradise-artwork-png.png (size: 43880 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/flap-young-flap-young-paradise-artwork-png_91d77316.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/float-young-float-young-png.png (size: 43396 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/float-young-float-young-png_6155ce20.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/float-young-frozenfloatyoungparadiseartwork-png.png (size: 24666 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/float-young-frozenfloatyoungparadiseartwork-png_8a70614d.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/forest-horhotchi-foresthorhotchifaceforward-artwork-png.png (size: 34096 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/forest-horhotchi-foresthorhotchifaceforward-artwork-png_2a865b71.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/forest-kid-forestkidparadiseartwork-png.png (size: 25100 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/forest-kid-forestkidparadiseartwork-png_a8801d90.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/frozen-kid-frozenkidparadiseartwork-png.png (size: 19922 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/frozen-kid-frozenkidparadiseartwork-png_70f7a2f3.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/furawatchi-furawatchi-paradise-artwork-png.png (size: 60636 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/furawatchi-furawatchi-paradise-artwork-png_0cef2bf6.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/gemtchi-gemtchi-paradise-png.png (size: 80696 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/gemtchi-gemtchi-paradise-png_7eb57006.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/ginjirotchi-ginjirotchiparadiseartwork-png.png (size: 26860 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/ginjirotchi-ginjirotchiparadiseartwork-png_5701917b.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/glide-young-frozenglideyoungparadiseartwork-png.png (size: 28844 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/glide-young-frozenglideyoungparadiseartwork-png_916aaf97.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/glide-young-glide-young-png.png (size: 35182 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/glide-young-glide-young-png_4ee31a7c.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/gumax-gumax-paradise-png.png (size: 67178 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/gumax-gumax-paradise-png_80615ced.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/gusokutchi-gusokutchi-paradise-png.png (size: 90432 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/gusokutchi-gusokutchi-paradise-png_39a32288.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/hatchitchi-hatchitchi-paradise-png.png (size: 69012 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/hatchitchi-hatchitchi-paradise-png_1e651833.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/heavytchi-heavytchi-paradise-png.png (size: 70762 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/heavytchi-heavytchi-paradise-png_c462f841.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/hobohorntchi-hobohorntchiparadiseartwork-png.png (size: 59200 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/hobohorntchi-hobohorntchiparadiseartwork-png_1e497834.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/hoppentchi-hoppentchiparadiseartwork-png.png (size: 34226 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/hoppentchi-hoppentchiparadiseartwork-png_ddabb3fa.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/horhotchi-horhotchi-paradise-png.png (size: 85712 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/horhotchi-horhotchi-paradise-png_fb53dfe8.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/icy-irukatchi-shiroirukatchiparadiseartwork-png.png (size: 64456 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/icy-irukatchi-shiroirukatchiparadiseartwork-png_c0d5f3ba.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/iguanatchi-iguanatchiparadiseartwork-png.png (size: 81578 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/iguanatchi-iguanatchiparadiseartwork-png_e5843fbe.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/imoritchi-imoritchi-paradise-png.png (size: 69074 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/imoritchi-imoritchi-paradise-png_9312d13f.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/irukatchi-irukatchi-paradise-png.png (size: 69506 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/irukatchi-irukatchi-paradise-png_43ab5003.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/ishikorotchi-ishikorotchi-paradise-png.png (size: 44144 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/ishikorotchi-ishikorotchi-paradise-png_ed888800.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/kabutotchi-kabutotchi-paradise-png.png (size: 79118 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/kabutotchi-kabutotchi-paradise-png_7c84ad35.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/kachitchi-kachitchifaceforward-artwork-png.png (size: 25512 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/kachitchi-kachitchifaceforward-artwork-png_f85d1358.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/kametchi-kametchi-paradise-png.png (size: 73180 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/kametchi-kametchi-paradise-png_6f231b08.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/kanokotchi-kanokotchifaceforward-artwork-png.png (size: 42362 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/kanokotchi-kanokotchifaceforward-artwork-png_c367ac88.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/kawazutchi-kawazutchi-paradise-png.png (size: 66744 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/kawazutchi-kawazutchi-paradise-png_b4e9db2f.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/kiwitchi-kiwitchi-paradise-png.png (size: 54546 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/kiwitchi-kiwitchi-paradise-png_c272fb4e.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/konkotchi-konkotchifaceforward-artwork-png.png (size: 28198 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/konkotchi-konkotchifaceforward-artwork-png_19f620b8.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/kuchipatchi-kuchipatchi-paradise-png.png (size: 49824 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/kuchipatchi-kuchipatchi-paradise-png_7beecf09.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/kuikuitchi-kuikuitchiparadiseartwork-png.png (size: 69008 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/kuikuitchi-kuikuitchiparadiseartwork-png_ffbf0982.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/kujiratchi-kujiratchi-paradise-png.png (size: 54696 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/kujiratchi-kujiratchi-paradise-png_87e77b5a.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/kuraratchi-kuraratchi-paradise-png.png (size: 69392 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/kuraratchi-kuraratchi-paradise-png_d1dc501f.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/land-kid-land-kid-png.png (size: 30948 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/land-kid-land-kid-png_5de93ce2.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/leap-young-leap-young-png.png (size: 44732 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/leap-young-leap-young-png_49b91cb1.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/lemmingtchi-lemmingtchiparadiseartwork-png.png (size: 36124 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/lemmingtchi-lemmingtchiparadiseartwork-png_03e9e313.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/leopatchi-leopatchi-paradise-png.png (size: 78316 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/leopatchi-leopatchi-paradise-png_e70e6b90.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/lessapantchi-lessapantchifaceforward-artwork-png.png (size: 34478 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/lessapantchi-lessapantchifaceforward-artwork-png_fcdd1527.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/lick-young-lick-young-png.png (size: 43276 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/lick-young-lick-young-png_34454acd.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/lick-young-tropicallickyoungparadiseartwork-png.png (size: 24808 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/lick-young-tropicallickyoungparadiseartwork-png_9d6cadc3.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/madillotchi-madillotchiparadiseartwork-png.png (size: 79022 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/madillotchi-madillotchiparadiseartwork-png_b3c57852.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/magmatchi-magmatchi-paradise-png.png (size: 61994 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/magmatchi-magmatchi-paradise-png_bc7f67b6.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/mametchi-mametchi-paradise-png.png (size: 57428 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/mametchi-mametchi-paradise-png_c6454ddb.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/manapatchi-manapatchiparadiseartwork-png.png (size: 59620 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/manapatchi-manapatchiparadiseartwork-png_3d9639e8.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/mendakotchi-mendakotchi-paradise-png.png (size: 58930 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/mendakotchi-mendakotchi-paradise-png_b867a796.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/meowtchi-meowtchi-png.png (size: 83602 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/meowtchi-meowtchi-png_a2ac628f.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/mermarintchi-mermarintchi-paradise-png.png (size: 75974 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/mermarintchi-mermarintchi-paradise-png_de100f07.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/mimitchi-mimitchi-paradise-png.png (size: 43260 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/mimitchi-mimitchi-paradise-png_738f5bd0.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/molmotchi-molmotchi-paradise-png.png (size: 57766 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/molmotchi-molmotchi-paradise-png_b1839640.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/mongatchi-mongatchi-paradise-artwork-png.png (size: 77044 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/mongatchi-mongatchi-paradise-artwork-png_607af7de.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/moosetchi-moosetchiparadiseartwork-png.png (size: 42132 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/moosetchi-moosetchiparadiseartwork-png_7fe2cc9c.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/namakemotchi-namakemotchiparadiseartwork-png.png (size: 66478 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/namakemotchi-namakemotchiparadiseartwork-png_887ed055.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/nappatchi-nappatchifaceforward-png.png (size: 23586 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/nappatchi-nappatchifaceforward-png_523122ab.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/nerinetchi-nerinetchiparadiseartwork-png.png (size: 66716 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/nerinetchi-nerinetchiparadiseartwork-png_7852952d.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/okojotchi-okojotchiparadiseartwork-png.png (size: 82346 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/okojotchi-okojotchiparadiseartwork-png_ae6cadf8.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/oretatchi-oretatchi-paradise-png.png (size: 101008 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/oretatchi-oretatchi-paradise-png_cb89e7a0.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/otototchi-otototchi-paradise-png.png (size: 58534 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/otototchi-otototchi-paradise-png_07d33623.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/paddle-young-paddle-young-png.png (size: 32136 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/paddle-young-paddle-young-png_f47c8d58.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/panbootchi-panbootchifaceforward-artwork-png.png (size: 23944 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/panbootchi-panbootchifaceforward-artwork-png_fefefb66.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/papillotchi-papillotchi-paradise-png.png (size: 91622 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/papillotchi-papillotchi-paradise-png_080a6cc8.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/parorotchi-parorotchiparadiseartwork-png.png (size: 72326 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/parorotchi-parorotchiparadiseartwork-png_7045005d.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/peacotchi-peacotchi-paradise-png.png (size: 80070 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/peacotchi-peacotchi-paradise-png_9bcb13fc.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/peatchi-peatchifaceforward-artwork-png.png (size: 31750 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/peatchi-peatchifaceforward-artwork-png_3f068c8c.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/pochitchi-pochitchi-paradise-png.png (size: 80366 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/pochitchi-pochitchi-paradise-png_fdc3e0d6.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/poizutchi-poizutchiparadiseartwork-png.png (size: 64774 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/poizutchi-poizutchiparadiseartwork-png_004c2e7e.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/polakumatchi-polakumatchiparadiseartwork-png.png (size: 32528 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/polakumatchi-polakumatchiparadiseartwork-png_fd5c3530.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/potsunentchi-potsunentchi-paradise-png.png (size: 66610 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/potsunentchi-potsunentchi-paradise-png_7d5d0658.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/raichotchi-raichotchiparadiseartwork-png.png (size: 29590 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/raichotchi-raichotchiparadiseartwork-png_055f17cc.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/rakkotchi-rakkotchiparadiseartwork-png.png (size: 35718 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/rakkotchi-rakkotchiparadiseartwork-png_406433ca.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/ratchi-ratchi-paradise-png.png (size: 68900 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/ratchi-ratchi-paradise-png_a452f0e0.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/roar-young-forestroaryoungparadiseartwork-png.png (size: 35866 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/roar-young-forestroaryoungparadiseartwork-png_5a51aeaf.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/roar-young-frozenroaryoungparadiseartwork-png.png (size: 22670 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/roar-young-frozenroaryoungparadiseartwork-png_3aa70dbc.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/roar-young-roar-young-png.png (size: 39524 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/roar-young-roar-young-png_07c92a28.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/roar-young-tropicalroaryoungparadiseartwork-png.png (size: 24534 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/roar-young-tropicalroaryoungparadiseartwork-png_34908441.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/rocky-young-rocky-young-png.png (size: 30324 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/rocky-young-rocky-young-png_f096bd61.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/rushraditchi-rushraditchifaceforward-artwork-png.png (size: 19968 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/rushraditchi-rushraditchifaceforward-artwork-png_ade2b49a.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/sebiretchi-sebiretchi-paradise-png.png (size: 77372 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/sebiretchi-sebiretchi-paradise-png_c6d0e28a.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/sharktchi-sharktchi-paradise-png.png (size: 61644 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/sharktchi-sharktchi-paradise-png_14233c42.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/sheeptchi-sheeptchi-paradise-png.png (size: 70886 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/sheeptchi-sheeptchi-paradise-png_a84d6028.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/shigemi-san-shigemisan-paradise-png.png (size: 61468 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/shigemi-san-shigemisan-paradise-png_8a280b43.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/shiitaketchi-shitaketchifaceforward-artwork-png.png (size: 26966 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/shiitaketchi-shitaketchifaceforward-artwork-png_1ee0fe19.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/sky-kid-sky-kid-png.png (size: 33884 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/sky-kid-sky-kid-png_4c1d9c60.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/sparrotchi-sparrotchifaceforward-artwork-png.png (size: 24268 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/sparrotchi-sparrotchifaceforward-artwork-png_53528e12.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/sprout-young-forestsproutyoungparadiseartwork-png.png (size: 37580 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/sprout-young-forestsproutyoungparadiseartwork-png_6d3aaf45.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/sprout-young-sprout-young-png.png (size: 40090 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/sprout-young-sprout-young-png_187ad43d.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/sprout-young-tropicalsproutyoungparadiseartwork-png.png (size: 24018 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/sprout-young-tropicalsproutyoungparadiseartwork-png_0c491810.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/suigyutchi-sugyutchifaceforward-artwork-png.png (size: 23782 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/suigyutchi-sugyutchifaceforward-artwork-png_60236b31.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/tachutchi-tachutchi-paradise-png.png (size: 64298 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/tachutchi-tachutchi-paradise-png_1d44735b.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/tanoontchi-tanoontchifaceforward-artwork-png.png (size: 25680 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/tanoontchi-tanoontchifaceforward-artwork-png_fd50151e.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/tarantytchi-tarantytchiparadiseartwork-png.png (size: 58630 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/tarantytchi-tarantytchiparadiseartwork-png_a3541e5c.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/tatsutchi-tatsutchi-front-facing-artwork-png.png (size: 35644 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/tatsutchi-tatsutchi-front-facing-artwork-png_619a028a.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/tenatchi-tenatchiparadiseartwork-png.png (size: 66214 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/tenatchi-tenatchiparadiseartwork-png_2a902703.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/tentotchi-tentotchi-paradise-png.png (size: 63790 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/tentotchi-tentotchi-paradise-png_f90d583a.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/tigaotchi-tigaotchifaceforward-artwork-png.png (size: 32108 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/tigaotchi-tigaotchifaceforward-artwork-png_a9734d4b.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/toddle-young-foresttoddleyoungparadiseartwork-png.png (size: 34714 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/toddle-young-foresttoddleyoungparadiseartwork-png_e8fdec4b.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/toddle-young-frozentoddleyoungparadiseartwork-png.png (size: 26402 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/toddle-young-frozentoddleyoungparadiseartwork-png_73e08245.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/toddle-young-toddle-young-png.png (size: 42244 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/toddle-young-toddle-young-png_ab63a69a.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/toddle-young-tropicaltoddleyoungparadiseartwork-png.png (size: 27062 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/toddle-young-tropicaltoddleyoungparadiseartwork-png_e11dce6d.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/tokipatchi-tokipatchifaceforward-artwork-png.png (size: 26150 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/tokipatchi-tokipatchifaceforward-artwork-png_9a693be0.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/tropical-kid-tropicalkidparadiseartwork-png.png (size: 20694 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/tropical-kid-tropicalkidparadiseartwork-png_627f299c.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/tropical-mametchi-tropicalmametchiparadiseartwork-png.png (size: 34552 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/tropical-mametchi-tropicalmametchiparadiseartwork-png_d4c1f62f.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/tropical-meowtchi-tropicalmeowtchiparadiseartwork-png.png (size: 77516 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/tropical-meowtchi-tropicalmeowtchiparadiseartwork-png_00e8c497.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/tropical-potsunentchi-tropicalpotsunentchiparadiseartwork-png.png (size: 79654 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/tropical-potsunentchi-tropicalpotsunentchiparadiseartwork-png_0ad638b2.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/tustustchi-tustustchi-paradise-png.png (size: 69862 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/tustustchi-tustustchi-paradise-png_8a34167a.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/uruotchi-uruotchi-paradise-png.png (size: 62450 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/uruotchi-uruotchi-paradise-png_f029aca9.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/water-kid-water-kid-png.png (size: 29316 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/water-kid-water-kid-png_ea174b4f.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/wolftchi-wolftchiparadiseartwork-png.png (size: 65420 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/wolftchi-wolftchiparadiseartwork-png_4cdee029.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/yashikitchi-yashikitchiparadiseartwork-png.png (size: 80444 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/yashikitchi-yashikitchiparadiseartwork-png_d455ea5c.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/yayacorntchi-yayacorntchi-paradise-png.png (size: 78322 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/yayacorntchi-yayacorntchi-paradise-png_ac75295f.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/yaytytchi-yaytytchiparadiseartwork-png.png (size: 77376 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/yaytytchi-yaytytchiparadiseartwork-png_3898a93c.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/yukiraratchi-yukiraratchiparadiseartwork-png.png (size: 79722 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/yukiraratchi-yukiraratchiparadiseartwork-png_043a2342.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/tamagotchi-catalog/yukiusatchi-yukiusatchiparadiseartwork-png.png (size: 36276 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/yukiusatchi-yukiusatchiparadiseartwork-png_a15a02eb.png
+
+========== Upload Summary ==========
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/amefuratchi-amefuratchi-paradise-png.png -> /manus-storage/amefuratchi-amefuratchi-paradise-png_9af16a83.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/ananatchi-ananatchiparadiseartwork-png.png -> /manus-storage/ananatchi-ananatchiparadiseartwork-png_875a7c51.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/ankotchi-ankotchi-paradise-png.png -> /manus-storage/ankotchi-ankotchi-paradise-png_3221cec3.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/avovotchi-avovotchiparadiseartwork-png.png -> /manus-storage/avovotchi-avovotchiparadiseartwork-png_f240ba97.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/axolopatchi-axolopatchi-paradise-png.png -> /manus-storage/axolopatchi-axolopatchi-paradise-png_5fca8d1e.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/azaratchi-azaratchiparadiseartwork-png.png -> /manus-storage/azaratchi-azaratchiparadiseartwork-png_17a64704.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/babymarutchi-babymarutchi-png.png -> /manus-storage/babymarutchi-babymarutchi-png_1a6e96b5.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/batatchi-batatchi-paradise-png.png -> /manus-storage/batatchi-batatchi-paradise-png_0a3df0b5.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/batchi-batchi-paradise-png.png -> /manus-storage/batchi-batchi-paradise-png_9291a5cb.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/bbmarutchi-bbmarutchi-paradise-artwork-png.png -> /manus-storage/bbmarutchi-bbmarutchi-paradise-artwork-png_4bab3edf.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/beavertchi-beavertchi-paradise-png.png -> /manus-storage/beavertchi-beavertchi-paradise-png_7bc5f2bc.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/bumble-young-bumble-young-png.png -> /manus-storage/bumble-young-bumble-young-png_e1e57a42.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/chameleotchi-chameleotchi-png.png -> /manus-storage/chameleotchi-chameleotchi-png_f15b3ac6.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/chirp-young-chirp-young-paradise-artwork-png.png -> /manus-storage/chirp-young-chirp-young-paradise-artwork-png_d5b73d1f.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/chirp-young-forestchirpyoungparadiseartwork-png.png -> /manus-storage/chirp-young-forestchirpyoungparadiseartwork-png_2d71d52c.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/chodracotchi-chodracotchi-paradise-png.png -> /manus-storage/chodracotchi-chodracotchi-paradise-png_df80f14b.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/crocotchi-crocotchiparadiseartwork-png.png -> /manus-storage/crocotchi-crocotchiparadiseartwork-png_1880ecf6.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/dangouotchi-dangouotchiparadiseartwork-png.png -> /manus-storage/dangouotchi-dangouotchiparadiseartwork-png_6c56562c.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/eagletchi-eagletchi-paradise-png.png -> /manus-storage/eagletchi-eagletchi-paradise-png_50dec659.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/elizardotchi-elizardotchi-paradise-png.png -> /manus-storage/elizardotchi-elizardotchi-paradise-png_41ec4450.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/flap-young-flap-young-paradise-artwork-png.png -> /manus-storage/flap-young-flap-young-paradise-artwork-png_91d77316.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/float-young-float-young-png.png -> /manus-storage/float-young-float-young-png_6155ce20.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/float-young-frozenfloatyoungparadiseartwork-png.png -> /manus-storage/float-young-frozenfloatyoungparadiseartwork-png_8a70614d.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/forest-horhotchi-foresthorhotchifaceforward-artwork-png.png -> /manus-storage/forest-horhotchi-foresthorhotchifaceforward-artwork-png_2a865b71.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/forest-kid-forestkidparadiseartwork-png.png -> /manus-storage/forest-kid-forestkidparadiseartwork-png_a8801d90.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/frozen-kid-frozenkidparadiseartwork-png.png -> /manus-storage/frozen-kid-frozenkidparadiseartwork-png_70f7a2f3.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/furawatchi-furawatchi-paradise-artwork-png.png -> /manus-storage/furawatchi-furawatchi-paradise-artwork-png_0cef2bf6.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/gemtchi-gemtchi-paradise-png.png -> /manus-storage/gemtchi-gemtchi-paradise-png_7eb57006.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/ginjirotchi-ginjirotchiparadiseartwork-png.png -> /manus-storage/ginjirotchi-ginjirotchiparadiseartwork-png_5701917b.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/glide-young-frozenglideyoungparadiseartwork-png.png -> /manus-storage/glide-young-frozenglideyoungparadiseartwork-png_916aaf97.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/glide-young-glide-young-png.png -> /manus-storage/glide-young-glide-young-png_4ee31a7c.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/gumax-gumax-paradise-png.png -> /manus-storage/gumax-gumax-paradise-png_80615ced.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/gusokutchi-gusokutchi-paradise-png.png -> /manus-storage/gusokutchi-gusokutchi-paradise-png_39a32288.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/hatchitchi-hatchitchi-paradise-png.png -> /manus-storage/hatchitchi-hatchitchi-paradise-png_1e651833.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/heavytchi-heavytchi-paradise-png.png -> /manus-storage/heavytchi-heavytchi-paradise-png_c462f841.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/hobohorntchi-hobohorntchiparadiseartwork-png.png -> /manus-storage/hobohorntchi-hobohorntchiparadiseartwork-png_1e497834.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/hoppentchi-hoppentchiparadiseartwork-png.png -> /manus-storage/hoppentchi-hoppentchiparadiseartwork-png_ddabb3fa.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/horhotchi-horhotchi-paradise-png.png -> /manus-storage/horhotchi-horhotchi-paradise-png_fb53dfe8.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/icy-irukatchi-shiroirukatchiparadiseartwork-png.png -> /manus-storage/icy-irukatchi-shiroirukatchiparadiseartwork-png_c0d5f3ba.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/iguanatchi-iguanatchiparadiseartwork-png.png -> /manus-storage/iguanatchi-iguanatchiparadiseartwork-png_e5843fbe.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/imoritchi-imoritchi-paradise-png.png -> /manus-storage/imoritchi-imoritchi-paradise-png_9312d13f.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/irukatchi-irukatchi-paradise-png.png -> /manus-storage/irukatchi-irukatchi-paradise-png_43ab5003.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/ishikorotchi-ishikorotchi-paradise-png.png -> /manus-storage/ishikorotchi-ishikorotchi-paradise-png_ed888800.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/kabutotchi-kabutotchi-paradise-png.png -> /manus-storage/kabutotchi-kabutotchi-paradise-png_7c84ad35.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/kachitchi-kachitchifaceforward-artwork-png.png -> /manus-storage/kachitchi-kachitchifaceforward-artwork-png_f85d1358.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/kametchi-kametchi-paradise-png.png -> /manus-storage/kametchi-kametchi-paradise-png_6f231b08.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/kanokotchi-kanokotchifaceforward-artwork-png.png -> /manus-storage/kanokotchi-kanokotchifaceforward-artwork-png_c367ac88.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/kawazutchi-kawazutchi-paradise-png.png -> /manus-storage/kawazutchi-kawazutchi-paradise-png_b4e9db2f.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/kiwitchi-kiwitchi-paradise-png.png -> /manus-storage/kiwitchi-kiwitchi-paradise-png_c272fb4e.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/konkotchi-konkotchifaceforward-artwork-png.png -> /manus-storage/konkotchi-konkotchifaceforward-artwork-png_19f620b8.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/kuchipatchi-kuchipatchi-paradise-png.png -> /manus-storage/kuchipatchi-kuchipatchi-paradise-png_7beecf09.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/kuikuitchi-kuikuitchiparadiseartwork-png.png -> /manus-storage/kuikuitchi-kuikuitchiparadiseartwork-png_ffbf0982.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/kujiratchi-kujiratchi-paradise-png.png -> /manus-storage/kujiratchi-kujiratchi-paradise-png_87e77b5a.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/kuraratchi-kuraratchi-paradise-png.png -> /manus-storage/kuraratchi-kuraratchi-paradise-png_d1dc501f.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/land-kid-land-kid-png.png -> /manus-storage/land-kid-land-kid-png_5de93ce2.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/leap-young-leap-young-png.png -> /manus-storage/leap-young-leap-young-png_49b91cb1.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/lemmingtchi-lemmingtchiparadiseartwork-png.png -> /manus-storage/lemmingtchi-lemmingtchiparadiseartwork-png_03e9e313.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/leopatchi-leopatchi-paradise-png.png -> /manus-storage/leopatchi-leopatchi-paradise-png_e70e6b90.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/lessapantchi-lessapantchifaceforward-artwork-png.png -> /manus-storage/lessapantchi-lessapantchifaceforward-artwork-png_fcdd1527.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/lick-young-lick-young-png.png -> /manus-storage/lick-young-lick-young-png_34454acd.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/lick-young-tropicallickyoungparadiseartwork-png.png -> /manus-storage/lick-young-tropicallickyoungparadiseartwork-png_9d6cadc3.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/madillotchi-madillotchiparadiseartwork-png.png -> /manus-storage/madillotchi-madillotchiparadiseartwork-png_b3c57852.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/magmatchi-magmatchi-paradise-png.png -> /manus-storage/magmatchi-magmatchi-paradise-png_bc7f67b6.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/mametchi-mametchi-paradise-png.png -> /manus-storage/mametchi-mametchi-paradise-png_c6454ddb.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/manapatchi-manapatchiparadiseartwork-png.png -> /manus-storage/manapatchi-manapatchiparadiseartwork-png_3d9639e8.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/mendakotchi-mendakotchi-paradise-png.png -> /manus-storage/mendakotchi-mendakotchi-paradise-png_b867a796.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/meowtchi-meowtchi-png.png -> /manus-storage/meowtchi-meowtchi-png_a2ac628f.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/mermarintchi-mermarintchi-paradise-png.png -> /manus-storage/mermarintchi-mermarintchi-paradise-png_de100f07.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/mimitchi-mimitchi-paradise-png.png -> /manus-storage/mimitchi-mimitchi-paradise-png_738f5bd0.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/molmotchi-molmotchi-paradise-png.png -> /manus-storage/molmotchi-molmotchi-paradise-png_b1839640.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/mongatchi-mongatchi-paradise-artwork-png.png -> /manus-storage/mongatchi-mongatchi-paradise-artwork-png_607af7de.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/moosetchi-moosetchiparadiseartwork-png.png -> /manus-storage/moosetchi-moosetchiparadiseartwork-png_7fe2cc9c.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/namakemotchi-namakemotchiparadiseartwork-png.png -> /manus-storage/namakemotchi-namakemotchiparadiseartwork-png_887ed055.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/nappatchi-nappatchifaceforward-png.png -> /manus-storage/nappatchi-nappatchifaceforward-png_523122ab.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/nerinetchi-nerinetchiparadiseartwork-png.png -> /manus-storage/nerinetchi-nerinetchiparadiseartwork-png_7852952d.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/okojotchi-okojotchiparadiseartwork-png.png -> /manus-storage/okojotchi-okojotchiparadiseartwork-png_ae6cadf8.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/oretatchi-oretatchi-paradise-png.png -> /manus-storage/oretatchi-oretatchi-paradise-png_cb89e7a0.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/otototchi-otototchi-paradise-png.png -> /manus-storage/otototchi-otototchi-paradise-png_07d33623.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/paddle-young-paddle-young-png.png -> /manus-storage/paddle-young-paddle-young-png_f47c8d58.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/panbootchi-panbootchifaceforward-artwork-png.png -> /manus-storage/panbootchi-panbootchifaceforward-artwork-png_fefefb66.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/papillotchi-papillotchi-paradise-png.png -> /manus-storage/papillotchi-papillotchi-paradise-png_080a6cc8.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/parorotchi-parorotchiparadiseartwork-png.png -> /manus-storage/parorotchi-parorotchiparadiseartwork-png_7045005d.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/peacotchi-peacotchi-paradise-png.png -> /manus-storage/peacotchi-peacotchi-paradise-png_9bcb13fc.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/peatchi-peatchifaceforward-artwork-png.png -> /manus-storage/peatchi-peatchifaceforward-artwork-png_3f068c8c.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/pochitchi-pochitchi-paradise-png.png -> /manus-storage/pochitchi-pochitchi-paradise-png_fdc3e0d6.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/poizutchi-poizutchiparadiseartwork-png.png -> /manus-storage/poizutchi-poizutchiparadiseartwork-png_004c2e7e.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/polakumatchi-polakumatchiparadiseartwork-png.png -> /manus-storage/polakumatchi-polakumatchiparadiseartwork-png_fd5c3530.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/potsunentchi-potsunentchi-paradise-png.png -> /manus-storage/potsunentchi-potsunentchi-paradise-png_7d5d0658.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/raichotchi-raichotchiparadiseartwork-png.png -> /manus-storage/raichotchi-raichotchiparadiseartwork-png_055f17cc.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/rakkotchi-rakkotchiparadiseartwork-png.png -> /manus-storage/rakkotchi-rakkotchiparadiseartwork-png_406433ca.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/ratchi-ratchi-paradise-png.png -> /manus-storage/ratchi-ratchi-paradise-png_a452f0e0.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/roar-young-forestroaryoungparadiseartwork-png.png -> /manus-storage/roar-young-forestroaryoungparadiseartwork-png_5a51aeaf.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/roar-young-frozenroaryoungparadiseartwork-png.png -> /manus-storage/roar-young-frozenroaryoungparadiseartwork-png_3aa70dbc.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/roar-young-roar-young-png.png -> /manus-storage/roar-young-roar-young-png_07c92a28.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/roar-young-tropicalroaryoungparadiseartwork-png.png -> /manus-storage/roar-young-tropicalroaryoungparadiseartwork-png_34908441.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/rocky-young-rocky-young-png.png -> /manus-storage/rocky-young-rocky-young-png_f096bd61.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/rushraditchi-rushraditchifaceforward-artwork-png.png -> /manus-storage/rushraditchi-rushraditchifaceforward-artwork-png_ade2b49a.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/sebiretchi-sebiretchi-paradise-png.png -> /manus-storage/sebiretchi-sebiretchi-paradise-png_c6d0e28a.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/sharktchi-sharktchi-paradise-png.png -> /manus-storage/sharktchi-sharktchi-paradise-png_14233c42.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/sheeptchi-sheeptchi-paradise-png.png -> /manus-storage/sheeptchi-sheeptchi-paradise-png_a84d6028.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/shigemi-san-shigemisan-paradise-png.png -> /manus-storage/shigemi-san-shigemisan-paradise-png_8a280b43.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/shiitaketchi-shitaketchifaceforward-artwork-png.png -> /manus-storage/shiitaketchi-shitaketchifaceforward-artwork-png_1ee0fe19.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/sky-kid-sky-kid-png.png -> /manus-storage/sky-kid-sky-kid-png_4c1d9c60.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/sparrotchi-sparrotchifaceforward-artwork-png.png -> /manus-storage/sparrotchi-sparrotchifaceforward-artwork-png_53528e12.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/sprout-young-forestsproutyoungparadiseartwork-png.png -> /manus-storage/sprout-young-forestsproutyoungparadiseartwork-png_6d3aaf45.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/sprout-young-sprout-young-png.png -> /manus-storage/sprout-young-sprout-young-png_187ad43d.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/sprout-young-tropicalsproutyoungparadiseartwork-png.png -> /manus-storage/sprout-young-tropicalsproutyoungparadiseartwork-png_0c491810.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/suigyutchi-sugyutchifaceforward-artwork-png.png -> /manus-storage/suigyutchi-sugyutchifaceforward-artwork-png_60236b31.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/tachutchi-tachutchi-paradise-png.png -> /manus-storage/tachutchi-tachutchi-paradise-png_1d44735b.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/tanoontchi-tanoontchifaceforward-artwork-png.png -> /manus-storage/tanoontchi-tanoontchifaceforward-artwork-png_fd50151e.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/tarantytchi-tarantytchiparadiseartwork-png.png -> /manus-storage/tarantytchi-tarantytchiparadiseartwork-png_a3541e5c.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/tatsutchi-tatsutchi-front-facing-artwork-png.png -> /manus-storage/tatsutchi-tatsutchi-front-facing-artwork-png_619a028a.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/tenatchi-tenatchiparadiseartwork-png.png -> /manus-storage/tenatchi-tenatchiparadiseartwork-png_2a902703.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/tentotchi-tentotchi-paradise-png.png -> /manus-storage/tentotchi-tentotchi-paradise-png_f90d583a.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/tigaotchi-tigaotchifaceforward-artwork-png.png -> /manus-storage/tigaotchi-tigaotchifaceforward-artwork-png_a9734d4b.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/toddle-young-foresttoddleyoungparadiseartwork-png.png -> /manus-storage/toddle-young-foresttoddleyoungparadiseartwork-png_e8fdec4b.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/toddle-young-frozentoddleyoungparadiseartwork-png.png -> /manus-storage/toddle-young-frozentoddleyoungparadiseartwork-png_73e08245.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/toddle-young-toddle-young-png.png -> /manus-storage/toddle-young-toddle-young-png_ab63a69a.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/toddle-young-tropicaltoddleyoungparadiseartwork-png.png -> /manus-storage/toddle-young-tropicaltoddleyoungparadiseartwork-png_e11dce6d.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/tokipatchi-tokipatchifaceforward-artwork-png.png -> /manus-storage/tokipatchi-tokipatchifaceforward-artwork-png_9a693be0.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/tropical-kid-tropicalkidparadiseartwork-png.png -> /manus-storage/tropical-kid-tropicalkidparadiseartwork-png_627f299c.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/tropical-mametchi-tropicalmametchiparadiseartwork-png.png -> /manus-storage/tropical-mametchi-tropicalmametchiparadiseartwork-png_d4c1f62f.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/tropical-meowtchi-tropicalmeowtchiparadiseartwork-png.png -> /manus-storage/tropical-meowtchi-tropicalmeowtchiparadiseartwork-png_00e8c497.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/tropical-potsunentchi-tropicalpotsunentchiparadiseartwork-png.png -> /manus-storage/tropical-potsunentchi-tropicalpotsunentchiparadiseartwork-png_0ad638b2.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/tustustchi-tustustchi-paradise-png.png -> /manus-storage/tustustchi-tustustchi-paradise-png_8a34167a.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/uruotchi-uruotchi-paradise-png.png -> /manus-storage/uruotchi-uruotchi-paradise-png_f029aca9.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/water-kid-water-kid-png.png -> /manus-storage/water-kid-water-kid-png_ea174b4f.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/wolftchi-wolftchiparadiseartwork-png.png -> /manus-storage/wolftchi-wolftchiparadiseartwork-png_4cdee029.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/yashikitchi-yashikitchiparadiseartwork-png.png -> /manus-storage/yashikitchi-yashikitchiparadiseartwork-png_d455ea5c.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/yayacorntchi-yayacorntchi-paradise-png.png -> /manus-storage/yayacorntchi-yayacorntchi-paradise-png_ac75295f.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/yaytytchi-yaytytchiparadiseartwork-png.png -> /manus-storage/yaytytchi-yaytytchiparadiseartwork-png_3898a93c.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/yukiraratchi-yukiraratchiparadiseartwork-png.png -> /manus-storage/yukiraratchi-yukiraratchiparadiseartwork-png_043a2342.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/tamagotchi-catalog/yukiusatchi-yukiusatchiparadiseartwork-png.png -> /manus-storage/yukiusatchi-yukiusatchiparadiseartwork-png_a15a02eb.png
+=====================================
+Total: 133, Success: 133, Failed: 0

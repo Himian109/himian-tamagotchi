@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://himian-tama-y54hw8xf.manus.space/sitemap.xml

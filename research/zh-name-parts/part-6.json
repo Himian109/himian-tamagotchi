@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "english_name": "Tropical Kid",
+    "chinese_name": "熱帶孩童",
+    "japanese_name": "トロピカルキッド",
+    "naming_basis": "transliteration",
+    "source_url": "none",
+    "notes": "地區前綴 Tropical=熱帶"
+  },
+  {
+    "id": 2,
+    "english_name": "Toddle Young",
+    "chinese_name": "蹣跚少年",
+    "japanese_name": "トドルヤング",
+    "naming_basis": "transliteration",
+    "source_url": "none",
+    "notes": "無官方名"
+  },
+  {
+    "id": 3,
+    "english_name": "Tachutchi",
+    "chinese_name": "塔丘吉",
+    "japanese_name": "タチュッチ",
+    "naming_basis": "transliteration",
+    "source_url": "none",
+    "notes": "音譯"
+  },
+  {
+    "id": 4,
+    "english_name": "Tanoontchi",
+    "chinese_name": "塔農吉",
+    "japanese_name": "タヌンッチ",
+    "naming_basis": "transliteration",
+    "source_url": "none",
+    "notes": "音譯"
+  },
+  {
+    "id": 5,
+    "english_name": "Tarantytchi",
+    "chinese_name": "塔蘭蒂吉",
+    "japanese_name": "タランティッチ",
+    "naming_basis": "transliteration",
+    "source_url": "none",
+    "notes": "音譯"
+  },
+  {
+    "id": 6,
+    "english_name": "Tatsutchi",
+    "chinese_name": "塔圖吉",
+    "japanese_name": "タツッチ",
+    "naming_basis": "transliteration",
+    "source_url": "none",
+    "notes": "音譯"
+  },
+  {
+    "id": 7,
+    "english_name": "Tenatchi",
+    "chinese_name": "特納吉",
+    "japanese_name": "テナッチ",
+    "naming_basis": "transliteration",
+    "source_url": "none",
+    "notes": "音譯"
+  },
+  {
+    "id": 8,
+    "english_name": "Tentotchi",
+    "chinese_name": "天道吉",
+    "japanese_name": "テントッチ",
+    "naming_basis": "transliteration",
+    "source_url": "none",
+    "notes": "音譯"
+  },
+  {
+    "id": 9,
+    "english_name": "Tigaotchi",
+    "chinese_name": "提高吉",
+    "japanese_name": "ティガオッチ",
+    "naming_basis": "transliteration",
+    "source_url": "none",
+    "notes": "音譯"
+  },
+  {
+    "id": 10,
+    "english_name": "Tokipatchi",
+    "chinese_name": "托基帕吉",
+    "japanese_name": "トキパッチ",
+    "naming_basis": "transliteration",
+    "source_url": "none",
+    "notes": "音譯"
+  },
+  {
+    "id": 11,
+    "english_name": "Tropical Mametchi",
+    "chinese_name": "熱帶馬梅吉",
+    "japanese_name": "トロピカルまめっち",
+    "naming_basis": "transliteration",
+    "source_url": "none",
+    "notes": "地區前綴 Tropical=熱帶"
+  },
+  {
+    "id": 12,
+    "english_name": "Tropical Meowtchi",
+    "chinese_name": "熱帶喵吉",
+    "japanese_name": "トロピカルみゃうっち",
+    "naming_basis": "transliteration",
+    "source_url": "none",
+    "notes": "地區前綴 Tropical=熱帶"
+  },
+  {
+    "id": 13,
+    "english_name": "Tropical Potsunentchi",
+    "chinese_name": "熱帶波茨南吉",
+    "japanese_name": "トロピカルぽつねんっち",
+    "naming_basis": "transliteration",
+    "source_url": "none",
+    "notes": "地區前綴 Tropical=熱帶"
+  },
+  {
+    "id": 14,
+    "english_name": "Tustustchi",
+    "chinese_name": "圖斯圖斯吉",
+    "japanese_name": "ツスツスッチ",
+    "naming_basis": "transliteration",
+    "source_url": "none",
+    "notes": "音譯"
+  },
+  {
+    "id": 15,
+    "english_name": "Uruotchi",
+    "chinese_name": "烏魯奧吉",
+    "japanese_name": "ウルオッチ",
+    "naming_basis": "transliteration",
+    "source_url": "none",
+    "notes": "音譯"
+  }
+]

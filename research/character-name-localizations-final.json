@@ -1,0 +1,1074 @@
+{
+  "generatedAt": "2026-08-29T13:17:36.236Z",
+  "count": 133,
+  "uniqueEnglishNames": 121,
+  "userChartMappedForms": 125,
+  "preservedForms": 8,
+  "missing": [],
+  "mappings": [
+    {
+      "id": "babymarutchi-babymarutchi-png",
+      "englishName": "Babymarutchi",
+      "chineseName": "BB麻呂吉",
+      "namingBasis": "community_zh",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Babymarutchi",
+      "notes": "依據華語社群習慣或音譯"
+    },
+    {
+      "id": "forest-kid-forestkidparadiseartwork-png",
+      "englishName": "Forest Kid",
+      "chineseName": "森林幼年體",
+      "namingBasis": "descriptive_zh",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": "地區型態；"
+    },
+    {
+      "id": "frozen-kid-frozenkidparadiseartwork-png",
+      "englishName": "Frozen Kid",
+      "chineseName": "冰原幼年體",
+      "namingBasis": "descriptive_zh",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": "地區型態；"
+    },
+    {
+      "id": "land-kid-land-kid-png",
+      "englishName": "Land Kid",
+      "chineseName": "陸地幼年體",
+      "namingBasis": "descriptive_zh",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Land_Kid",
+      "notes": "Land (陸地) + Kid (童)"
+    },
+    {
+      "id": "sky-kid-sky-kid-png",
+      "englishName": "Sky Kid",
+      "chineseName": "天空幼年體",
+      "namingBasis": "descriptive_zh",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": ""
+    },
+    {
+      "id": "tropical-kid-tropicalkidparadiseartwork-png",
+      "englishName": "Tropical Kid",
+      "chineseName": "熱帶幼年體",
+      "namingBasis": "descriptive_zh",
+      "sourceUrl": "none",
+      "notes": "地區型態；地區前綴 Tropical=熱帶"
+    },
+    {
+      "id": "water-kid-water-kid-png",
+      "englishName": "Water Kid",
+      "chineseName": "水域幼年體",
+      "namingBasis": "descriptive_zh",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": "無官方或通行名稱，暫譯"
+    },
+    {
+      "id": "bumble-young-bumble-young-png",
+      "englishName": "Bumble Young",
+      "chineseName": "奔奔",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Bumble_Young",
+      "notes": "依使用者提供的 Sky 場地成長圖表外觀核對；young"
+    },
+    {
+      "id": "chirp-young-chirp-young-paradise-artwork-png",
+      "englishName": "Chirp Young",
+      "chineseName": "皮優皮優",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Chirp_Young",
+      "notes": "依使用者提供的 Sky 場地成長圖表外觀核對；young"
+    },
+    {
+      "id": "chirp-young-forestchirpyoungparadiseartwork-png",
+      "englishName": "Chirp Young",
+      "chineseName": "皮優皮優",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Chirp_Young",
+      "notes": "依使用者提供的 Forest 場地成長圖表外觀核對；young"
+    },
+    {
+      "id": "flap-young-flap-young-paradise-artwork-png",
+      "englishName": "Flap Young",
+      "chineseName": "帕塔帕塔",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Flap_Young",
+      "notes": "依使用者提供的 Sky 場地成長圖表外觀核對；young"
+    },
+    {
+      "id": "float-young-float-young-png",
+      "englishName": "Float Young",
+      "chineseName": "浮游浮游",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Float_Young",
+      "notes": "依使用者提供的 Water 場地成長圖表外觀核對；young"
+    },
+    {
+      "id": "float-young-frozenfloatyoungparadiseartwork-png",
+      "englishName": "Float Young",
+      "chineseName": "浮游",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Float_Young",
+      "notes": "依使用者提供的 Ice 場地成長圖表外觀核對；young"
+    },
+    {
+      "id": "glide-young-glide-young-png",
+      "englishName": "Glide Young",
+      "chineseName": "斯亦斯亦",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Glide_Young",
+      "notes": "依使用者提供的 Water 場地成長圖表外觀核對；young"
+    },
+    {
+      "id": "glide-young-frozenglideyoungparadiseartwork-png",
+      "englishName": "Glide Young",
+      "chineseName": "斯亦",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Glide_Young",
+      "notes": "依使用者提供的 Ice 場地成長圖表外觀核對；young"
+    },
+    {
+      "id": "leap-young-leap-young-png",
+      "englishName": "Leap Young",
+      "chineseName": "皮奇皮奇",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Leap_Young",
+      "notes": "依使用者提供的 Water 場地成長圖表外觀核對；young"
+    },
+    {
+      "id": "lick-young-lick-young-png",
+      "englishName": "Lick Young",
+      "chineseName": "佩洛佩洛",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Lick_Young",
+      "notes": "依使用者提供的 Land 場地成長圖表外觀核對；young"
+    },
+    {
+      "id": "lick-young-tropicallickyoungparadiseartwork-png",
+      "englishName": "Lick Young",
+      "chineseName": "羔羔",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Lick_Young",
+      "notes": "依使用者提供的 Tropical 場地成長圖表外觀核對；young"
+    },
+    {
+      "id": "paddle-young-paddle-young-png",
+      "englishName": "Paddle Young",
+      "chineseName": "拍拍",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": "依使用者提供的 Water 場地成長圖表外觀核對；young"
+    },
+    {
+      "id": "roar-young-roar-young-png",
+      "englishName": "Roar Young",
+      "chineseName": "羔羔",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": "依使用者提供的 Land 場地成長圖表外觀核對；young"
+    },
+    {
+      "id": "roar-young-forestroaryoungparadiseartwork-png",
+      "englishName": "Roar Young",
+      "chineseName": "羔羔",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": "依使用者提供的 Forest 場地成長圖表外觀核對；young"
+    },
+    {
+      "id": "roar-young-tropicalroaryoungparadiseartwork-png",
+      "englishName": "Roar Young",
+      "chineseName": "佩洛",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": "依使用者提供的 Tropical 場地成長圖表外觀核對；young"
+    },
+    {
+      "id": "roar-young-frozenroaryoungparadiseartwork-png",
+      "englishName": "Roar Young",
+      "chineseName": "特庫",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": "依使用者提供的 Ice 場地成長圖表外觀核對；young"
+    },
+    {
+      "id": "rocky-young-rocky-young-png",
+      "englishName": "Rocky Young",
+      "chineseName": "卡奇卡奇",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": "依使用者提供的 Sky 場地成長圖表外觀核對；young"
+    },
+    {
+      "id": "sprout-young-sprout-young-png",
+      "englishName": "Sprout Young",
+      "chineseName": "扭奇扭奇",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": "依使用者提供的 Land 場地成長圖表外觀核對；young"
+    },
+    {
+      "id": "sprout-young-forestsproutyoungparadiseartwork-png",
+      "englishName": "Sprout Young",
+      "chineseName": "扭奇扭奇",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": "依使用者提供的 Forest 場地成長圖表外觀核對；young"
+    },
+    {
+      "id": "sprout-young-tropicalsproutyoungparadiseartwork-png",
+      "englishName": "Sprout Young",
+      "chineseName": "扭奇",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": "依使用者提供的 Tropical 場地成長圖表外觀核對；young"
+    },
+    {
+      "id": "toddle-young-toddle-young-png",
+      "englishName": "Toddle Young",
+      "chineseName": "特庫特庫",
+      "namingBasis": "user_chart",
+      "sourceUrl": "none",
+      "notes": "依使用者提供的 Land 場地成長圖表外觀核對；young"
+    },
+    {
+      "id": "toddle-young-foresttoddleyoungparadiseartwork-png",
+      "englishName": "Toddle Young",
+      "chineseName": "特庫特庫",
+      "namingBasis": "user_chart",
+      "sourceUrl": "none",
+      "notes": "依使用者提供的 Forest 場地成長圖表外觀核對；young"
+    },
+    {
+      "id": "toddle-young-tropicaltoddleyoungparadiseartwork-png",
+      "englishName": "Toddle Young",
+      "chineseName": "特庫",
+      "namingBasis": "user_chart",
+      "sourceUrl": "none",
+      "notes": "依使用者提供的 Tropical 場地成長圖表外觀核對；young"
+    },
+    {
+      "id": "toddle-young-frozentoddleyoungparadiseartwork-png",
+      "englishName": "Toddle Young",
+      "chineseName": "羔羔",
+      "namingBasis": "user_chart",
+      "sourceUrl": "none",
+      "notes": "依使用者提供的 Ice 場地成長圖表外觀核對；young"
+    },
+    {
+      "id": "amefuratchi-amefuratchi-paradise-png",
+      "englishName": "Amefuratchi",
+      "chineseName": "海兔吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Amefuratchi",
+      "notes": "依使用者提供的 Water 場地成長圖表外觀核對；adult_2_5"
+    },
+    {
+      "id": "ananatchi-ananatchiparadiseartwork-png",
+      "englishName": "Ananatchi",
+      "chineseName": "菠蘿吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Ananatchi",
+      "notes": "依使用者提供的 Tropical 場地成長圖表外觀核對；adult_2_5"
+    },
+    {
+      "id": "ankotchi-ankotchi-paradise-png",
+      "englishName": "Ankotchi",
+      "chineseName": "安康吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Ankotchi",
+      "notes": "依使用者提供的 Water 場地成長圖表外觀核對；adult_2_5"
+    },
+    {
+      "id": "avovotchi-avovotchiparadiseartwork-png",
+      "englishName": "Avovotchi",
+      "chineseName": "牛油果吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Avovotchi",
+      "notes": "依使用者提供的 Tropical 場地成長圖表外觀核對；adult_6"
+    },
+    {
+      "id": "axolopatchi-axolopatchi-paradise-png",
+      "englishName": "Axolopatchi",
+      "chineseName": "阿活洛帕吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Axolopatchi",
+      "notes": "依使用者提供的 Water 場地成長圖表外觀核對；adult_perfect"
+    },
+    {
+      "id": "azaratchi-azaratchiparadiseartwork-png",
+      "englishName": "Azaratchi",
+      "chineseName": "海豹吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Azaratchi",
+      "notes": "依使用者提供的 Ice 場地成長圖表外觀核對；adult_6"
+    },
+    {
+      "id": "batatchi-batatchi-paradise-png",
+      "englishName": "Batatchi",
+      "chineseName": "啪嗒吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Batatchi",
+      "notes": "依使用者提供的 Sky 場地成長圖表外觀核對；adult_6"
+    },
+    {
+      "id": "batchi-batchi-paradise-png",
+      "englishName": "Batchi",
+      "chineseName": "蝠吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Batchi",
+      "notes": "依使用者提供的 Sky 場地成長圖表外觀核對；adult_6"
+    },
+    {
+      "id": "bbmarutchi-bbmarutchi-paradise-artwork-png",
+      "englishName": "Bbmarutchi",
+      "chineseName": "巨型麻呂吉",
+      "namingBasis": "community_zh",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Bbmarutchi",
+      "notes": "依據華語社群習慣或音譯"
+    },
+    {
+      "id": "beavertchi-beavertchi-paradise-png",
+      "englishName": "Beavertchi",
+      "chineseName": "比巴吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Beavertchi",
+      "notes": "依使用者提供的 Water 場地成長圖表外觀核對；adult_6"
+    },
+    {
+      "id": "chameleotchi-chameleotchi-png",
+      "englishName": "Chameleotchi",
+      "chineseName": "變色龍吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Chameleotchi",
+      "notes": "依使用者提供的 Tropical 場地成長圖表外觀核對；adult_2_5"
+    },
+    {
+      "id": "chodracotchi-chodracotchi-paradise-png",
+      "englishName": "Chodracotchi",
+      "chineseName": "小龍吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Chodracotchi",
+      "notes": "依使用者提供的 Land 場地成長圖表外觀核對；hidden"
+    },
+    {
+      "id": "crocotchi-crocotchiparadiseartwork-png",
+      "englishName": "Crocotchi",
+      "chineseName": "鱷魚吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Crocotchi",
+      "notes": "依使用者提供的 Tropical 場地成長圖表外觀核對；adult_6"
+    },
+    {
+      "id": "dangouotchi-dangouotchiparadiseartwork-png",
+      "englishName": "Dangouotchi",
+      "chineseName": "圓魚吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Dangouotchi",
+      "notes": "依使用者提供的 Ice 場地成長圖表外觀核對；adult_0_1"
+    },
+    {
+      "id": "eagletchi-eagletchi-paradise-png",
+      "englishName": "Eagletchi",
+      "chineseName": "伊哥吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Eagletchi",
+      "notes": "依使用者提供的 Sky 場地成長圖表外觀核對；adult_2_5"
+    },
+    {
+      "id": "elizardotchi-elizardotchi-paradise-png",
+      "englishName": "Elizardotchi",
+      "chineseName": "蜥蜥吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Elizardotchi",
+      "notes": "依使用者提供的 Land 場地成長圖表外觀核對；adult_2_5"
+    },
+    {
+      "id": "forest-horhotchi-foresthorhotchifaceforward-artwork-png",
+      "englishName": "Forest Horhotchi",
+      "chineseName": "夥夥吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Horhotchi",
+      "notes": "依使用者提供的 Forest 場地成長圖表外觀核對；adult_perfect"
+    },
+    {
+      "id": "furawatchi-furawatchi-paradise-artwork-png",
+      "englishName": "Furawatchi",
+      "chineseName": "芙朵吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Furawatchi",
+      "notes": "依使用者提供的 Land 場地成長圖表外觀核對；adult_perfect"
+    },
+    {
+      "id": "gemtchi-gemtchi-paradise-png",
+      "englishName": "Gemtchi",
+      "chineseName": "寶石吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Gemtchi",
+      "notes": "依使用者提供的 Sky 場地成長圖表外觀核對；adult_perfect"
+    },
+    {
+      "id": "ginjirotchi-ginjirotchiparadiseartwork-png",
+      "englishName": "Ginjirotchi",
+      "chineseName": "銀次郎吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Ginjirotchi",
+      "notes": "依使用者提供的 Ice 場地成長圖表外觀核對；adult_0_1"
+    },
+    {
+      "id": "gumax-gumax-paradise-png",
+      "englishName": "Gumax",
+      "chineseName": "叉叉熊",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Gumax",
+      "notes": "依使用者提供的 Land 場地成長圖表外觀核對；adult_2_5"
+    },
+    {
+      "id": "gusokutchi-gusokutchi-paradise-png",
+      "englishName": "Gusokutchi",
+      "chineseName": "多多吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Gusokutchi",
+      "notes": "依使用者提供的 Water 場地成長圖表外觀核對；adult_6"
+    },
+    {
+      "id": "hatchitchi-hatchitchi-paradise-png",
+      "englishName": "Hatchitchi",
+      "chineseName": "蜂蜂吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Hatchitchi",
+      "notes": "依使用者提供的 Sky 場地成長圖表外觀核對；adult_0_1"
+    },
+    {
+      "id": "heavytchi-heavytchi-paradise-png",
+      "englishName": "Heavytchi",
+      "chineseName": "蛇蛇吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Heavytchi",
+      "notes": "依使用者提供的 Land 場地成長圖表外觀核對；adult_6"
+    },
+    {
+      "id": "hobohorntchi-hobohorntchiparadiseartwork-png",
+      "englishName": "Hobohorntchi",
+      "chineseName": "獨角鯨吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Hobohorntchi",
+      "notes": "依使用者提供的 Ice 場地成長圖表外觀核對；hidden"
+    },
+    {
+      "id": "hoppentchi-hoppentchiparadiseartwork-png",
+      "englishName": "Hoppentchi",
+      "chineseName": "企鵝吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Hoppentchi",
+      "notes": "依使用者提供的 Ice 場地成長圖表外觀核對；adult_6"
+    },
+    {
+      "id": "horhotchi-horhotchi-paradise-png",
+      "englishName": "Horhotchi",
+      "chineseName": "伙伙吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Horhotchi",
+      "notes": "依使用者提供的 Sky 場地成長圖表外觀核對；adult_perfect"
+    },
+    {
+      "id": "icy-irukatchi-shiroirukatchiparadiseartwork-png",
+      "englishName": "Icy Irukatchi",
+      "chineseName": "白海豚吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Irukatchi",
+      "notes": "依使用者提供的 Ice 場地成長圖表外觀核對；adult_perfect"
+    },
+    {
+      "id": "iguanatchi-iguanatchiparadiseartwork-png",
+      "englishName": "Iguanatchi",
+      "chineseName": "鬣蜥吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Iguanatchi",
+      "notes": "依使用者提供的 Tropical 場地成長圖表外觀核對；adult_6"
+    },
+    {
+      "id": "imoritchi-imoritchi-paradise-png",
+      "englishName": "Imoritchi",
+      "chineseName": "伊莫哩吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Imoritchi",
+      "notes": "依使用者提供的 Water 場地成長圖表外觀核對；adult_0_1"
+    },
+    {
+      "id": "irukatchi-irukatchi-paradise-png",
+      "englishName": "Irukatchi",
+      "chineseName": "海豚吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Irukatchi",
+      "notes": "依使用者提供的 Water 場地成長圖表外觀核對；adult_perfect"
+    },
+    {
+      "id": "ishikorotchi-ishikorotchi-paradise-png",
+      "englishName": "Ishikorotchi",
+      "chineseName": "岩石吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Ishikorotchi",
+      "notes": "依使用者提供的 Sky 場地成長圖表外觀核對；adult_2_5"
+    },
+    {
+      "id": "kabutotchi-kabutotchi-paradise-png",
+      "englishName": "Kabutotchi",
+      "chineseName": "甲蟲吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Kabutotchi",
+      "notes": "依使用者提供的 Sky 場地成長圖表外觀核對；adult_0_1"
+    },
+    {
+      "id": "kachitchi-kachitchifaceforward-artwork-png",
+      "englishName": "Kachitchi",
+      "chineseName": "鵲鵲吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Kachitchi",
+      "notes": "依使用者提供的 Forest 場地成長圖表外觀核對；adult_perfect"
+    },
+    {
+      "id": "kametchi-kametchi-paradise-png",
+      "englishName": "Kametchi",
+      "chineseName": "龜龜吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Kametchi",
+      "notes": "依使用者提供的 Water 場地成長圖表外觀核對；adult_0_1"
+    },
+    {
+      "id": "kanokotchi-kanokotchifaceforward-artwork-png",
+      "englishName": "Kanokotchi",
+      "chineseName": "小鹿吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Kanokotchi",
+      "notes": "依使用者提供的 Forest 場地成長圖表外觀核對；adult_0_1"
+    },
+    {
+      "id": "kawazutchi-kawazutchi-paradise-png",
+      "englishName": "Kawazutchi",
+      "chineseName": "雨蛙吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Kawazutchi",
+      "notes": "依使用者提供的 Water 場地成長圖表外觀核對；adult_2_5"
+    },
+    {
+      "id": "kiwitchi-kiwitchi-paradise-png",
+      "englishName": "Kiwitchi",
+      "chineseName": "奇異吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Kiwitchi",
+      "notes": "依使用者提供的 Sky 場地成長圖表外觀核對；adult_6"
+    },
+    {
+      "id": "konkotchi-konkotchifaceforward-artwork-png",
+      "englishName": "Konkotchi",
+      "chineseName": "狐狐吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Konkotchi",
+      "notes": "依使用者提供的 Forest 場地成長圖表外觀核對；adult_0_1"
+    },
+    {
+      "id": "kuchipatchi-kuchipatchi-paradise-png",
+      "englishName": "Kuchipatchi",
+      "chineseName": "大嘴吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Kuchipatchi",
+      "notes": "依使用者提供的 Sky 場地成長圖表外觀核對；adult_2_5"
+    },
+    {
+      "id": "kuikuitchi-kuikuitchiparadiseartwork-png",
+      "englishName": "Kuikuitchi",
+      "chineseName": "食蟻吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Kuikuitchi",
+      "notes": "依使用者提供的 Tropical 場地成長圖表外觀核對；adult_perfect"
+    },
+    {
+      "id": "kujiratchi-kujiratchi-paradise-png",
+      "englishName": "Kujiratchi",
+      "chineseName": "鯨鯨吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Kujiratchi",
+      "notes": "依使用者提供的 Water 場地成長圖表外觀核對；adult_2_5"
+    },
+    {
+      "id": "kuraratchi-kuraratchi-paradise-png",
+      "englishName": "Kuraratchi",
+      "chineseName": "浮浮吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Kuraratchi",
+      "notes": "依使用者提供的 Water 場地成長圖表外觀核對；adult_perfect"
+    },
+    {
+      "id": "lemmingtchi-lemmingtchiparadiseartwork-png",
+      "englishName": "Lemmingtchi",
+      "chineseName": "旅鼠吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Lemmingtchi",
+      "notes": "依使用者提供的 Ice 場地成長圖表外觀核對；adult_perfect"
+    },
+    {
+      "id": "leopatchi-leopatchi-paradise-png",
+      "englishName": "Leopatchi",
+      "chineseName": "守宮吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Leopatchi",
+      "notes": "依使用者提供的 Land 場地成長圖表外觀核對；adult_perfect"
+    },
+    {
+      "id": "lessapantchi-lessapantchifaceforward-artwork-png",
+      "englishName": "Lessapantchi",
+      "chineseName": "小熊貓吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Lessapantchi",
+      "notes": "依使用者提供的 Forest 場地成長圖表外觀核對；adult_perfect"
+    },
+    {
+      "id": "madillotchi-madillotchiparadiseartwork-png",
+      "englishName": "Madillotchi",
+      "chineseName": "犰狳吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": "依使用者提供的 Tropical 場地成長圖表外觀核對；adult_0_1"
+    },
+    {
+      "id": "magmatchi-magmatchi-paradise-png",
+      "englishName": "Magmatchi",
+      "chineseName": "岩漿吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": "依使用者提供的 Sky 場地成長圖表外觀核對；adult_6"
+    },
+    {
+      "id": "mametchi-mametchi-paradise-png",
+      "englishName": "Mametchi",
+      "chineseName": "豆丁吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": "依使用者提供的 Land 場地成長圖表外觀核對；adult_perfect"
+    },
+    {
+      "id": "manapatchi-manapatchiparadiseartwork-png",
+      "englishName": "Manapatchi",
+      "chineseName": "馬納葉吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": "依使用者提供的 Tropical 場地成長圖表外觀核對；hidden"
+    },
+    {
+      "id": "mendakotchi-mendakotchi-paradise-png",
+      "englishName": "Mendakotchi",
+      "chineseName": "萌噠吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": "依使用者提供的 Water 場地成長圖表外觀核對；adult_0_1"
+    },
+    {
+      "id": "meowtchi-meowtchi-png",
+      "englishName": "Meowtchi",
+      "chineseName": "貓貓吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": "依使用者提供的 Land 場地成長圖表外觀核對；adult_perfect"
+    },
+    {
+      "id": "mermarintchi-mermarintchi-paradise-png",
+      "englishName": "Mermarintchi",
+      "chineseName": "人魚吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": "依使用者提供的 Water 場地成長圖表外觀核對；hidden"
+    },
+    {
+      "id": "mimitchi-mimitchi-paradise-png",
+      "englishName": "Mimitchi",
+      "chineseName": "大耳吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": "依使用者提供的 Land 場地成長圖表外觀核對；adult_0_1"
+    },
+    {
+      "id": "molmotchi-molmotchi-paradise-png",
+      "englishName": "Molmotchi",
+      "chineseName": "摩爾吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": "依使用者提供的 Land 場地成長圖表外觀核對；adult_2_5"
+    },
+    {
+      "id": "mongatchi-mongatchi-paradise-artwork-png",
+      "englishName": "Mongatchi",
+      "chineseName": "飛鼠吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": "依使用者提供的 Sky 場地成長圖表外觀核對；adult_0_1"
+    },
+    {
+      "id": "moosetchi-moosetchiparadiseartwork-png",
+      "englishName": "Moosetchi",
+      "chineseName": "駝鹿吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": "依使用者提供的 Ice 場地成長圖表外觀核對；adult_0_1"
+    },
+    {
+      "id": "namakemotchi-namakemotchiparadiseartwork-png",
+      "englishName": "Namakemotchi",
+      "chineseName": "樹懶吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": "依使用者提供的 Tropical 場地成長圖表外觀核對；adult_6"
+    },
+    {
+      "id": "nappatchi-nappatchifaceforward-png",
+      "englishName": "Nappatchi",
+      "chineseName": "菜葉吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": "依使用者提供的 Forest 場地成長圖表外觀核對；adult_2_5"
+    },
+    {
+      "id": "nerinetchi-nerinetchiparadiseartwork-png",
+      "englishName": "Nerinetchi",
+      "chineseName": "海天使吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": "依使用者提供的 Ice 場地成長圖表外觀核對；adult_perfect"
+    },
+    {
+      "id": "okojotchi-okojotchiparadiseartwork-png",
+      "englishName": "Okojotchi",
+      "chineseName": "雪貂吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": "依使用者提供的 Ice 場地成長圖表外觀核對；adult_perfect"
+    },
+    {
+      "id": "oretatchi-oretatchi-paradise-png",
+      "englishName": "Oretatchi",
+      "chineseName": "礦石吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": "依使用者提供的 Sky 場地成長圖表外觀核對；adult_0_1"
+    },
+    {
+      "id": "otototchi-otototchi-paradise-png",
+      "englishName": "Otototchi",
+      "chineseName": "海馬吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": "依使用者提供的 Water 場地成長圖表外觀核對；adult_perfect"
+    },
+    {
+      "id": "panbootchi-panbootchifaceforward-artwork-png",
+      "englishName": "Panbootchi",
+      "chineseName": "熊貓豬吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": "依使用者提供的 Forest 場地成長圖表外觀核對；adult_6"
+    },
+    {
+      "id": "papillotchi-papillotchi-paradise-png",
+      "englishName": "Papillotchi",
+      "chineseName": "蝶蝶吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": "依使用者提供的 Sky 場地成長圖表外觀核對；adult_perfect"
+    },
+    {
+      "id": "parorotchi-parorotchiparadiseartwork-png",
+      "englishName": "Parorotchi",
+      "chineseName": "鸚鵡吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": "依使用者提供的 Tropical 場地成長圖表外觀核對；adult_0_1"
+    },
+    {
+      "id": "peacotchi-peacotchi-paradise-png",
+      "englishName": "Peacotchi",
+      "chineseName": "孔雀吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": "依使用者提供的 Sky 場地成長圖表外觀核對；adult_perfect"
+    },
+    {
+      "id": "peatchi-peatchifaceforward-artwork-png",
+      "englishName": "Peatchi",
+      "chineseName": "桃桃吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": "依使用者提供的 Forest 場地成長圖表外觀核對；adult_0_1"
+    },
+    {
+      "id": "pochitchi-pochitchi-paradise-png",
+      "englishName": "Pochitchi",
+      "chineseName": "波吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": "依使用者提供的 Land 場地成長圖表外觀核對；adult_0_1"
+    },
+    {
+      "id": "poizutchi-poizutchiparadiseartwork-png",
+      "englishName": "Poizutchi",
+      "chineseName": "箭蛙吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": "依使用者提供的 Tropical 場地成長圖表外觀核對；adult_0_1"
+    },
+    {
+      "id": "polakumatchi-polakumatchiparadiseartwork-png",
+      "englishName": "Polakumatchi",
+      "chineseName": "冰熊吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": "依使用者提供的 Ice 場地成長圖表外觀核對；adult_2_5"
+    },
+    {
+      "id": "potsunentchi-potsunentchi-paradise-png",
+      "englishName": "Potsunentchi",
+      "chineseName": "一朵吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": "依使用者提供的 Land 場地成長圖表外觀核對；adult_0_1"
+    },
+    {
+      "id": "raichotchi-raichotchiparadiseartwork-png",
+      "englishName": "Raichotchi",
+      "chineseName": "雷鳥吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": "依使用者提供的 Ice 場地成長圖表外觀核對；adult_2_5"
+    },
+    {
+      "id": "rakkotchi-rakkotchiparadiseartwork-png",
+      "englishName": "Rakkotchi",
+      "chineseName": "海獺吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": "依使用者提供的 Ice 場地成長圖表外觀核對；adult_2_5"
+    },
+    {
+      "id": "ratchi-ratchi-paradise-png",
+      "englishName": "Ratchi",
+      "chineseName": "樂樂吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": "依使用者提供的 Land 場地成長圖表外觀核對；adult_6"
+    },
+    {
+      "id": "rushraditchi-rushraditchifaceforward-artwork-png",
+      "englishName": "Rushraditchi",
+      "chineseName": "跑蘿吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": "依使用者提供的 Forest 場地成長圖表外觀核對；adult_6"
+    },
+    {
+      "id": "sebiretchi-sebiretchi-paradise-png",
+      "englishName": "Sebiretchi",
+      "chineseName": "龍崽吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": "依使用者提供的 Land 場地成長圖表外觀核對；adult_0_1"
+    },
+    {
+      "id": "sharktchi-sharktchi-paradise-png",
+      "englishName": "Sharktchi",
+      "chineseName": "鯊魚吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": "依使用者提供的 Water 場地成長圖表外觀核對；adult_0_1"
+    },
+    {
+      "id": "sheeptchi-sheeptchi-paradise-png",
+      "englishName": "Sheeptchi",
+      "chineseName": "咩咩吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": "依使用者提供的 Land 場地成長圖表外觀核對；adult_6"
+    },
+    {
+      "id": "shigemi-san-shigemisan-paradise-png",
+      "englishName": "Shigemi-san",
+      "chineseName": "灌木吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": "依使用者提供的 Land 場地成長圖表外觀核對；adult_6"
+    },
+    {
+      "id": "shiitaketchi-shitaketchifaceforward-artwork-png",
+      "englishName": "Shiitaketchi",
+      "chineseName": "香菇吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": "依使用者提供的 Forest 場地成長圖表外觀核對；adult_perfect"
+    },
+    {
+      "id": "sparrotchi-sparrotchifaceforward-artwork-png",
+      "englishName": "Sparrotchi",
+      "chineseName": "麻雀吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": "依使用者提供的 Forest 場地成長圖表外觀核對；adult_6"
+    },
+    {
+      "id": "suigyutchi-sugyutchifaceforward-artwork-png",
+      "englishName": "Suigyutchi",
+      "chineseName": "水牛吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": "依使用者提供的 Forest 場地成長圖表外觀核對；adult_2_5"
+    },
+    {
+      "id": "tachutchi-tachutchi-paradise-png",
+      "englishName": "Tachutchi",
+      "chineseName": "足足吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "none",
+      "notes": "依使用者提供的 Water 場地成長圖表外觀核對；adult_6"
+    },
+    {
+      "id": "tanoontchi-tanoontchifaceforward-artwork-png",
+      "englishName": "Tanoontchi",
+      "chineseName": "狸貓吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "none",
+      "notes": "依使用者提供的 Forest 場地成長圖表外觀核對；adult_6"
+    },
+    {
+      "id": "tarantytchi-tarantytchiparadiseartwork-png",
+      "englishName": "Tarantytchi",
+      "chineseName": "塔蘭托吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "none",
+      "notes": "依使用者提供的 Tropical 場地成長圖表外觀核對；adult_2_5"
+    },
+    {
+      "id": "tatsutchi-tatsutchi-front-facing-artwork-png",
+      "englishName": "Tatsutchi",
+      "chineseName": "立龍吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "none",
+      "notes": "依使用者提供的 Forest 場地成長圖表外觀核對；hidden"
+    },
+    {
+      "id": "tenatchi-tenatchiparadiseartwork-png",
+      "englishName": "Tenatchi",
+      "chineseName": "長臂吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "none",
+      "notes": "依使用者提供的 Tropical 場地成長圖表外觀核對；adult_2_5"
+    },
+    {
+      "id": "tentotchi-tentotchi-paradise-png",
+      "englishName": "Tentotchi",
+      "chineseName": "小瓢吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "none",
+      "notes": "依使用者提供的 Sky 場地成長圖表外觀核對；adult_2_5"
+    },
+    {
+      "id": "tigaotchi-tigaotchifaceforward-artwork-png",
+      "englishName": "Tigaotchi",
+      "chineseName": "老虎吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "none",
+      "notes": "依使用者提供的 Forest 場地成長圖表外觀核對；adult_2_5"
+    },
+    {
+      "id": "tokipatchi-tokipatchifaceforward-artwork-png",
+      "englishName": "Tokipatchi",
+      "chineseName": "朱鷺吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "none",
+      "notes": "依使用者提供的 Forest 場地成長圖表外觀核對；adult_0_1"
+    },
+    {
+      "id": "tropical-mametchi-tropicalmametchiparadiseartwork-png",
+      "englishName": "Tropical Mametchi",
+      "chineseName": "南方豆丁吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": "依使用者提供的 Tropical 場地成長圖表外觀核對；adult_perfect"
+    },
+    {
+      "id": "tropical-meowtchi-tropicalmeowtchiparadiseartwork-png",
+      "englishName": "Tropical Meowtchi",
+      "chineseName": "南方貓貓吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": "依使用者提供的 Tropical 場地成長圖表外觀核對；adult_perfect"
+    },
+    {
+      "id": "tropical-potsunentchi-tropicalpotsunentchiparadiseartwork-png",
+      "englishName": "Tropical Potsunentchi",
+      "chineseName": "南方一朵吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": "依使用者提供的 Tropical 場地成長圖表外觀核對；adult_0_1"
+    },
+    {
+      "id": "tustustchi-tustustchi-paradise-png",
+      "englishName": "Tustustchi",
+      "chineseName": "刺刺吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "none",
+      "notes": "依使用者提供的 Land 場地成長圖表外觀核對；adult_2_5"
+    },
+    {
+      "id": "uruotchi-uruotchi-paradise-png",
+      "englishName": "Uruotchi",
+      "chineseName": "烏爾吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "none",
+      "notes": "依使用者提供的 Water 場地成長圖表外觀核對；adult_6"
+    },
+    {
+      "id": "wolftchi-wolftchiparadiseartwork-png",
+      "englishName": "Wolftchi",
+      "chineseName": "冰狼吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Wolftchi",
+      "notes": "依使用者提供的 Ice 場地成長圖表外觀核對；adult_0_1"
+    },
+    {
+      "id": "yashikitchi-yashikitchiparadiseartwork-png",
+      "englishName": "Yashikitchi",
+      "chineseName": "椰樹吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Yashikitchi",
+      "notes": "依使用者提供的 Tropical 場地成長圖表外觀核對；adult_perfect"
+    },
+    {
+      "id": "yayacorntchi-yayacorntchi-paradise-png",
+      "englishName": "Yayacorntchi",
+      "chineseName": "獨角吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Yayacorntchi",
+      "notes": "依使用者提供的 Sky 場地成長圖表外觀核對；hidden"
+    },
+    {
+      "id": "yaytytchi-yaytytchiparadiseartwork-png",
+      "englishName": "Yaytytchi",
+      "chineseName": "雪蟹吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Yaytytchi",
+      "notes": "依使用者提供的 Ice 場地成長圖表外觀核對；adult_2_5"
+    },
+    {
+      "id": "yukiraratchi-yukiraratchiparadiseartwork-png",
+      "englishName": "Yukiraratchi",
+      "chineseName": "雪晶吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Yukiraratchi",
+      "notes": "依使用者提供的 Ice 場地成長圖表外觀核對；adult_6"
+    },
+    {
+      "id": "yukiusatchi-yukiusatchiparadiseartwork-png",
+      "englishName": "Yukiusatchi",
+      "chineseName": "雪兔吉",
+      "namingBasis": "user_chart",
+      "sourceUrl": "https://tamagotchi.fandom.com/wiki/Yukiusatchi",
+      "notes": "依使用者提供的 Ice 場地成長圖表外觀核對；adult_6"
+    }
+  ]
+}

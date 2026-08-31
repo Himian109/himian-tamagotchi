@@ -1,0 +1,233 @@
+[
+  {
+    "field": "Forest",
+    "row": 1,
+    "slot": "young",
+    "catalog_id": "roar-young-forestroaryoungparadiseartwork-png",
+    "english_name": "Roar Young",
+    "user_name_simplified": "羔羔",
+    "user_name_traditional": "羔羔",
+    "visual_evidence": "粉色圆球状",
+    "confidence": 1
+  },
+  {
+    "field": "Forest",
+    "row": 1,
+    "slot": "adult_perfect",
+    "catalog_id": "forest-horhotchi-foresthorhotchifaceforward-artwork-png",
+    "english_name": "Forest Horhotchi",
+    "user_name_simplified": "伙伙吉",
+    "user_name_traditional": "夥夥吉",
+    "visual_evidence": "粉紫色猫头鹰",
+    "confidence": 1
+  },
+  {
+    "field": "Forest",
+    "row": 1,
+    "slot": "adult_0_1",
+    "catalog_id": "konkotchi-konkotchifaceforward-artwork-png",
+    "english_name": "Konkotchi",
+    "user_name_simplified": "狐狐吉",
+    "user_name_traditional": "狐狐吉",
+    "visual_evidence": "黄蓝色狐狸",
+    "confidence": 1
+  },
+  {
+    "field": "Forest",
+    "row": 1,
+    "slot": "adult_2_5",
+    "catalog_id": "tigaotchi-tigaotchifaceforward-artwork-png",
+    "english_name": "Tigaotchi",
+    "user_name_simplified": "老虎吉",
+    "user_name_traditional": "老虎吉",
+    "visual_evidence": "橙色老虎",
+    "confidence": 1
+  },
+  {
+    "field": "Forest",
+    "row": 1,
+    "slot": "adult_6",
+    "catalog_id": "tanoontchi-tanoontchifaceforward-artwork-png",
+    "english_name": "Tanoontchi",
+    "user_name_simplified": "狸猫吉",
+    "user_name_traditional": "狸貓吉",
+    "visual_evidence": "粉色胖狸猫",
+    "confidence": 1
+  },
+  {
+    "field": "Forest",
+    "row": 2,
+    "slot": "young",
+    "catalog_id": "toddle-young-foresttoddleyoungparadiseartwork-png",
+    "english_name": "Toddle Young",
+    "user_name_simplified": "特库特库",
+    "user_name_traditional": "特庫特庫",
+    "visual_evidence": "浅蓝色小圆块",
+    "confidence": 1
+  },
+  {
+    "field": "Forest",
+    "row": 2,
+    "slot": "adult_perfect",
+    "catalog_id": "lessapantchi-lessapantchifaceforward-artwork-png",
+    "english_name": "Lessapantchi",
+    "user_name_simplified": "小熊猫吉",
+    "user_name_traditional": "小熊貓吉",
+    "visual_evidence": "粉蓝相间小熊猫",
+    "confidence": 1
+  },
+  {
+    "field": "Forest",
+    "row": 2,
+    "slot": "adult_0_1",
+    "catalog_id": "kanokotchi-kanokotchifaceforward-artwork-png",
+    "english_name": "Kanokotchi",
+    "user_name_simplified": "小鹿吉",
+    "user_name_traditional": "小鹿吉",
+    "visual_evidence": "粉色小鹿",
+    "confidence": 1
+  },
+  {
+    "field": "Forest",
+    "row": 2,
+    "slot": "adult_2_5",
+    "catalog_id": "suigyutchi-sugyutchifaceforward-artwork-png",
+    "english_name": "Suigyutchi",
+    "user_name_simplified": "水牛吉",
+    "user_name_traditional": "水牛吉",
+    "visual_evidence": "蓝色水牛",
+    "confidence": 1
+  },
+  {
+    "field": "Forest",
+    "row": 2,
+    "slot": "adult_6",
+    "catalog_id": "panbootchi-panbootchifaceforward-artwork-png",
+    "english_name": "Panbootchi",
+    "user_name_simplified": "熊猫猪吉",
+    "user_name_traditional": "熊貓豬吉",
+    "visual_evidence": "黑白熊猫花纹猪",
+    "confidence": 1
+  },
+  {
+    "field": "Forest",
+    "row": 3,
+    "slot": "young",
+    "catalog_id": "chirp-young-forestchirpyoungparadiseartwork-png",
+    "english_name": "Chirp Young",
+    "user_name_simplified": "皮优皮优",
+    "user_name_traditional": "皮優皮優",
+    "visual_evidence": "白色小鸟",
+    "confidence": 1
+  },
+  {
+    "field": "Forest",
+    "row": 3,
+    "slot": "adult_perfect",
+    "catalog_id": "kachitchi-kachitchifaceforward-artwork-png",
+    "english_name": "Kachitchi",
+    "user_name_simplified": "鹊鹊吉",
+    "user_name_traditional": "鵲鵲吉",
+    "visual_evidence": "蓝色喜鹊",
+    "confidence": 1
+  },
+  {
+    "field": "Forest",
+    "row": 3,
+    "slot": "adult_0_1",
+    "catalog_id": "tokipatchi-tokipatchifaceforward-artwork-png",
+    "english_name": "Tokipatchi",
+    "user_name_simplified": "朱鹭吉",
+    "user_name_traditional": "朱鷺吉",
+    "visual_evidence": "白色红脸朱鹭",
+    "confidence": 1
+  },
+  {
+    "field": "Forest",
+    "row": 3,
+    "slot": "adult_2_5",
+    "catalog_id": "kuchipatchi-kuchipatchi-paradise-png",
+    "english_name": "Kuchipatchi",
+    "user_name_simplified": "大嘴吉",
+    "user_name_traditional": "大嘴吉",
+    "visual_evidence": "绿色大嘴鸟",
+    "confidence": 1
+  },
+  {
+    "field": "Forest",
+    "row": 3,
+    "slot": "adult_6",
+    "catalog_id": "sparrotchi-sparrotchifaceforward-artwork-png",
+    "english_name": "Sparrotchi",
+    "user_name_simplified": "麻雀吉",
+    "user_name_traditional": "麻雀吉",
+    "visual_evidence": "胖麻雀",
+    "confidence": 1
+  },
+  {
+    "field": "Forest",
+    "row": 4,
+    "slot": "young",
+    "catalog_id": "sprout-young-forestsproutyoungparadiseartwork-png",
+    "english_name": "Sprout Young",
+    "user_name_simplified": "扭奇扭奇",
+    "user_name_traditional": "扭奇扭奇",
+    "visual_evidence": "粉色尖头小生物",
+    "confidence": 1
+  },
+  {
+    "field": "Forest",
+    "row": 4,
+    "slot": "adult_perfect",
+    "catalog_id": "shiitaketchi-shitaketchifaceforward-artwork-png",
+    "english_name": "Shiitaketchi",
+    "user_name_simplified": "香菇吉",
+    "user_name_traditional": "香菇吉",
+    "visual_evidence": "顶着香菇的小生物",
+    "confidence": 1
+  },
+  {
+    "field": "Forest",
+    "row": 4,
+    "slot": "adult_0_1",
+    "catalog_id": "peatchi-peatchifaceforward-artwork-png",
+    "english_name": "Peatchi",
+    "user_name_simplified": "桃桃吉",
+    "user_name_traditional": "桃桃吉",
+    "visual_evidence": "粉色桃子状",
+    "confidence": 1
+  },
+  {
+    "field": "Forest",
+    "row": 4,
+    "slot": "adult_2_5",
+    "catalog_id": "nappatchi-nappatchifaceforward-png",
+    "english_name": "Nappatchi",
+    "user_name_simplified": "菜叶吉",
+    "user_name_traditional": "菜葉吉",
+    "visual_evidence": "绿色菜叶状",
+    "confidence": 1
+  },
+  {
+    "field": "Forest",
+    "row": 4,
+    "slot": "adult_6",
+    "catalog_id": "rushraditchi-rushraditchifaceforward-artwork-png",
+    "english_name": "Rushraditchi",
+    "user_name_simplified": "跑萝吉",
+    "user_name_traditional": "跑蘿吉",
+    "visual_evidence": "白色萝卜状",
+    "confidence": 1
+  },
+  {
+    "field": "Forest",
+    "row": 5,
+    "slot": "hidden",
+    "catalog_id": "tatsutchi-tatsutchi-front-facing-artwork-png",
+    "english_name": "Tatsutchi",
+    "user_name_simplified": "立龙吉",
+    "user_name_traditional": "立龍吉",
+    "visual_evidence": "绿色小龙",
+    "confidence": 1
+  }
+]

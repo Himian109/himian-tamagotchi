@@ -1,0 +1,1382 @@
+{
+  "generatedAt": "2026-08-29T05:20:30.332Z",
+  "catalogCount": 133,
+  "translationCount": 128,
+  "missing": [
+    {
+      "id": "forest-kid-forestkidparadiseartwork-png",
+      "english_name": "Forest Kid",
+      "stage": "Kid"
+    },
+    {
+      "id": "frozen-kid-frozenkidparadiseartwork-png",
+      "english_name": "Frozen Kid",
+      "stage": "Kid"
+    },
+    {
+      "id": "tropical-kid-tropicalkidparadiseartwork-png",
+      "english_name": "Tropical Kid",
+      "stage": "Kid"
+    },
+    {
+      "id": "water-kid-water-kid-png",
+      "english_name": "Water Kid",
+      "stage": "Kid"
+    },
+    {
+      "id": "flap-young-flap-young-paradise-artwork-png",
+      "english_name": "Flap Young",
+      "stage": "Young"
+    },
+    {
+      "id": "float-young-frozenfloatyoungparadiseartwork-png",
+      "english_name": "Float Young",
+      "stage": "Young"
+    },
+    {
+      "id": "glide-young-frozenglideyoungparadiseartwork-png",
+      "english_name": "Glide Young",
+      "stage": "Young"
+    },
+    {
+      "id": "toddle-young-toddle-young-png",
+      "english_name": "Toddle Young",
+      "stage": "Young"
+    },
+    {
+      "id": "toddle-young-foresttoddleyoungparadiseartwork-png",
+      "english_name": "Toddle Young",
+      "stage": "Young"
+    },
+    {
+      "id": "toddle-young-tropicaltoddleyoungparadiseartwork-png",
+      "english_name": "Toddle Young",
+      "stage": "Young"
+    },
+    {
+      "id": "toddle-young-frozentoddleyoungparadiseartwork-png",
+      "english_name": "Toddle Young",
+      "stage": "Young"
+    },
+    {
+      "id": "dangouotchi-dangouotchiparadiseartwork-png",
+      "english_name": "Dangouotchi",
+      "stage": "Adult"
+    },
+    {
+      "id": "eagletchi-eagletchi-paradise-png",
+      "english_name": "Eagletchi",
+      "stage": "Adult"
+    },
+    {
+      "id": "elizardotchi-elizardotchi-paradise-png",
+      "english_name": "Elizardotchi",
+      "stage": "Adult"
+    },
+    {
+      "id": "forest-horhotchi-foresthorhotchifaceforward-artwork-png",
+      "english_name": "Forest Horhotchi",
+      "stage": "Adult"
+    },
+    {
+      "id": "furawatchi-furawatchi-paradise-artwork-png",
+      "english_name": "Furawatchi",
+      "stage": "Adult"
+    },
+    {
+      "id": "gemtchi-gemtchi-paradise-png",
+      "english_name": "Gemtchi",
+      "stage": "Adult"
+    },
+    {
+      "id": "ginjirotchi-ginjirotchiparadiseartwork-png",
+      "english_name": "Ginjirotchi",
+      "stage": "Adult"
+    },
+    {
+      "id": "gumax-gumax-paradise-png",
+      "english_name": "Gumax",
+      "stage": "Adult"
+    },
+    {
+      "id": "gusokutchi-gusokutchi-paradise-png",
+      "english_name": "Gusokutchi",
+      "stage": "Adult"
+    },
+    {
+      "id": "hatchitchi-hatchitchi-paradise-png",
+      "english_name": "Hatchitchi",
+      "stage": "Adult"
+    },
+    {
+      "id": "heavytchi-heavytchi-paradise-png",
+      "english_name": "Heavytchi",
+      "stage": "Adult"
+    },
+    {
+      "id": "hobohorntchi-hobohorntchiparadiseartwork-png",
+      "english_name": "Hobohorntchi",
+      "stage": "Adult"
+    },
+    {
+      "id": "hoppentchi-hoppentchiparadiseartwork-png",
+      "english_name": "Hoppentchi",
+      "stage": "Adult"
+    },
+    {
+      "id": "horhotchi-horhotchi-paradise-png",
+      "english_name": "Horhotchi",
+      "stage": "Adult"
+    },
+    {
+      "id": "tachutchi-tachutchi-paradise-png",
+      "english_name": "Tachutchi",
+      "stage": "Adult"
+    },
+    {
+      "id": "tanoontchi-tanoontchifaceforward-artwork-png",
+      "english_name": "Tanoontchi",
+      "stage": "Adult"
+    },
+    {
+      "id": "tarantytchi-tarantytchiparadiseartwork-png",
+      "english_name": "Tarantytchi",
+      "stage": "Adult"
+    },
+    {
+      "id": "tatsutchi-tatsutchi-front-facing-artwork-png",
+      "english_name": "Tatsutchi",
+      "stage": "Adult"
+    },
+    {
+      "id": "tenatchi-tenatchiparadiseartwork-png",
+      "english_name": "Tenatchi",
+      "stage": "Adult"
+    },
+    {
+      "id": "tentotchi-tentotchi-paradise-png",
+      "english_name": "Tentotchi",
+      "stage": "Adult"
+    },
+    {
+      "id": "tigaotchi-tigaotchifaceforward-artwork-png",
+      "english_name": "Tigaotchi",
+      "stage": "Adult"
+    },
+    {
+      "id": "tokipatchi-tokipatchifaceforward-artwork-png",
+      "english_name": "Tokipatchi",
+      "stage": "Adult"
+    },
+    {
+      "id": "tropical-mametchi-tropicalmametchiparadiseartwork-png",
+      "english_name": "Tropical Mametchi",
+      "stage": "Adult"
+    },
+    {
+      "id": "tropical-meowtchi-tropicalmeowtchiparadiseartwork-png",
+      "english_name": "Tropical Meowtchi",
+      "stage": "Adult"
+    },
+    {
+      "id": "tropical-potsunentchi-tropicalpotsunentchiparadiseartwork-png",
+      "english_name": "Tropical Potsunentchi",
+      "stage": "Adult"
+    },
+    {
+      "id": "tustustchi-tustustchi-paradise-png",
+      "english_name": "Tustustchi",
+      "stage": "Adult"
+    },
+    {
+      "id": "uruotchi-uruotchi-paradise-png",
+      "english_name": "Uruotchi",
+      "stage": "Adult"
+    },
+    {
+      "id": "wolftchi-wolftchiparadiseartwork-png",
+      "english_name": "Wolftchi",
+      "stage": "Adult"
+    },
+    {
+      "id": "yashikitchi-yashikitchiparadiseartwork-png",
+      "english_name": "Yashikitchi",
+      "stage": "Adult"
+    },
+    {
+      "id": "yayacorntchi-yayacorntchi-paradise-png",
+      "english_name": "Yayacorntchi",
+      "stage": "Adult"
+    },
+    {
+      "id": "yaytytchi-yaytytchiparadiseartwork-png",
+      "english_name": "Yaytytchi",
+      "stage": "Adult"
+    },
+    {
+      "id": "yukiraratchi-yukiraratchiparadiseartwork-png",
+      "english_name": "Yukiraratchi",
+      "stage": "Adult"
+    },
+    {
+      "id": "yukiusatchi-yukiusatchiparadiseartwork-png",
+      "english_name": "Yukiusatchi",
+      "stage": "Adult"
+    }
+  ],
+  "duplicates": [],
+  "translations": [
+    {
+      "id": "amefuratchi-amefuratchi-paradise-png",
+      "english_name": "Amefuratchi",
+      "chinese_name": "海兔麻呂",
+      "japanese_name": "あめふらっち",
+      "naming_basis": "community_zh",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Amefuratchi",
+      "notes": "依據華語社群習慣或音譯"
+    },
+    {
+      "id": "ananatchi-ananatchiparadiseartwork-png",
+      "english_name": "Ananatchi",
+      "chinese_name": "鳳梨麻呂",
+      "japanese_name": "あななっち",
+      "naming_basis": "community_zh",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Ananatchi",
+      "notes": "依據華語社群習慣或音譯"
+    },
+    {
+      "id": "ankotchi-ankotchi-paradise-png",
+      "english_name": "Ankotchi",
+      "chinese_name": "紅豆麻呂",
+      "japanese_name": "あんこっち",
+      "naming_basis": "community_zh",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Ankotchi",
+      "notes": "依據華語社群習慣或音譯"
+    },
+    {
+      "id": "avovotchi-avovotchiparadiseartwork-png",
+      "english_name": "Avovotchi",
+      "chinese_name": "酪梨麻呂",
+      "japanese_name": "あぼぼっち",
+      "naming_basis": "community_zh",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Avovotchi",
+      "notes": "依據華語社群習慣或音譯"
+    },
+    {
+      "id": "axolopatchi-axolopatchi-paradise-png",
+      "english_name": "Axolopatchi",
+      "chinese_name": "六角恐龍麻呂",
+      "japanese_name": "うーぱーぱっち",
+      "naming_basis": "community_zh",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Axolopatchi",
+      "notes": "依據華語社群習慣或音譯"
+    },
+    {
+      "id": "azaratchi-azaratchiparadiseartwork-png",
+      "english_name": "Azaratchi",
+      "chinese_name": "海豹麻呂",
+      "japanese_name": "あざらっち",
+      "naming_basis": "community_zh",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Azaratchi",
+      "notes": "依據華語社群習慣或音譯"
+    },
+    {
+      "id": "babymarutchi-babymarutchi-png",
+      "english_name": "Babymarutchi",
+      "chinese_name": "嬰兒圓麻呂",
+      "japanese_name": "べびまるっち",
+      "naming_basis": "community_zh",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Babymarutchi",
+      "notes": "依據華語社群習慣或音譯"
+    },
+    {
+      "id": "batatchi-batatchi-paradise-png",
+      "english_name": "Batatchi",
+      "chinese_name": "蝙蝠麻呂",
+      "japanese_name": "ばたっち",
+      "naming_basis": "community_zh",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Batatchi",
+      "notes": "依據華語社群習慣或音譯"
+    },
+    {
+      "id": "batchi-batchi-paradise-png",
+      "english_name": "Batchi",
+      "chinese_name": "巴麻呂",
+      "japanese_name": "ばっち",
+      "naming_basis": "transliteration",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Batchi",
+      "notes": "依據華語社群習慣或音譯"
+    },
+    {
+      "id": "bbmarutchi-bbmarutchi-paradise-artwork-png",
+      "english_name": "Bbmarutchi",
+      "chinese_name": "BB圓麻呂",
+      "japanese_name": "びーびーまるっち",
+      "naming_basis": "community_zh",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Bbmarutchi",
+      "notes": "依據華語社群習慣或音譯"
+    },
+    {
+      "id": "beavertchi-beavertchi-paradise-png",
+      "english_name": "Beavertchi",
+      "chinese_name": "海狸麻呂",
+      "japanese_name": "びーばっち",
+      "naming_basis": "community_zh",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Beavertchi",
+      "notes": "依據華語社群習慣或音譯"
+    },
+    {
+      "id": "bumble-young-bumble-young-png",
+      "english_name": "Bumble Young",
+      "chinese_name": "大黃蜂青年",
+      "japanese_name": "バンブルヤング",
+      "naming_basis": "transliteration",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Bumble_Young",
+      "notes": "依據華語社群習慣或音譯"
+    },
+    {
+      "id": "chameleotchi-chameleotchi-png",
+      "english_name": "Chameleotchi",
+      "chinese_name": "變色龍麻呂",
+      "japanese_name": "かめれおっち",
+      "naming_basis": "community_zh",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Chameleotchi",
+      "notes": "依據華語社群習慣或音譯"
+    },
+    {
+      "id": "chirp-young-chirp-young-paradise-artwork-png",
+      "english_name": "Chirp Young",
+      "chinese_name": "鳥鳴青年",
+      "japanese_name": "チャープヤング",
+      "naming_basis": "transliteration",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Chirp_Young",
+      "notes": "依據華語社群習慣或音譯"
+    },
+    {
+      "id": "chirp-young-forestchirpyoungparadiseartwork-png",
+      "english_name": "Chirp Young",
+      "chinese_name": "鳥鳴青年",
+      "japanese_name": "チャープヤング",
+      "naming_basis": "transliteration",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Chirp_Young",
+      "notes": "依據華語社群習慣或音譯"
+    },
+    {
+      "id": "chodracotchi-chodracotchi-paradise-png",
+      "english_name": "Chodracotchi",
+      "chinese_name": "蝴蝶龍麻呂",
+      "japanese_name": "ちょーどらこっち",
+      "naming_basis": "community_zh",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Chodracotchi",
+      "notes": "依據華語社群習慣或音譯"
+    },
+    {
+      "id": "crocotchi-crocotchiparadiseartwork-png",
+      "english_name": "Crocotchi",
+      "chinese_name": "鱷魚麻呂",
+      "japanese_name": "くろこっち",
+      "naming_basis": "community_zh",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Crocotchi",
+      "notes": "依據華語社群習慣或音譯"
+    },
+    {
+      "id": "dangouotchi-dangouotchi-png",
+      "english_name": "Dangouotchi",
+      "chinese_name": "丹戈烏奧吉",
+      "japanese_name": "ダンゴウオッチ",
+      "naming_basis": "transliteration",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Dangouotchi",
+      "notes": "Transliteration based on Japanese reading."
+    },
+    {
+      "id": "eagletchi-eagletchi-png",
+      "english_name": "Eagletchi",
+      "chinese_name": "伊古魯吉",
+      "japanese_name": "イーグルッチ",
+      "naming_basis": "transliteration",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Eagletchi",
+      "notes": "Transliteration based on Japanese reading."
+    },
+    {
+      "id": "elizardotchi-elizardotchi-png",
+      "english_name": "Elizardotchi",
+      "chinese_name": "艾利札多吉",
+      "japanese_name": "エリザドッチ",
+      "naming_basis": "transliteration",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Elizardotchi",
+      "notes": "Transliteration based on Japanese reading."
+    },
+    {
+      "id": "flap-young-flap-young-png",
+      "english_name": "Flap Young",
+      "chinese_name": "帕塔揚",
+      "japanese_name": "パタヤング",
+      "naming_basis": "transliteration",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Flap_Young",
+      "notes": "No official translation found. Transliteration based on Japanese reading."
+    },
+    {
+      "id": "float-young-float-young-png",
+      "english_name": "Float Young",
+      "chinese_name": "普卡揚",
+      "japanese_name": "プカヤング",
+      "naming_basis": "transliteration",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Float_Young",
+      "notes": "No official translation found. Transliteration based on Japanese reading."
+    },
+    {
+      "id": "forest-horhotchi-forest-horhotchi-png",
+      "english_name": "Forest Horhotchi",
+      "chinese_name": "森林霍霍吉",
+      "japanese_name": "ホーホッチ",
+      "naming_basis": "transliteration",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Horhotchi",
+      "notes": "Transliteration based on Japanese reading. Prefix added."
+    },
+    {
+      "id": "furawatchi-furawatchi-png",
+      "english_name": "Furawatchi",
+      "chinese_name": "花花星人",
+      "japanese_name": "ふらわっち",
+      "naming_basis": "official_zh",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Furawatchi",
+      "notes": "Official translation."
+    },
+    {
+      "id": "gemtchi-gemtchi-png",
+      "english_name": "Gemtchi",
+      "chinese_name": "傑姆吉",
+      "japanese_name": "ジェムッチ",
+      "naming_basis": "transliteration",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Gemtchi",
+      "notes": "Transliteration based on Japanese reading."
+    },
+    {
+      "id": "ginjirotchi-ginjirotchi-png",
+      "english_name": "Ginjirotchi",
+      "chinese_name": "銀次郎星人",
+      "japanese_name": "ぎんじろっち",
+      "naming_basis": "community_zh",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Ginjirotchi",
+      "notes": "Community translation."
+    },
+    {
+      "id": "glide-young-glide-young-png",
+      "english_name": "Glide Young",
+      "chinese_name": "斯伊揚",
+      "japanese_name": "スィーヤング",
+      "naming_basis": "transliteration",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Glide_Young",
+      "notes": "No official translation found. Transliteration based on Japanese reading."
+    },
+    {
+      "id": "gumax-gumax-png",
+      "english_name": "Gumax",
+      "chinese_name": "古馬克斯",
+      "japanese_name": "グマックス",
+      "naming_basis": "transliteration",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Gumax",
+      "notes": "Transliteration based on Japanese reading."
+    },
+    {
+      "id": "gusokutchi-gusokutchi-png",
+      "english_name": "Gusokutchi",
+      "chinese_name": "古索庫吉",
+      "japanese_name": "グソクッチ",
+      "naming_basis": "transliteration",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Gusokutchi",
+      "notes": "Transliteration based on Japanese reading."
+    },
+    {
+      "id": "hatchitchi-hatchitchi-png",
+      "english_name": "Hatchitchi",
+      "chinese_name": "哈奇吉",
+      "japanese_name": "ハッチッチ",
+      "naming_basis": "transliteration",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Hatchitchi",
+      "notes": "Transliteration based on Japanese reading."
+    },
+    {
+      "id": "heavytchi-heavytchi-png",
+      "english_name": "Heavytchi",
+      "chinese_name": "赫比吉",
+      "japanese_name": "ヘビッチ",
+      "naming_basis": "transliteration",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Heavytchi",
+      "notes": "Transliteration based on Japanese reading."
+    },
+    {
+      "id": "hobohorntchi-hobohorntchi-png",
+      "english_name": "Hobohorntchi",
+      "chinese_name": "霍波霍恩吉",
+      "japanese_name": "ホボホーンッチ",
+      "naming_basis": "transliteration",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Hobohorntchi",
+      "notes": "Transliteration based on Japanese reading."
+    },
+    {
+      "id": "hoppentchi-hoppentchi-png",
+      "english_name": "Hoppentchi",
+      "chinese_name": "霍彭吉",
+      "japanese_name": "ホッペンッチ",
+      "naming_basis": "transliteration",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Hoppentchi",
+      "notes": "Transliteration based on Japanese reading."
+    },
+    {
+      "id": "horhotchi-horhotchi-png",
+      "english_name": "Horhotchi",
+      "chinese_name": "霍霍吉",
+      "japanese_name": "ホーホッチ",
+      "naming_basis": "transliteration",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Horhotchi",
+      "notes": "Transliteration based on Japanese reading."
+    },
+    {
+      "id": "glide-young-icy-glide-young-png",
+      "english_name": "Icy Glide Young",
+      "chinese_name": "冰原斯伊揚",
+      "japanese_name": "スィーヤング",
+      "naming_basis": "transliteration",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Glide_Young",
+      "notes": "No official translation found. Transliteration based on Japanese reading. Prefix added."
+    },
+    {
+      "id": "icy-irukatchi-shiroirukatchiparadiseartwork-png",
+      "english_name": "Icy Irukatchi",
+      "chinese_name": "冰原海豚星人",
+      "japanese_name": "しろいるかっち",
+      "naming_basis": "community_zh",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Irukatchi",
+      "notes": "地區前綴冰原 + Irukatchi海豚星人"
+    },
+    {
+      "id": "iguanatchi-iguanatchiparadiseartwork-png",
+      "english_name": "Iguanatchi",
+      "chinese_name": "鬣蜥星人",
+      "japanese_name": "いぐあなっち",
+      "naming_basis": "community_zh",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Iguanatchi",
+      "notes": "Iguana (鬣蜥)"
+    },
+    {
+      "id": "imoritchi-imoritchi-paradise-png",
+      "english_name": "Imoritchi",
+      "chinese_name": "蠑螈星人",
+      "japanese_name": "いもりっち",
+      "naming_basis": "community_zh",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Imoritchi",
+      "notes": "Imori (蠑螈)"
+    },
+    {
+      "id": "irukatchi-irukatchi-paradise-png",
+      "english_name": "Irukatchi",
+      "chinese_name": "海豚星人",
+      "japanese_name": "いるかっち",
+      "naming_basis": "community_zh",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Irukatchi",
+      "notes": "Iruka (海豚)"
+    },
+    {
+      "id": "ishikorotchi-ishikorotchi-paradise-png",
+      "english_name": "Ishikorotchi",
+      "chinese_name": "小石星人",
+      "japanese_name": "いしころっち",
+      "naming_basis": "community_zh",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Ishikorotchi",
+      "notes": "Ishikoro (小石頭)"
+    },
+    {
+      "id": "kabutotchi-kabutotchi-paradise-png",
+      "english_name": "Kabutotchi",
+      "chinese_name": "獨角仙星人",
+      "japanese_name": "かぶとっち",
+      "naming_basis": "community_zh",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Kabutotchi",
+      "notes": "Kabutomushi (獨角仙)"
+    },
+    {
+      "id": "kachitchi-kachitchifaceforward-artwork-png",
+      "english_name": "Kachitchi",
+      "chinese_name": "喀嚓星人",
+      "japanese_name": "かちっち",
+      "naming_basis": "community_zh",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Kachitchi",
+      "notes": "Kachi (喀嚓聲)"
+    },
+    {
+      "id": "kametchi-kametchi-paradise-png",
+      "english_name": "Kametchi",
+      "chinese_name": "烏龜星人",
+      "japanese_name": "かめっち",
+      "naming_basis": "community_zh",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Kametchi",
+      "notes": "Kame (烏龜)"
+    },
+    {
+      "id": "kanokotchi-kanokotchifaceforward-artwork-png",
+      "english_name": "Kanokotchi",
+      "chinese_name": "鹿子星人",
+      "japanese_name": "かのこっち",
+      "naming_basis": "community_zh",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Kanokotchi",
+      "notes": "Kanoko (鹿子/小鹿)"
+    },
+    {
+      "id": "kawazutchi-kawazutchi-paradise-png",
+      "english_name": "Kawazutchi",
+      "chinese_name": "蛙星人",
+      "japanese_name": "かわずっち",
+      "naming_basis": "community_zh",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Kawazutchi",
+      "notes": "Kawazu (蛙)"
+    },
+    {
+      "id": "kiwitchi-kiwitchi-paradise-png",
+      "english_name": "Kiwitchi",
+      "chinese_name": "奇異鳥星人",
+      "japanese_name": "きういっち",
+      "naming_basis": "community_zh",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Kiwitchi",
+      "notes": "Kiwi (奇異鳥)"
+    },
+    {
+      "id": "konkotchi-konkotchifaceforward-artwork-png",
+      "english_name": "Konkotchi",
+      "chinese_name": "小狐星人",
+      "japanese_name": "こんこっち",
+      "naming_basis": "community_zh",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Konkotchi",
+      "notes": "Konko (狐狸叫聲)"
+    },
+    {
+      "id": "kuchipatchi-kuchipatchi-paradise-png",
+      "english_name": "Kuchipatchi",
+      "chinese_name": "大嘴巴",
+      "japanese_name": "くちぱっち",
+      "naming_basis": "official_zh",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Kuchipatchi",
+      "notes": "官方譯名"
+    },
+    {
+      "id": "kuikuitchi-kuikuitchiparadiseartwork-png",
+      "english_name": "Kuikuitchi",
+      "chinese_name": "咕伊咕伊星人",
+      "japanese_name": "くいくいっち",
+      "naming_basis": "transliteration",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Kuikuitchi",
+      "notes": "音譯"
+    },
+    {
+      "id": "kujiratchi-kujiratchi-paradise-png",
+      "english_name": "Kujiratchi",
+      "chinese_name": "鯨魚星人",
+      "japanese_name": "くじらっち",
+      "naming_basis": "community_zh",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Kujiratchi",
+      "notes": "Kujira (鯨魚)"
+    },
+    {
+      "id": "kuraratchi-kuraratchi-paradise-png",
+      "english_name": "Kuraratchi",
+      "chinese_name": "庫拉拉星人",
+      "japanese_name": "くららっち",
+      "naming_basis": "transliteration",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Kuraratchi",
+      "notes": "音譯"
+    },
+    {
+      "id": "land-kid-land-kid-png",
+      "english_name": "Land Kid",
+      "chinese_name": "陸地童",
+      "japanese_name": "ランドキッド",
+      "naming_basis": "community_zh",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Land_Kid",
+      "notes": "Land (陸地) + Kid (童)"
+    },
+    {
+      "id": "leap-young-leap-young-png",
+      "english_name": "Leap Young",
+      "chinese_name": "跳躍少",
+      "japanese_name": "リープヤング",
+      "naming_basis": "community_zh",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Leap_Young",
+      "notes": "Leap (跳躍) + Young (少)"
+    },
+    {
+      "id": "lemmingtchi-lemmingtchiparadiseartwork-png",
+      "english_name": "Lemmingtchi",
+      "chinese_name": "旅鼠星人",
+      "japanese_name": "れみんぐっち",
+      "naming_basis": "community_zh",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Lemmingtchi",
+      "notes": "Lemming (旅鼠)"
+    },
+    {
+      "id": "leopatchi-leopatchi-paradise-png",
+      "english_name": "Leopatchi",
+      "chinese_name": "豹星人",
+      "japanese_name": "れおぱっち",
+      "naming_basis": "community_zh",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Leopatchi",
+      "notes": "Leopard (豹)"
+    },
+    {
+      "id": "lessapantchi-lessapantchifaceforward-artwork-png",
+      "english_name": "Lessapantchi",
+      "chinese_name": "小貓熊星人",
+      "japanese_name": "れっさぱんっち",
+      "naming_basis": "community_zh",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Lessapantchi",
+      "notes": "Lesser Panda (小貓熊)"
+    },
+    {
+      "id": "lick-young-lick-young-png",
+      "english_name": "Lick Young",
+      "chinese_name": "舔舔少",
+      "japanese_name": "リックヤング",
+      "naming_basis": "community_zh",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Lick_Young",
+      "notes": "Lick (舔) + Young (少)"
+    },
+    {
+      "id": "lick-young-tropicallickyoungparadiseartwork-png",
+      "english_name": "Lick Young",
+      "chinese_name": "舔舔少",
+      "japanese_name": "リックヤング",
+      "naming_basis": "community_zh",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Lick_Young",
+      "notes": "Lick (舔) + Young (少)"
+    },
+    {
+      "id": "madillotchi-madillotchiparadiseartwork-png",
+      "english_name": "Madillotchi",
+      "chinese_name": "馬迪羅吉",
+      "japanese_name": "マディロっち",
+      "naming_basis": "transliteration",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": ""
+    },
+    {
+      "id": "magmatchi-magmatchi-paradise-png",
+      "english_name": "Magmatchi",
+      "chinese_name": "瑪格瑪吉",
+      "japanese_name": "マグマっち",
+      "naming_basis": "transliteration",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": ""
+    },
+    {
+      "id": "mametchi-mametchi-paradise-png",
+      "english_name": "Mametchi",
+      "chinese_name": "麻每吉",
+      "japanese_name": "まめっち",
+      "naming_basis": "official_zh",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": ""
+    },
+    {
+      "id": "manapatchi-manapatchiparadiseartwork-png",
+      "english_name": "Manapatchi",
+      "chinese_name": "瑪納帕吉",
+      "japanese_name": "マナパっち",
+      "naming_basis": "transliteration",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": ""
+    },
+    {
+      "id": "mendakotchi-mendakotchi-paradise-png",
+      "english_name": "Mendakotchi",
+      "chinese_name": "曼達可吉",
+      "japanese_name": "メンダコっち",
+      "naming_basis": "transliteration",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": ""
+    },
+    {
+      "id": "meowtchi-meowtchi-png",
+      "english_name": "Meowtchi",
+      "chinese_name": "喵吉",
+      "japanese_name": "みゃおっち",
+      "naming_basis": "transliteration",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": ""
+    },
+    {
+      "id": "mermarintchi-mermarintchi-paradise-png",
+      "english_name": "Mermarintchi",
+      "chinese_name": "梅爾瑪琳吉",
+      "japanese_name": "マーマリンっち",
+      "naming_basis": "transliteration",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": ""
+    },
+    {
+      "id": "mimitchi-mimitchi-paradise-png",
+      "english_name": "Mimitchi",
+      "chinese_name": "大耳吉",
+      "japanese_name": "みみっち",
+      "naming_basis": "official_zh",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": ""
+    },
+    {
+      "id": "molmotchi-molmotchi-paradise-png",
+      "english_name": "Molmotchi",
+      "chinese_name": "莫爾莫吉",
+      "japanese_name": "モルモっち",
+      "naming_basis": "transliteration",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": ""
+    },
+    {
+      "id": "mongatchi-mongatchi-paradise-artwork-png",
+      "english_name": "Mongatchi",
+      "chinese_name": "蒙加吉",
+      "japanese_name": "モンガっち",
+      "naming_basis": "transliteration",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": ""
+    },
+    {
+      "id": "moosetchi-moosetchiparadiseartwork-png",
+      "english_name": "Moosetchi",
+      "chinese_name": "穆斯吉",
+      "japanese_name": "ムースっち",
+      "naming_basis": "transliteration",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": ""
+    },
+    {
+      "id": "namakemotchi-namakemotchiparadiseartwork-png",
+      "english_name": "Namakemotchi",
+      "chinese_name": "納馬克莫吉",
+      "japanese_name": "ナマケモっち",
+      "naming_basis": "transliteration",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": ""
+    },
+    {
+      "id": "nappatchi-nappatchifaceforward-png",
+      "english_name": "Nappatchi",
+      "chinese_name": "納帕吉",
+      "japanese_name": "ナッパっち",
+      "naming_basis": "transliteration",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": ""
+    },
+    {
+      "id": "nerinetchi-nerinetchiparadiseartwork-png",
+      "english_name": "Nerinetchi",
+      "chinese_name": "內里內吉",
+      "japanese_name": "ネリネっち",
+      "naming_basis": "transliteration",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": ""
+    },
+    {
+      "id": "okojotchi-okojotchiparadiseartwork-png",
+      "english_name": "Okojotchi",
+      "chinese_name": "奧可喬吉",
+      "japanese_name": "オコジョっち",
+      "naming_basis": "transliteration",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": ""
+    },
+    {
+      "id": "oretatchi-oretatchi-paradise-png",
+      "english_name": "Oretatchi",
+      "chinese_name": "奧雷塔吉",
+      "japanese_name": "オレタっち",
+      "naming_basis": "transliteration",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": ""
+    },
+    {
+      "id": "otototchi-otototchi-paradise-png",
+      "english_name": "Otototchi",
+      "chinese_name": "奧托托吉",
+      "japanese_name": "オトトっち",
+      "naming_basis": "transliteration",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": ""
+    },
+    {
+      "id": "paddle-young-paddle-young-png",
+      "english_name": "Paddle Young",
+      "chinese_name": "活潑青年",
+      "japanese_name": "ぴちぴちヤング",
+      "naming_basis": "transliteration",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": ""
+    },
+    {
+      "id": "panbootchi-panbootchifaceforward-artwork-png",
+      "english_name": "Panbootchi",
+      "chinese_name": "潘布吉",
+      "japanese_name": "パンブーっち",
+      "naming_basis": "transliteration",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": ""
+    },
+    {
+      "id": "papillotchi-papillotchi-paradise-png",
+      "english_name": "Papillotchi",
+      "chinese_name": "帕皮洛吉",
+      "japanese_name": "パピヨっち",
+      "naming_basis": "transliteration",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": ""
+    },
+    {
+      "id": "parorotchi-parorotchiparadiseartwork-png",
+      "english_name": "Parorotchi",
+      "chinese_name": "帕羅羅吉",
+      "japanese_name": "パロロっち",
+      "naming_basis": "transliteration",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": ""
+    },
+    {
+      "id": "peacotchi-peacotchi-paradise-png",
+      "english_name": "Peacotchi",
+      "chinese_name": "皮可吉",
+      "japanese_name": "ピーコっち",
+      "naming_basis": "transliteration",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": ""
+    },
+    {
+      "id": "peatchi-peatchifaceforward-artwork-png",
+      "english_name": "Peatchi",
+      "chinese_name": "皮吉",
+      "japanese_name": "ピーっち",
+      "naming_basis": "transliteration",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": ""
+    },
+    {
+      "id": "pochitchi-pochitchi-paradise-png",
+      "english_name": "Pochitchi",
+      "chinese_name": "波奇吉",
+      "japanese_name": "ポチっち",
+      "naming_basis": "transliteration",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": ""
+    },
+    {
+      "id": "poizutchi-poizutchiparadiseartwork-png",
+      "english_name": "Poizutchi",
+      "chinese_name": "波伊祖吉",
+      "japanese_name": "ポイズっち",
+      "naming_basis": "transliteration",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": ""
+    },
+    {
+      "id": "polakumatchi-polakumatchiparadiseartwork-png",
+      "english_name": "Polakumatchi",
+      "chinese_name": "波拉庫馬吉",
+      "japanese_name": "ポラクマっち",
+      "naming_basis": "transliteration",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": ""
+    },
+    {
+      "id": "potsunentchi-potsunentchi-paradise-png",
+      "english_name": "Potsunentchi",
+      "chinese_name": "波茨南吉",
+      "japanese_name": "ポツネンっち",
+      "naming_basis": "transliteration",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": ""
+    },
+    {
+      "id": "raichotchi-raichotchiparadiseartwork-png",
+      "english_name": "Raichotchi",
+      "chinese_name": "雷鳥吉",
+      "japanese_name": "ライチョウっち",
+      "naming_basis": "community_zh",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": ""
+    },
+    {
+      "id": "rakkotchi-rakkotchiparadiseartwork-png",
+      "english_name": "Rakkotchi",
+      "chinese_name": "海獺吉",
+      "japanese_name": "ラッコっち",
+      "naming_basis": "community_zh",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": ""
+    },
+    {
+      "id": "ratchi-ratchi-paradise-png",
+      "english_name": "Ratchi",
+      "chinese_name": "拉吉",
+      "japanese_name": "ラッチ",
+      "naming_basis": "transliteration",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": ""
+    },
+    {
+      "id": "roar-young-roar-young-png",
+      "english_name": "Roar Young",
+      "chinese_name": "咆哮青年",
+      "japanese_name": "ロアヤング",
+      "naming_basis": "transliteration",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": ""
+    },
+    {
+      "id": "roar-young-forestroaryoungparadiseartwork-png",
+      "english_name": "Roar Young",
+      "chinese_name": "咆哮青年",
+      "japanese_name": "ロアヤング",
+      "naming_basis": "transliteration",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": ""
+    },
+    {
+      "id": "roar-young-tropicalroaryoungparadiseartwork-png",
+      "english_name": "Roar Young",
+      "chinese_name": "咆哮青年",
+      "japanese_name": "ロアヤング",
+      "naming_basis": "transliteration",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": ""
+    },
+    {
+      "id": "roar-young-frozenroaryoungparadiseartwork-png",
+      "english_name": "Roar Young",
+      "chinese_name": "咆哮青年",
+      "japanese_name": "ロアヤング",
+      "naming_basis": "transliteration",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": ""
+    },
+    {
+      "id": "rocky-young-rocky-young-png",
+      "english_name": "Rocky Young",
+      "chinese_name": "洛基青年",
+      "japanese_name": "ロッキーヤング",
+      "naming_basis": "transliteration",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": ""
+    },
+    {
+      "id": "rushraditchi-rushraditchifaceforward-artwork-png",
+      "english_name": "Rushraditchi",
+      "chinese_name": "蘿蔔吉",
+      "japanese_name": "ラシュラディっち",
+      "naming_basis": "transliteration",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": ""
+    },
+    {
+      "id": "sebiretchi-sebiretchi-paradise-png",
+      "english_name": "Sebiretchi",
+      "chinese_name": "背鰭吉",
+      "japanese_name": "セビレっち",
+      "naming_basis": "transliteration",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": ""
+    },
+    {
+      "id": "sharktchi-sharktchi-paradise-png",
+      "english_name": "Sharktchi",
+      "chinese_name": "鯊魚吉",
+      "japanese_name": "シャークっち",
+      "naming_basis": "community_zh",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": ""
+    },
+    {
+      "id": "sheeptchi-sheeptchi-paradise-png",
+      "english_name": "Sheeptchi",
+      "chinese_name": "綿羊吉",
+      "japanese_name": "シープっち",
+      "naming_basis": "community_zh",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": ""
+    },
+    {
+      "id": "shigemi-san-shigemisan-paradise-png",
+      "english_name": "Shigemi-san",
+      "chinese_name": "茂美先生",
+      "japanese_name": "しげみさん",
+      "naming_basis": "transliteration",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": ""
+    },
+    {
+      "id": "shiitaketchi-shitaketchifaceforward-artwork-png",
+      "english_name": "Shiitaketchi",
+      "chinese_name": "香菇吉",
+      "japanese_name": "シイタケっち",
+      "naming_basis": "community_zh",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": ""
+    },
+    {
+      "id": "sky-kid-sky-kid-png",
+      "english_name": "Sky Kid",
+      "chinese_name": "天空孩童",
+      "japanese_name": "スカイキッド",
+      "naming_basis": "transliteration",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": ""
+    },
+    {
+      "id": "sparrotchi-sparrotchifaceforward-artwork-png",
+      "english_name": "Sparrotchi",
+      "chinese_name": "麻雀吉",
+      "japanese_name": "スパロっち",
+      "naming_basis": "community_zh",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": ""
+    },
+    {
+      "id": "sprout-young-sprout-young-png",
+      "english_name": "Sprout Young",
+      "chinese_name": "芽芽青年",
+      "japanese_name": "スプラウトヤング",
+      "naming_basis": "transliteration",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": ""
+    },
+    {
+      "id": "sprout-young-forestsproutyoungparadiseartwork-png",
+      "english_name": "Sprout Young",
+      "chinese_name": "芽芽青年",
+      "japanese_name": "スプラウトヤング",
+      "naming_basis": "transliteration",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": ""
+    },
+    {
+      "id": "sprout-young-tropicalsproutyoungparadiseartwork-png",
+      "english_name": "Sprout Young",
+      "chinese_name": "芽芽青年",
+      "japanese_name": "スプラウトヤング",
+      "naming_basis": "transliteration",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": ""
+    },
+    {
+      "id": "suigyutchi-sugyutchifaceforward-artwork-png",
+      "english_name": "Suigyutchi",
+      "chinese_name": "水牛吉",
+      "japanese_name": "スイギュウっち",
+      "naming_basis": "community_zh",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list",
+      "notes": ""
+    },
+    {
+      "id": 3,
+      "english_name": "Tachutchi",
+      "chinese_name": "塔丘吉",
+      "japanese_name": "タチュッチ",
+      "naming_basis": "transliteration",
+      "source_url": "none",
+      "notes": "音譯"
+    },
+    {
+      "id": 4,
+      "english_name": "Tanoontchi",
+      "chinese_name": "塔農吉",
+      "japanese_name": "タヌンッチ",
+      "naming_basis": "transliteration",
+      "source_url": "none",
+      "notes": "音譯"
+    },
+    {
+      "id": 5,
+      "english_name": "Tarantytchi",
+      "chinese_name": "塔蘭蒂吉",
+      "japanese_name": "タランティッチ",
+      "naming_basis": "transliteration",
+      "source_url": "none",
+      "notes": "音譯"
+    },
+    {
+      "id": 6,
+      "english_name": "Tatsutchi",
+      "chinese_name": "塔圖吉",
+      "japanese_name": "タツッチ",
+      "naming_basis": "transliteration",
+      "source_url": "none",
+      "notes": "音譯"
+    },
+    {
+      "id": 7,
+      "english_name": "Tenatchi",
+      "chinese_name": "特納吉",
+      "japanese_name": "テナッチ",
+      "naming_basis": "transliteration",
+      "source_url": "none",
+      "notes": "音譯"
+    },
+    {
+      "id": 8,
+      "english_name": "Tentotchi",
+      "chinese_name": "天道吉",
+      "japanese_name": "テントッチ",
+      "naming_basis": "transliteration",
+      "source_url": "none",
+      "notes": "音譯"
+    },
+    {
+      "id": 9,
+      "english_name": "Tigaotchi",
+      "chinese_name": "提高吉",
+      "japanese_name": "ティガオッチ",
+      "naming_basis": "transliteration",
+      "source_url": "none",
+      "notes": "音譯"
+    },
+    {
+      "id": 2,
+      "english_name": "Toddle Young",
+      "chinese_name": "蹣跚少年",
+      "japanese_name": "トドルヤング",
+      "naming_basis": "transliteration",
+      "source_url": "none",
+      "notes": "無官方名"
+    },
+    {
+      "id": 10,
+      "english_name": "Tokipatchi",
+      "chinese_name": "托基帕吉",
+      "japanese_name": "トキパッチ",
+      "naming_basis": "transliteration",
+      "source_url": "none",
+      "notes": "音譯"
+    },
+    {
+      "id": "float-young-tropical-float-young-png",
+      "english_name": "Tropical Float Young",
+      "chinese_name": "熱帶普卡揚",
+      "japanese_name": "プカヤング",
+      "naming_basis": "transliteration",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Float_Young",
+      "notes": "No official translation found. Transliteration based on Japanese reading. Prefix added."
+    },
+    {
+      "id": 1,
+      "english_name": "Tropical Kid",
+      "chinese_name": "熱帶孩童",
+      "japanese_name": "トロピカルキッド",
+      "naming_basis": "transliteration",
+      "source_url": "none",
+      "notes": "地區前綴 Tropical=熱帶"
+    },
+    {
+      "id": 11,
+      "english_name": "Tropical Mametchi",
+      "chinese_name": "熱帶馬梅吉",
+      "japanese_name": "トロピカルまめっち",
+      "naming_basis": "transliteration",
+      "source_url": "none",
+      "notes": "地區前綴 Tropical=熱帶"
+    },
+    {
+      "id": 12,
+      "english_name": "Tropical Meowtchi",
+      "chinese_name": "熱帶喵吉",
+      "japanese_name": "トロピカルみゃうっち",
+      "naming_basis": "transliteration",
+      "source_url": "none",
+      "notes": "地區前綴 Tropical=熱帶"
+    },
+    {
+      "id": 13,
+      "english_name": "Tropical Potsunentchi",
+      "chinese_name": "熱帶波茨南吉",
+      "japanese_name": "トロピカルぽつねんっち",
+      "naming_basis": "transliteration",
+      "source_url": "none",
+      "notes": "地區前綴 Tropical=熱帶"
+    },
+    {
+      "id": 14,
+      "english_name": "Tustustchi",
+      "chinese_name": "圖斯圖斯吉",
+      "japanese_name": "ツスツスッチ",
+      "naming_basis": "transliteration",
+      "source_url": "none",
+      "notes": "音譯"
+    },
+    {
+      "id": 15,
+      "english_name": "Uruotchi",
+      "chinese_name": "烏魯奧吉",
+      "japanese_name": "ウルオッチ",
+      "naming_basis": "transliteration",
+      "source_url": "none",
+      "notes": "音譯"
+    },
+    {
+      "id": "water-kid",
+      "english_name": "Water Kid",
+      "chinese_name": "水之子",
+      "japanese_name": "みずのこ",
+      "naming_basis": "transliteration",
+      "source_url": "",
+      "notes": "無官方或通行名稱，暫譯"
+    },
+    {
+      "id": "wolftchi",
+      "english_name": "Wolftchi",
+      "chinese_name": "沃爾夫吉",
+      "japanese_name": "ウルフっち",
+      "naming_basis": "transliteration",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Wolftchi",
+      "notes": "無官方或通行名稱，依日文音譯"
+    },
+    {
+      "id": "yashikitchi",
+      "english_name": "Yashikitchi",
+      "chinese_name": "屋敷吉",
+      "japanese_name": "やしきっち",
+      "naming_basis": "transliteration",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Yashikitchi",
+      "notes": "無官方或通行名稱，依日文音譯"
+    },
+    {
+      "id": "yayacorntchi",
+      "english_name": "Yayacorntchi",
+      "chinese_name": "雅雅角吉",
+      "japanese_name": "ややこーんっち",
+      "naming_basis": "transliteration",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Yayacorntchi",
+      "notes": "無官方或通行名稱，依日文音譯"
+    },
+    {
+      "id": "yaytytchi",
+      "english_name": "Yaytytchi",
+      "chinese_name": "雅伊蒂吉",
+      "japanese_name": "やいてぃっち",
+      "naming_basis": "transliteration",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Yaytytchi",
+      "notes": "無官方或通行名稱，依日文音譯"
+    },
+    {
+      "id": "yukiraratchi",
+      "english_name": "Yukiraratchi",
+      "chinese_name": "雪拉拉吉",
+      "japanese_name": "ゆきららっち",
+      "naming_basis": "transliteration",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Yukiraratchi",
+      "notes": "無官方或通行名稱，依日文音譯"
+    },
+    {
+      "id": "yukiusatchi",
+      "english_name": "Yukiusatchi",
+      "chinese_name": "雪兔吉",
+      "japanese_name": "ゆきうさっち",
+      "naming_basis": "transliteration",
+      "source_url": "https://tamagotchi.fandom.com/wiki/Yukiusatchi",
+      "notes": "無官方或通行名稱，依日文音譯"
+    }
+  ]
+}

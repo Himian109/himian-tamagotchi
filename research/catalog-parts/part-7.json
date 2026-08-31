@@ -1,0 +1,1102 @@
+[
+  {
+    "name_en": "Babymarutchi",
+    "name_ja": "べびまるっち",
+    "stage": "Baby",
+    "version_group": "Tropics and Glacier",
+    "shell_requirement": "Orange Tropics / White Glacier",
+    "field": "Any",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "Always hatches from an egg Evolution is prompted upon obtaining 4 of a single field cell type Automatically evolves if the evolution prompt is missed twice, or after 4 total hours",
+    "connection_requirement": "未確認",
+    "other_requirement": "Always hatches from an egg Evolution is prompted upon obtaining 4 of a single field cell type Automatically evolves if the evolution prompt is missed twice, or after 4 total hours",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Tropical Kid",
+    "name_ja": "なんごくキッズ",
+    "stage": "Kid",
+    "version_group": "Tropics and Glacier",
+    "shell_requirement": "Orange Tropics / White Glacier",
+    "field": "Any",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "Raise Babymarutchi in the Tropical Field Evolution is prompted when there are 4 hibiscus icons in its Tama Cells",
+    "connection_requirement": "未確認",
+    "other_requirement": "Raise Babymarutchi in the Tropical Field Evolution is prompted when there are 4 hibiscus icons in its Tama Cells",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Frozen Kid",
+    "name_ja": "こおりのキッズ",
+    "stage": "Kid",
+    "version_group": "Tropics and Glacier",
+    "shell_requirement": "Orange Tropics / White Glacier",
+    "field": "Any",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "Raise Babymarutchi in the Ice Field Evolution is prompted when there are 4 snowflake icons in its Tama Cells",
+    "connection_requirement": "未確認",
+    "other_requirement": "Raise Babymarutchi in the Ice Field Evolution is prompted when there are 4 snowflake icons in its Tama Cells",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Forest Kid",
+    "name_ja": "未確認",
+    "stage": "Kid",
+    "version_group": "Tropics and Glacier",
+    "shell_requirement": "Orange Tropics / White Glacier",
+    "field": "Any",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "Raise Babymarutchi in the Forest Field Evolution is prompted when there are 4 bamboo icons in its Tama Cells",
+    "connection_requirement": "未確認",
+    "other_requirement": "Raise Babymarutchi in the Forest Field Evolution is prompted when there are 4 bamboo icons in its Tama Cells",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Tropical Meowtchi",
+    "name_ja": "なんごくみゃおっち",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier",
+    "shell_requirement": "Orange Tropics / White Glacier",
+    "field": "Any",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "0",
+    "perfect_care": true,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0 care mistakes Fill Hunger and Happy meters 5+ times each",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Madillotchi",
+    "name_ja": "まじろっち",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier",
+    "shell_requirement": "Orange Tropics / White Glacier",
+    "field": "Any",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "0-1",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0-1 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Tarantytchi",
+    "name_ja": "たらんてぃーっち",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier",
+    "shell_requirement": "Orange Tropics / White Glacier",
+    "field": "Any",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "2-5",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "2-5 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Crocotchi",
+    "name_ja": "クロコっち",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier",
+    "shell_requirement": "Orange Tropics / White Glacier",
+    "field": "Any",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "6+",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "6+ care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Tropical Mametchi",
+    "name_ja": "なんごくまめっち",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier",
+    "shell_requirement": "Orange Tropics / White Glacier",
+    "field": "Any",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "0",
+    "perfect_care": true,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0 care mistakes Fill Hunger and Happy meters 5+ times each",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Parorotchi",
+    "name_ja": "ぱろろっち",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier",
+    "shell_requirement": "Orange Tropics / White Glacier",
+    "field": "Any",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "0-1",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0-1 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Tenatchi",
+    "name_ja": "てななっち",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier",
+    "shell_requirement": "Orange Tropics / White Glacier",
+    "field": "Any",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "2-5",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "2-5 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Namakemotchi",
+    "name_ja": "なまけもっち",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier",
+    "shell_requirement": "Orange Tropics / White Glacier",
+    "field": "Any",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "6+",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "6+ care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Kuikuitchi",
+    "name_ja": "くいくいっち",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier",
+    "shell_requirement": "Orange Tropics / White Glacier",
+    "field": "Any",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "0",
+    "perfect_care": true,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0 care mistakes Fill Hunger and Happy meters 5+ times each",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Poizutchi",
+    "name_ja": "ぽいずっち",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier",
+    "shell_requirement": "Orange Tropics / White Glacier",
+    "field": "Any",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "0-1",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0-1 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Chameleotchi",
+    "name_ja": "かめれおっち",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier",
+    "shell_requirement": "Orange Tropics / White Glacier",
+    "field": "Any",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "2-5",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "2-5 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Iguanatchi",
+    "name_ja": "いぐあなっち",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier",
+    "shell_requirement": "Orange Tropics / White Glacier",
+    "field": "Any",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "6+",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "6+ care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Yashikitchi",
+    "name_ja": "やしきっち",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier",
+    "shell_requirement": "Orange Tropics / White Glacier",
+    "field": "Any",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "0",
+    "perfect_care": true,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0 care mistakes Fill Hunger and Happy meters 5+ times each",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Tropical Potsunentchi",
+    "name_ja": "なんごくぽつねんっち",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier",
+    "shell_requirement": "Orange Tropics / White Glacier",
+    "field": "Any",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "0-1",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0-1 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Ananatchi",
+    "name_ja": "あななっち",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier",
+    "shell_requirement": "Orange Tropics / White Glacier",
+    "field": "Any",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "2-5",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "2-5 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Avovotchi",
+    "name_ja": "あぼぼっち",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier",
+    "shell_requirement": "Orange Tropics / White Glacier",
+    "field": "Any",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "6+",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "6+ care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Manapatchi",
+    "name_ja": "まなぱっち",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier",
+    "shell_requirement": "Orange Tropics / White Glacier",
+    "field": "Any",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "Connect with 2 other device types during Young stage",
+    "other_requirement": "Connect an Orange Tropics version with two different versions during the Young Stage Cannot evolve from a Tropical Sprout Young",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Okojotchi",
+    "name_ja": "おこじょっち",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier",
+    "shell_requirement": "Orange Tropics / White Glacier",
+    "field": "Any",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "0",
+    "perfect_care": true,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0 care mistakes Fill Hunger and Happy meters 5+ times each",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Wolftchi",
+    "name_ja": "ウルフっち",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier",
+    "shell_requirement": "Orange Tropics / White Glacier",
+    "field": "Any",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "0-1",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0-1 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Polakumatchi",
+    "name_ja": "ぽらくまっち",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier",
+    "shell_requirement": "Orange Tropics / White Glacier",
+    "field": "Any",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "2-5",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "2-5 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Azaratchi",
+    "name_ja": "アザラっち",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier",
+    "shell_requirement": "Orange Tropics / White Glacier",
+    "field": "Any",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "6+",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "6+ care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Icy Irukatchi",
+    "name_ja": "シロいるかっち",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier",
+    "shell_requirement": "Orange Tropics / White Glacier",
+    "field": "Any",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "0",
+    "perfect_care": true,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0 care mistakes Fill Hunger and Happy meters 5+ times each",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Ginjirotchi",
+    "name_ja": "ぎんじろっち",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier",
+    "shell_requirement": "Orange Tropics / White Glacier",
+    "field": "Any",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "0-1",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0-1 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Rakkotchi",
+    "name_ja": "らっこっち",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier",
+    "shell_requirement": "Orange Tropics / White Glacier",
+    "field": "Any",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "2-5",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "2-5 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Hoppentchi",
+    "name_ja": "ほっぺんっち",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier",
+    "shell_requirement": "Orange Tropics / White Glacier",
+    "field": "Any",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "6+",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "6+ care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Lemmingtchi",
+    "name_ja": "レミングっち",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier",
+    "shell_requirement": "Orange Tropics / White Glacier",
+    "field": "Any",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "0",
+    "perfect_care": true,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0 care mistakes Fill Hunger and Happy meters 5+ times each",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Moosetchi",
+    "name_ja": "ムースっち",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier",
+    "shell_requirement": "Orange Tropics / White Glacier",
+    "field": "Any",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "0-1",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0-1 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Raichotchi",
+    "name_ja": "らいちょっち",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier",
+    "shell_requirement": "Orange Tropics / White Glacier",
+    "field": "Any",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "2-5",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "2-5 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Yukiusatchi",
+    "name_ja": "ゆきうさっち",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier",
+    "shell_requirement": "Orange Tropics / White Glacier",
+    "field": "Any",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "6+",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "6+ care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Nerinetchi",
+    "name_ja": "ネリネっち",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier",
+    "shell_requirement": "Orange Tropics / White Glacier",
+    "field": "Any",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "0",
+    "perfect_care": true,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0 care mistakes Fill Hunger and Happy meters 5+ times each",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Dangouotchi",
+    "name_ja": "だんごうおっち",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier",
+    "shell_requirement": "Orange Tropics / White Glacier",
+    "field": "Any",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "0-1",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0-1 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Yaytytchi",
+    "name_ja": "イェーイティっち",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier",
+    "shell_requirement": "Orange Tropics / White Glacier",
+    "field": "Any",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "2-5",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "2-5 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Yukiraratchi",
+    "name_ja": "ゆきららっち",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier",
+    "shell_requirement": "Orange Tropics / White Glacier",
+    "field": "Any",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "6+",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "6+ care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Hobohorntchi",
+    "name_ja": "ほぼほーんっち",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier",
+    "shell_requirement": "Orange Tropics / White Glacier",
+    "field": "Any",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "Connect with 2 other device types during Young stage",
+    "other_requirement": "Connect a White Glacier version with two different versions during the Young Stage Cannot evolve from a Frozen Float Young",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Forest Horhotchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier",
+    "shell_requirement": "Orange Tropics / White Glacier",
+    "field": "Any",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "0",
+    "perfect_care": true,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0 care mistakes Fill Hunger and Happy meters 5+ times each",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Konkotchi",
+    "name_ja": "こんこっち",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier",
+    "shell_requirement": "Orange Tropics / White Glacier",
+    "field": "Any",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "0-1",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0-1 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Tigaotchi",
+    "name_ja": "てぃがおっち",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier",
+    "shell_requirement": "Orange Tropics / White Glacier",
+    "field": "Any",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "2-5",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "2-5 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Tanoontchi",
+    "name_ja": "たぬーんっち",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier",
+    "shell_requirement": "Orange Tropics / White Glacier",
+    "field": "Any",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "6+",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "6+ care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Lessapantchi",
+    "name_ja": "れっさーぱんっち",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier",
+    "shell_requirement": "Orange Tropics / White Glacier",
+    "field": "Any",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "0",
+    "perfect_care": true,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0 care mistakes Fill Hunger and Happy meters 5+ times each",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Kanokotchi",
+    "name_ja": "かのこっち",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier",
+    "shell_requirement": "Orange Tropics / White Glacier",
+    "field": "Any",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "0-1",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0-1 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Suigyutchi",
+    "name_ja": "すいぎゅっち",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier",
+    "shell_requirement": "Orange Tropics / White Glacier",
+    "field": "Any",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "2-5",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "2-5 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Panbootchi",
+    "name_ja": "ぱんぶーっち",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier",
+    "shell_requirement": "Orange Tropics / White Glacier",
+    "field": "Any",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "6+",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "6+ care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Kachitchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier",
+    "shell_requirement": "Orange Tropics / White Glacier",
+    "field": "Any",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "0",
+    "perfect_care": true,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0 care mistakes Fill Hunger and Happy meters 5+ times each",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Tokipatchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier",
+    "shell_requirement": "Orange Tropics / White Glacier",
+    "field": "Any",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "0-1",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0-1 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Kuchipatchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier",
+    "shell_requirement": "Orange Tropics / White Glacier",
+    "field": "Any",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "2-5",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "2-5 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Sparrotchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier",
+    "shell_requirement": "Orange Tropics / White Glacier",
+    "field": "Any",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "6+",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "6+ care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Shiitaketchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier",
+    "shell_requirement": "Orange Tropics / White Glacier",
+    "field": "Any",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "0",
+    "perfect_care": true,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0 care mistakes Fill Hunger and Happy meters 5+ times each",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Peatchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier",
+    "shell_requirement": "Orange Tropics / White Glacier",
+    "field": "Any",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "0-1",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0-1 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Nappatchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier",
+    "shell_requirement": "Orange Tropics / White Glacier",
+    "field": "Any",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "2-5",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "2-5 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Rushraditchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier",
+    "shell_requirement": "Orange Tropics / White Glacier",
+    "field": "Any",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "6+",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "6+ care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Bbmarutchi",
+    "name_ja": "べびまるっち",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier",
+    "shell_requirement": "Orange Tropics / White Glacier",
+    "field": "Any",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "Evolves after 4 hours in the Baby stage by maintaining less than four of a single Field Cell type (e.g. switching Tama Fields just before 15 minutes) Can also be obtained from the Kid stage by consistently switching fields and preventing evolution Cannot breed with other adults",
+    "connection_requirement": "未確認",
+    "other_requirement": "Evolves after 4 hours in the Baby stage by maintaining less than four of a single Field Cell type (e.g. switching Tama Fields just before 15 minutes) Can also be obtained from the Kid stage by consistently switching fields and preventing evolution Cannot breed with other adults",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  }
+]

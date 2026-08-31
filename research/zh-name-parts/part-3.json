@@ -1,0 +1,209 @@
+[
+  {
+    "id": "land-kid-land-kid-png",
+    "english_name": "Land Kid",
+    "chinese_name": "陸地童",
+    "japanese_name": "ランドキッド",
+    "naming_basis": "community_zh",
+    "source_url": "https://tamagotchi.fandom.com/wiki/Land_Kid",
+    "notes": "Land (陸地) + Kid (童)"
+  },
+  {
+    "id": "leap-young-leap-young-png",
+    "english_name": "Leap Young",
+    "chinese_name": "跳躍少",
+    "japanese_name": "リープヤング",
+    "naming_basis": "community_zh",
+    "source_url": "https://tamagotchi.fandom.com/wiki/Leap_Young",
+    "notes": "Leap (跳躍) + Young (少)"
+  },
+  {
+    "id": "lick-young-lick-young-png",
+    "english_name": "Lick Young",
+    "chinese_name": "舔舔少",
+    "japanese_name": "リックヤング",
+    "naming_basis": "community_zh",
+    "source_url": "https://tamagotchi.fandom.com/wiki/Lick_Young",
+    "notes": "Lick (舔) + Young (少)"
+  },
+  {
+    "id": "lick-young-tropicallickyoungparadiseartwork-png",
+    "english_name": "Lick Young",
+    "chinese_name": "舔舔少",
+    "japanese_name": "リックヤング",
+    "naming_basis": "community_zh",
+    "source_url": "https://tamagotchi.fandom.com/wiki/Lick_Young",
+    "notes": "Lick (舔) + Young (少)"
+  },
+  {
+    "id": "icy-irukatchi-shiroirukatchiparadiseartwork-png",
+    "english_name": "Icy Irukatchi",
+    "chinese_name": "冰原海豚星人",
+    "japanese_name": "しろいるかっち",
+    "naming_basis": "community_zh",
+    "source_url": "https://tamagotchi.fandom.com/wiki/Irukatchi",
+    "notes": "地區前綴冰原 + Irukatchi海豚星人"
+  },
+  {
+    "id": "iguanatchi-iguanatchiparadiseartwork-png",
+    "english_name": "Iguanatchi",
+    "chinese_name": "鬣蜥星人",
+    "japanese_name": "いぐあなっち",
+    "naming_basis": "community_zh",
+    "source_url": "https://tamagotchi.fandom.com/wiki/Iguanatchi",
+    "notes": "Iguana (鬣蜥)"
+  },
+  {
+    "id": "imoritchi-imoritchi-paradise-png",
+    "english_name": "Imoritchi",
+    "chinese_name": "蠑螈星人",
+    "japanese_name": "いもりっち",
+    "naming_basis": "community_zh",
+    "source_url": "https://tamagotchi.fandom.com/wiki/Imoritchi",
+    "notes": "Imori (蠑螈)"
+  },
+  {
+    "id": "irukatchi-irukatchi-paradise-png",
+    "english_name": "Irukatchi",
+    "chinese_name": "海豚星人",
+    "japanese_name": "いるかっち",
+    "naming_basis": "community_zh",
+    "source_url": "https://tamagotchi.fandom.com/wiki/Irukatchi",
+    "notes": "Iruka (海豚)"
+  },
+  {
+    "id": "ishikorotchi-ishikorotchi-paradise-png",
+    "english_name": "Ishikorotchi",
+    "chinese_name": "小石星人",
+    "japanese_name": "いしころっち",
+    "naming_basis": "community_zh",
+    "source_url": "https://tamagotchi.fandom.com/wiki/Ishikorotchi",
+    "notes": "Ishikoro (小石頭)"
+  },
+  {
+    "id": "kabutotchi-kabutotchi-paradise-png",
+    "english_name": "Kabutotchi",
+    "chinese_name": "獨角仙星人",
+    "japanese_name": "かぶとっち",
+    "naming_basis": "community_zh",
+    "source_url": "https://tamagotchi.fandom.com/wiki/Kabutotchi",
+    "notes": "Kabutomushi (獨角仙)"
+  },
+  {
+    "id": "kachitchi-kachitchifaceforward-artwork-png",
+    "english_name": "Kachitchi",
+    "chinese_name": "喀嚓星人",
+    "japanese_name": "かちっち",
+    "naming_basis": "community_zh",
+    "source_url": "https://tamagotchi.fandom.com/wiki/Kachitchi",
+    "notes": "Kachi (喀嚓聲)"
+  },
+  {
+    "id": "kametchi-kametchi-paradise-png",
+    "english_name": "Kametchi",
+    "chinese_name": "烏龜星人",
+    "japanese_name": "かめっち",
+    "naming_basis": "community_zh",
+    "source_url": "https://tamagotchi.fandom.com/wiki/Kametchi",
+    "notes": "Kame (烏龜)"
+  },
+  {
+    "id": "kanokotchi-kanokotchifaceforward-artwork-png",
+    "english_name": "Kanokotchi",
+    "chinese_name": "鹿子星人",
+    "japanese_name": "かのこっち",
+    "naming_basis": "community_zh",
+    "source_url": "https://tamagotchi.fandom.com/wiki/Kanokotchi",
+    "notes": "Kanoko (鹿子/小鹿)"
+  },
+  {
+    "id": "kawazutchi-kawazutchi-paradise-png",
+    "english_name": "Kawazutchi",
+    "chinese_name": "蛙星人",
+    "japanese_name": "かわずっち",
+    "naming_basis": "community_zh",
+    "source_url": "https://tamagotchi.fandom.com/wiki/Kawazutchi",
+    "notes": "Kawazu (蛙)"
+  },
+  {
+    "id": "kiwitchi-kiwitchi-paradise-png",
+    "english_name": "Kiwitchi",
+    "chinese_name": "奇異鳥星人",
+    "japanese_name": "きういっち",
+    "naming_basis": "community_zh",
+    "source_url": "https://tamagotchi.fandom.com/wiki/Kiwitchi",
+    "notes": "Kiwi (奇異鳥)"
+  },
+  {
+    "id": "konkotchi-konkotchifaceforward-artwork-png",
+    "english_name": "Konkotchi",
+    "chinese_name": "小狐星人",
+    "japanese_name": "こんこっち",
+    "naming_basis": "community_zh",
+    "source_url": "https://tamagotchi.fandom.com/wiki/Konkotchi",
+    "notes": "Konko (狐狸叫聲)"
+  },
+  {
+    "id": "kuchipatchi-kuchipatchi-paradise-png",
+    "english_name": "Kuchipatchi",
+    "chinese_name": "大嘴巴",
+    "japanese_name": "くちぱっち",
+    "naming_basis": "official_zh",
+    "source_url": "https://tamagotchi.fandom.com/wiki/Kuchipatchi",
+    "notes": "官方譯名"
+  },
+  {
+    "id": "kuikuitchi-kuikuitchiparadiseartwork-png",
+    "english_name": "Kuikuitchi",
+    "chinese_name": "咕伊咕伊星人",
+    "japanese_name": "くいくいっち",
+    "naming_basis": "transliteration",
+    "source_url": "https://tamagotchi.fandom.com/wiki/Kuikuitchi",
+    "notes": "音譯"
+  },
+  {
+    "id": "kujiratchi-kujiratchi-paradise-png",
+    "english_name": "Kujiratchi",
+    "chinese_name": "鯨魚星人",
+    "japanese_name": "くじらっち",
+    "naming_basis": "community_zh",
+    "source_url": "https://tamagotchi.fandom.com/wiki/Kujiratchi",
+    "notes": "Kujira (鯨魚)"
+  },
+  {
+    "id": "kuraratchi-kuraratchi-paradise-png",
+    "english_name": "Kuraratchi",
+    "chinese_name": "庫拉拉星人",
+    "japanese_name": "くららっち",
+    "naming_basis": "transliteration",
+    "source_url": "https://tamagotchi.fandom.com/wiki/Kuraratchi",
+    "notes": "音譯"
+  },
+  {
+    "id": "lemmingtchi-lemmingtchiparadiseartwork-png",
+    "english_name": "Lemmingtchi",
+    "chinese_name": "旅鼠星人",
+    "japanese_name": "れみんぐっち",
+    "naming_basis": "community_zh",
+    "source_url": "https://tamagotchi.fandom.com/wiki/Lemmingtchi",
+    "notes": "Lemming (旅鼠)"
+  },
+  {
+    "id": "leopatchi-leopatchi-paradise-png",
+    "english_name": "Leopatchi",
+    "chinese_name": "豹星人",
+    "japanese_name": "れおぱっち",
+    "naming_basis": "community_zh",
+    "source_url": "https://tamagotchi.fandom.com/wiki/Leopatchi",
+    "notes": "Leopard (豹)"
+  },
+  {
+    "id": "lessapantchi-lessapantchifaceforward-artwork-png",
+    "english_name": "Lessapantchi",
+    "chinese_name": "小貓熊星人",
+    "japanese_name": "れっさぱんっち",
+    "naming_basis": "community_zh",
+    "source_url": "https://tamagotchi.fandom.com/wiki/Lessapantchi",
+    "notes": "Lesser Panda (小貓熊)"
+  }
+]

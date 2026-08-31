@@ -1,0 +1,191 @@
+[
+  {
+    "name": "斯亦斯亦",
+    "row": 1,
+    "slot": "young",
+    "description": "Blue whale-like character",
+    "confidence": "high",
+    "chinese_name": "斯亦斯亦",
+    "uncertain": false
+  },
+  {
+    "name": "海豚吉",
+    "row": 1,
+    "slot": "adult_perfect",
+    "description": "Blue dolphin-like character",
+    "confidence": "high",
+    "chinese_name": "海豚吉",
+    "uncertain": false
+  },
+  {
+    "name": "龟龟吉",
+    "row": 1,
+    "slot": "adult_0_1",
+    "description": "Yellow and green turtle-like character",
+    "confidence": "high",
+    "chinese_name": "龟龟吉",
+    "uncertain": false
+  },
+  {
+    "name": "鲸鲸吉",
+    "row": 1,
+    "slot": "adult_2_5",
+    "description": "Dark blue whale-like character",
+    "confidence": "high",
+    "chinese_name": "鲸鲸吉",
+    "uncertain": false
+  },
+  {
+    "name": "乌尔吉",
+    "row": 1,
+    "slot": "adult_6",
+    "description": "Purple tadpole-like character",
+    "confidence": "high",
+    "chinese_name": "乌尔吉",
+    "uncertain": false
+  },
+  {
+    "name": "拍拍",
+    "row": 2,
+    "slot": "young",
+    "description": "Pink axolotl-like character",
+    "confidence": "high",
+    "chinese_name": "拍拍",
+    "uncertain": false
+  },
+  {
+    "name": "阿活洛帕吉",
+    "row": 2,
+    "slot": "adult_perfect",
+    "description": "Purple axolotl-like character",
+    "confidence": "high",
+    "chinese_name": "阿活洛帕吉",
+    "uncertain": false
+  },
+  {
+    "name": "伊莫哩吉",
+    "row": 2,
+    "slot": "adult_0_1",
+    "description": "Red salamander-like character",
+    "confidence": "high",
+    "chinese_name": "伊莫哩吉",
+    "uncertain": false
+  },
+  {
+    "name": "雨蛙吉",
+    "row": 2,
+    "slot": "adult_2_5",
+    "description": "Teal frog-like character",
+    "confidence": "high",
+    "chinese_name": "雨蛙吉",
+    "uncertain": false
+  },
+  {
+    "name": "比巴吉",
+    "row": 2,
+    "slot": "adult_6",
+    "description": "Orange beaver-like character",
+    "confidence": "high",
+    "chinese_name": "比巴吉",
+    "uncertain": false
+  },
+  {
+    "name": "皮奇皮奇",
+    "row": 3,
+    "slot": "young",
+    "description": "Blue fish-like character",
+    "confidence": "high",
+    "chinese_name": "皮奇皮奇",
+    "uncertain": false
+  },
+  {
+    "name": "海马吉",
+    "row": 3,
+    "slot": "adult_perfect",
+    "description": "Purple seahorse-like character",
+    "confidence": "high",
+    "chinese_name": "海马吉",
+    "uncertain": false
+  },
+  {
+    "name": "鲨鱼吉",
+    "row": 3,
+    "slot": "adult_0_1",
+    "description": "Blue shark-like character",
+    "confidence": "high",
+    "chinese_name": "鲨鱼吉",
+    "uncertain": false
+  },
+  {
+    "name": "安康吉",
+    "row": 3,
+    "slot": "adult_2_5",
+    "description": "Blue anglerfish-like character",
+    "confidence": "high",
+    "chinese_name": "安康吉",
+    "uncertain": false
+  },
+  {
+    "name": "多多吉",
+    "row": 3,
+    "slot": "adult_6",
+    "description": "Green turtle-like character",
+    "confidence": "high",
+    "chinese_name": "多多吉",
+    "uncertain": false
+  },
+  {
+    "name": "浮游浮游",
+    "row": 4,
+    "slot": "young",
+    "description": "Red jellyfish-like character",
+    "confidence": "high",
+    "chinese_name": "浮游浮游",
+    "uncertain": false
+  },
+  {
+    "name": "浮浮吉",
+    "row": 4,
+    "slot": "adult_perfect",
+    "description": "Yellow squid-like character",
+    "confidence": "high",
+    "chinese_name": "浮浮吉",
+    "uncertain": false
+  },
+  {
+    "name": "萌哒吉",
+    "row": 4,
+    "slot": "adult_0_1",
+    "description": "Red sea bunny-like character",
+    "confidence": "high",
+    "chinese_name": "萌哒吉",
+    "uncertain": false
+  },
+  {
+    "name": "海兔吉",
+    "row": 4,
+    "slot": "adult_2_5",
+    "description": "Blue sea slug-like character",
+    "confidence": "high",
+    "chinese_name": "海兔吉",
+    "uncertain": false
+  },
+  {
+    "name": "足足吉",
+    "row": 4,
+    "slot": "adult_6",
+    "description": "White shell-like character",
+    "confidence": "high",
+    "chinese_name": "足足吉",
+    "uncertain": false
+  },
+  {
+    "name": "人鱼吉",
+    "row": "hidden",
+    "slot": "hidden",
+    "description": "Mermaid-like character",
+    "confidence": "high",
+    "chinese_name": "人鱼吉",
+    "uncertain": false
+  }
+]

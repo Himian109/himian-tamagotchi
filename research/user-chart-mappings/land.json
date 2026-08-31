@@ -1,0 +1,233 @@
+[
+  {
+    "field": "Land",
+    "row": 1,
+    "slot": "young",
+    "catalog_id": "roar-young-roar-young-png",
+    "english_name": "Roar Young",
+    "user_name_simplified": "羔羔",
+    "user_name_traditional": "羔羔",
+    "visual_evidence": "粉色圓形生物",
+    "confidence": 1
+  },
+  {
+    "field": "Land",
+    "row": 1,
+    "slot": "adult_perfect",
+    "catalog_id": "meowtchi-meowtchi-png",
+    "english_name": "Meowtchi",
+    "user_name_simplified": "猫猫吉",
+    "user_name_traditional": "貓貓吉",
+    "visual_evidence": "粉色貓咪",
+    "confidence": 1
+  },
+  {
+    "field": "Land",
+    "row": 1,
+    "slot": "adult_0_1",
+    "catalog_id": "pochitchi-pochitchi-paradise-png",
+    "english_name": "Pochitchi",
+    "user_name_simplified": "波吉",
+    "user_name_traditional": "波吉",
+    "visual_evidence": "黃色狗",
+    "confidence": 1
+  },
+  {
+    "field": "Land",
+    "row": 1,
+    "slot": "adult_2_5",
+    "catalog_id": "gumax-gumax-paradise-png",
+    "english_name": "Gumax",
+    "user_name_simplified": "叉叉熊",
+    "user_name_traditional": "叉叉熊",
+    "visual_evidence": "藍色熊，胸口有叉",
+    "confidence": 1
+  },
+  {
+    "field": "Land",
+    "row": 1,
+    "slot": "adult_6",
+    "catalog_id": "ratchi-ratchi-paradise-png",
+    "english_name": "Ratchi",
+    "user_name_simplified": "乐乐吉",
+    "user_name_traditional": "樂樂吉",
+    "visual_evidence": "粉色老鼠",
+    "confidence": 1
+  },
+  {
+    "field": "Land",
+    "row": 2,
+    "slot": "young",
+    "catalog_id": "toddle-young-toddle-young-png",
+    "english_name": "Toddle Young",
+    "user_name_simplified": "特库特库",
+    "user_name_traditional": "特庫特庫",
+    "visual_evidence": "黃色半圓生物",
+    "confidence": 1
+  },
+  {
+    "field": "Land",
+    "row": 2,
+    "slot": "adult_perfect",
+    "catalog_id": "mametchi-mametchi-paradise-png",
+    "english_name": "Mametchi",
+    "user_name_simplified": "豆丁吉",
+    "user_name_traditional": "豆丁吉",
+    "visual_evidence": "黃色臉藍色耳朵",
+    "confidence": 1
+  },
+  {
+    "field": "Land",
+    "row": 2,
+    "slot": "adult_0_1",
+    "catalog_id": "mimitchi-mimitchi-paradise-png",
+    "english_name": "Mimitchi",
+    "user_name_simplified": "大耳吉",
+    "user_name_traditional": "大耳吉",
+    "visual_evidence": "白色生物藍色長耳",
+    "confidence": 1
+  },
+  {
+    "field": "Land",
+    "row": 2,
+    "slot": "adult_2_5",
+    "catalog_id": "molmotchi-molmotchi-paradise-png",
+    "english_name": "Molmotchi",
+    "user_name_simplified": "摩尔吉",
+    "user_name_traditional": "摩爾吉",
+    "visual_evidence": "天竺鼠",
+    "confidence": 1
+  },
+  {
+    "field": "Land",
+    "row": 2,
+    "slot": "adult_6",
+    "catalog_id": "sheeptchi-sheeptchi-paradise-png",
+    "english_name": "Sheeptchi",
+    "user_name_simplified": "咩咩吉",
+    "user_name_traditional": "咩咩吉",
+    "visual_evidence": "綿羊",
+    "confidence": 1
+  },
+  {
+    "field": "Land",
+    "row": 3,
+    "slot": "young",
+    "catalog_id": "lick-young-lick-young-png",
+    "english_name": "Lick Young",
+    "user_name_simplified": "佩洛佩洛",
+    "user_name_traditional": "佩洛佩洛",
+    "visual_evidence": "橘色生物",
+    "confidence": 1
+  },
+  {
+    "field": "Land",
+    "row": 3,
+    "slot": "adult_perfect",
+    "catalog_id": "leopatchi-leopatchi-paradise-png",
+    "english_name": "Leopatchi",
+    "user_name_simplified": "守宫吉",
+    "user_name_traditional": "守宮吉",
+    "visual_evidence": "橘色守宮",
+    "confidence": 1
+  },
+  {
+    "field": "Land",
+    "row": 3,
+    "slot": "adult_0_1",
+    "catalog_id": "sebiretchi-sebiretchi-paradise-png",
+    "english_name": "Sebiretchi",
+    "user_name_simplified": "龙崽吉",
+    "user_name_traditional": "龍崽吉",
+    "visual_evidence": "黃色恐龍",
+    "confidence": 1
+  },
+  {
+    "field": "Land",
+    "row": 3,
+    "slot": "adult_2_5",
+    "catalog_id": "elizardotchi-elizardotchi-paradise-png",
+    "english_name": "Elizardotchi",
+    "user_name_simplified": "蜥蜥吉",
+    "user_name_traditional": "蜥蜥吉",
+    "visual_evidence": "藍色傘蜥蜴",
+    "confidence": 1
+  },
+  {
+    "field": "Land",
+    "row": 3,
+    "slot": "adult_6",
+    "catalog_id": "heavytchi-heavytchi-paradise-png",
+    "english_name": "Heavytchi",
+    "user_name_simplified": "蛇蛇吉",
+    "user_name_traditional": "蛇蛇吉",
+    "visual_evidence": "綠色蛇",
+    "confidence": 1
+  },
+  {
+    "field": "Land",
+    "row": 4,
+    "slot": "young",
+    "catalog_id": "sprout-young-sprout-young-png",
+    "english_name": "Sprout Young",
+    "user_name_simplified": "扭奇扭奇",
+    "user_name_traditional": "扭奇扭奇",
+    "visual_evidence": "藍色水滴頭頂有葉子",
+    "confidence": 1
+  },
+  {
+    "field": "Land",
+    "row": 4,
+    "slot": "adult_perfect",
+    "catalog_id": "furawatchi-furawatchi-paradise-artwork-png",
+    "english_name": "Furawatchi",
+    "user_name_simplified": "芙朵吉",
+    "user_name_traditional": "芙朵吉",
+    "visual_evidence": "粉色花朵生物",
+    "confidence": 1
+  },
+  {
+    "field": "Land",
+    "row": 4,
+    "slot": "adult_0_1",
+    "catalog_id": "potsunentchi-potsunentchi-paradise-png",
+    "english_name": "Potsunentchi",
+    "user_name_simplified": "一朵吉",
+    "user_name_traditional": "一朵吉",
+    "visual_evidence": "藍色花朵生物",
+    "confidence": 1
+  },
+  {
+    "field": "Land",
+    "row": 4,
+    "slot": "adult_2_5",
+    "catalog_id": "tustustchi-tustustchi-paradise-png",
+    "english_name": "Tustustchi",
+    "user_name_simplified": "刺刺吉",
+    "user_name_traditional": "刺刺吉",
+    "visual_evidence": "仙人掌",
+    "confidence": 1
+  },
+  {
+    "field": "Land",
+    "row": 4,
+    "slot": "adult_6",
+    "catalog_id": "shigemi-san-shigemisan-paradise-png",
+    "english_name": "Shigemi-san",
+    "user_name_simplified": "灌木吉",
+    "user_name_traditional": "灌木吉",
+    "visual_evidence": "綠色灌木生物",
+    "confidence": 1
+  },
+  {
+    "field": "Land",
+    "row": null,
+    "slot": "hidden",
+    "catalog_id": "chodracotchi-chodracotchi-paradise-png",
+    "english_name": "Chodracotchi",
+    "user_name_simplified": "小龙吉",
+    "user_name_traditional": "小龍吉",
+    "visual_evidence": "粉色小龍",
+    "confidence": 1
+  }
+]

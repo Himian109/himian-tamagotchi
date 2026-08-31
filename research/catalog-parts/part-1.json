@@ -1,0 +1,4022 @@
+[
+  {
+    "name_en": "Babymarutchi",
+    "name_ja": "べびまるっち",
+    "stage": "Baby",
+    "version_group": "Land, Water and Sky Versions",
+    "shell_requirement": "Land/Water/Sky",
+    "field": "Any",
+    "species": "未確認",
+    "evolves_from": "Egg",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "Always hatches from an egg | Evolution is prompted upon obtaining 4 of a single field cell type | Automatically evolves if the evolution prompt is missed twice, or after 4 total hours",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Land Kid",
+    "name_ja": "りくキッズ",
+    "stage": "Kid",
+    "version_group": "Land, Water and Sky Versions",
+    "shell_requirement": "Land/Water/Sky",
+    "field": "Any",
+    "species": "未確認",
+    "evolves_from": "Babymarutchi",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "Raise Babymarutchi in the Land Field | Evolution is prompted when there are 4 leaf  icons in its Tama Cells",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Water Kid",
+    "name_ja": "みずキッズ",
+    "stage": "Kid",
+    "version_group": "Land, Water and Sky Versions",
+    "shell_requirement": "Land/Water/Sky",
+    "field": "Any",
+    "species": "未確認",
+    "evolves_from": "Babymarutchi",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "Raise Babymarutchi in the Water Field | Evolution is prompted when there are 4 bubble  icons in its Tama Cells",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Sky Kid",
+    "name_ja": "そらキッズ",
+    "stage": "Kid",
+    "version_group": "Land, Water and Sky Versions",
+    "shell_requirement": "Land/Water/Sky",
+    "field": "Any",
+    "species": "未確認",
+    "evolves_from": "Babymarutchi",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "Raise Babymarutchi in the Sky Field | Evolution is prompted when there are 4 cloud  icons in its Tama Cells",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Roar Young",
+    "name_ja": "未確認",
+    "stage": "Young",
+    "version_group": "Land, Water and Sky Versions",
+    "shell_requirement": "Land/Water/Sky",
+    "field": "Any",
+    "species": "Roar",
+    "evolves_from": "Land Kid",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "Meat",
+    "connection_requirement": "未確認",
+    "other_requirement": "Raise a Land Kid in the Land Field | Have majority Meat  icons in its Tama Cells",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Toddle Young",
+    "name_ja": "未確認",
+    "stage": "Young",
+    "version_group": "Land, Water and Sky Versions",
+    "shell_requirement": "Land/Water/Sky",
+    "field": "Any",
+    "species": "Toddle",
+    "evolves_from": "Land Kid",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "Raise a Land Kid in the Land Field | Have majority Carrot  icons in its Tama Cells",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Lick Young",
+    "name_ja": "未確認",
+    "stage": "Young",
+    "version_group": "Land, Water and Sky Versions",
+    "shell_requirement": "Land/Water/Sky",
+    "field": "Any",
+    "species": "Lick",
+    "evolves_from": "Land Kid",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "Raise a Land Kid in the Land Field | Have majority Worm  icons in its Tama Cells",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Sprout Young",
+    "name_ja": "未確認",
+    "stage": "Young",
+    "version_group": "Land, Water and Sky Versions",
+    "shell_requirement": "Land/Water/Sky",
+    "field": "Any",
+    "species": "Sprout",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "Appears if a Land Kid's diet is indeterminable*",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Glide Young",
+    "name_ja": "未確認",
+    "stage": "Young",
+    "version_group": "Land, Water and Sky Versions",
+    "shell_requirement": "Land/Water/Sky",
+    "field": "Any",
+    "species": "Glide",
+    "evolves_from": "Water Kid",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "Raise a Water Kid in the Water Field | Have majority Seafood  icons in its Tama Cells",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Leap Young",
+    "name_ja": "未確認",
+    "stage": "Young",
+    "version_group": "Land, Water and Sky Versions",
+    "shell_requirement": "Land/Water/Sky",
+    "field": "Any",
+    "species": "Leap",
+    "evolves_from": "Water Kid",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "Raise a Water Kid in the Water Field | Have majority Seaweed  icons in its Tama Cells",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Paddle Young",
+    "name_ja": "未確認",
+    "stage": "Young",
+    "version_group": "Land, Water and Sky Versions",
+    "shell_requirement": "Land/Water/Sky",
+    "field": "Any",
+    "species": "Paddle",
+    "evolves_from": "Water Kid",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "Raise a Water Kid in the Water Field | Have majority Plankton  icons in its Tama Cells",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Float Young",
+    "name_ja": "未確認",
+    "stage": "Young",
+    "version_group": "Land, Water and Sky Versions",
+    "shell_requirement": "Land/Water/Sky",
+    "field": "Any",
+    "species": "Float",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "Appears if a Water Kid's diet is indeterminable*",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Flap Young",
+    "name_ja": "未確認",
+    "stage": "Young",
+    "version_group": "Land, Water and Sky Versions",
+    "shell_requirement": "Land/Water/Sky",
+    "field": "Any",
+    "species": "Flap",
+    "evolves_from": "Sky Kid",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "Raise a Sky Kid in the Sky Field | Have majority Chicken  icons in its Tama Cells",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Chirp Young",
+    "name_ja": "未確認",
+    "stage": "Young",
+    "version_group": "Land, Water and Sky Versions",
+    "shell_requirement": "Land/Water/Sky",
+    "field": "Any",
+    "species": "Chirp",
+    "evolves_from": "Sky Kid",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "Raise a Sky Kid in the Sky Field | Have majority Corn  icons in its Tama Cells",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Bumble Young",
+    "name_ja": "未確認",
+    "stage": "Young",
+    "version_group": "Land, Water and Sky Versions",
+    "shell_requirement": "Land/Water/Sky",
+    "field": "Any",
+    "species": "Flutter",
+    "evolves_from": "Sky Kid",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "Raise a Sky Kid in the Sky Field | Have majority Syrup  icons in its Tama Cells",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Rocky Young",
+    "name_ja": "未確認",
+    "stage": "Young",
+    "version_group": "Land, Water and Sky Versions",
+    "shell_requirement": "Land/Water/Sky",
+    "field": "Any",
+    "species": "Mineral",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "Appears if a Sky Kid's diet is indeterminable*",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Meowtchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Land, Water and Sky Versions",
+    "shell_requirement": "Land/Water/Sky",
+    "field": "Land",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "Perfect",
+    "care_mistakes": "0",
+    "perfect_care": true,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0 care mistakes | Fill Hunger and Happy meters 5+ times each",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Pochitchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Land, Water and Sky Versions",
+    "shell_requirement": "Land/Water/Sky",
+    "field": "Land",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0-1 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Gumax",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Land, Water and Sky Versions",
+    "shell_requirement": "Land/Water/Sky",
+    "field": "Land",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "2-5 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Ratchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Land, Water and Sky Versions",
+    "shell_requirement": "Land/Water/Sky",
+    "field": "Land",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "6+ care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Mametchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Land, Water and Sky Versions",
+    "shell_requirement": "Land/Water/Sky",
+    "field": "Land",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "Perfect",
+    "care_mistakes": "0",
+    "perfect_care": true,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0 care mistakes | Fill Hunger and Happy meters 5+ times each",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Mimitchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Land, Water and Sky Versions",
+    "shell_requirement": "Land/Water/Sky",
+    "field": "Land",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0-1 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Molmotchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Land, Water and Sky Versions",
+    "shell_requirement": "Land/Water/Sky",
+    "field": "Land",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "2-5 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Sheeptchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Land, Water and Sky Versions",
+    "shell_requirement": "Land/Water/Sky",
+    "field": "Land",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "6+ care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Leopatchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Land, Water and Sky Versions",
+    "shell_requirement": "Land/Water/Sky",
+    "field": "Land",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "Perfect",
+    "care_mistakes": "0",
+    "perfect_care": true,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0 care mistakes | Fill Hunger and Happy meters 5+ times each",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Sebiretchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Land, Water and Sky Versions",
+    "shell_requirement": "Land/Water/Sky",
+    "field": "Land",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0-1 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Elizardotchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Land, Water and Sky Versions",
+    "shell_requirement": "Land/Water/Sky",
+    "field": "Land",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "2-5 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Heavytchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Land, Water and Sky Versions",
+    "shell_requirement": "Land/Water/Sky",
+    "field": "Land",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "6+ care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Furawatchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Land, Water and Sky Versions",
+    "shell_requirement": "Land/Water/Sky",
+    "field": "Land",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "Perfect",
+    "care_mistakes": "0",
+    "perfect_care": true,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0 care mistakes | Fill Hunger and Happy meters 5+ times each",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Potsunentchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Land, Water and Sky Versions",
+    "shell_requirement": "Land/Water/Sky",
+    "field": "Land",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0-1 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Tustustchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Land, Water and Sky Versions",
+    "shell_requirement": "Land/Water/Sky",
+    "field": "Land",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "2-5 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Shigemi-san",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Land, Water and Sky Versions",
+    "shell_requirement": "Land/Water/Sky",
+    "field": "Land",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "6+ care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Chodracotchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Land, Water and Sky Versions",
+    "shell_requirement": "Land/Water/Sky",
+    "field": "Land",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "Required",
+    "other_requirement": "Connect a Pink Land version with two different versions during the Young Stage | Cannot evolve from Sprout Young",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Irukatchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Land, Water and Sky Versions",
+    "shell_requirement": "Land/Water/Sky",
+    "field": "Water",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "Perfect",
+    "care_mistakes": "0",
+    "perfect_care": true,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0 care mistakes | Fill Hunger and Happy meters 5+ times each",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Kametchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Land, Water and Sky Versions",
+    "shell_requirement": "Land/Water/Sky",
+    "field": "Water",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0-1 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Kujiratchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Land, Water and Sky Versions",
+    "shell_requirement": "Land/Water/Sky",
+    "field": "Water",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "2-5 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Uruotchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Land, Water and Sky Versions",
+    "shell_requirement": "Land/Water/Sky",
+    "field": "Water",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "6+ care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Axolopatchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Land, Water and Sky Versions",
+    "shell_requirement": "Land/Water/Sky",
+    "field": "Water",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "Perfect",
+    "care_mistakes": "0",
+    "perfect_care": true,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0 care mistakes | Fill Hunger and Happy meters 5+ times each",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Imoritchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Land, Water and Sky Versions",
+    "shell_requirement": "Land/Water/Sky",
+    "field": "Water",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0-1 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Kawazutchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Land, Water and Sky Versions",
+    "shell_requirement": "Land/Water/Sky",
+    "field": "Water",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "2-5 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Beavertchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Land, Water and Sky Versions",
+    "shell_requirement": "Land/Water/Sky",
+    "field": "Water",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "6+ care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Tachutchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Land, Water and Sky Versions",
+    "shell_requirement": "Land/Water/Sky",
+    "field": "Water",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "Perfect",
+    "care_mistakes": "0",
+    "perfect_care": true,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0 care mistakes | Fill Hunger and Happy meters 5+ times each",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Sharktchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Land, Water and Sky Versions",
+    "shell_requirement": "Land/Water/Sky",
+    "field": "Water",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0-1 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Ankotchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Land, Water and Sky Versions",
+    "shell_requirement": "Land/Water/Sky",
+    "field": "Water",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "2-5 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Otototchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Land, Water and Sky Versions",
+    "shell_requirement": "Land/Water/Sky",
+    "field": "Water",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "6+ care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Kuraratchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Land, Water and Sky Versions",
+    "shell_requirement": "Land/Water/Sky",
+    "field": "Water",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "Perfect",
+    "care_mistakes": "0",
+    "perfect_care": true,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0 care mistakes | Fill Hunger and Happy meters 5+ times each",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Mendakotchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Land, Water and Sky Versions",
+    "shell_requirement": "Land/Water/Sky",
+    "field": "Water",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0-1 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Amefuratchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Land, Water and Sky Versions",
+    "shell_requirement": "Land/Water/Sky",
+    "field": "Water",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "2-5 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Gusokutchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Land, Water and Sky Versions",
+    "shell_requirement": "Land/Water/Sky",
+    "field": "Water",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "6+ care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Mermarintchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Land, Water and Sky Versions",
+    "shell_requirement": "Land/Water/Sky",
+    "field": "Water",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "Required",
+    "other_requirement": "Connect a Blue Water version with two different versions during the Young Stage | Cannot evolve from Float Young",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Horhotchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Land, Water and Sky Versions",
+    "shell_requirement": "Land/Water/Sky",
+    "field": "Sky",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "Perfect",
+    "care_mistakes": "0",
+    "perfect_care": true,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0 care mistakes | Fill Hunger and Happy meters 5+ times each",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Mongatchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Land, Water and Sky Versions",
+    "shell_requirement": "Land/Water/Sky",
+    "field": "Sky",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0-1 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Eagletchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Land, Water and Sky Versions",
+    "shell_requirement": "Land/Water/Sky",
+    "field": "Sky",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "2-5 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Batchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Land, Water and Sky Versions",
+    "shell_requirement": "Land/Water/Sky",
+    "field": "Sky",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "6+ care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Peacotchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Land, Water and Sky Versions",
+    "shell_requirement": "Land/Water/Sky",
+    "field": "Sky",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "Perfect",
+    "care_mistakes": "0",
+    "perfect_care": true,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0 care mistakes | Fill Hunger and Happy meters 5+ times each",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Batatchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Land, Water and Sky Versions",
+    "shell_requirement": "Land/Water/Sky",
+    "field": "Sky",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0-1 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Kuchipatchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Land, Water and Sky Versions",
+    "shell_requirement": "Land/Water/Sky",
+    "field": "Sky",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "2-5 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Kiwitchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Land, Water and Sky Versions",
+    "shell_requirement": "Land/Water/Sky",
+    "field": "Sky",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "6+ care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Papillotchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Land, Water and Sky Versions",
+    "shell_requirement": "Land/Water/Sky",
+    "field": "Sky",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "Perfect",
+    "care_mistakes": "0",
+    "perfect_care": true,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0 care mistakes | Fill Hunger and Happy meters 5+ times each",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Kabutotchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Land, Water and Sky Versions",
+    "shell_requirement": "Land/Water/Sky",
+    "field": "Sky",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0-1 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Tentotchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Land, Water and Sky Versions",
+    "shell_requirement": "Land/Water/Sky",
+    "field": "Sky",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "2-5 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Hatchitchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Land, Water and Sky Versions",
+    "shell_requirement": "Land/Water/Sky",
+    "field": "Sky",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "6+ care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Gemtchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Land, Water and Sky Versions",
+    "shell_requirement": "Land/Water/Sky",
+    "field": "Sky",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "Perfect",
+    "care_mistakes": "0",
+    "perfect_care": true,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0 care mistakes | Fill Hunger and Happy meters 5+ times each",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Oretatchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Land, Water and Sky Versions",
+    "shell_requirement": "Land/Water/Sky",
+    "field": "Sky",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0-1 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Ishikorotchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Land, Water and Sky Versions",
+    "shell_requirement": "Land/Water/Sky",
+    "field": "Sky",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "2-5 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Magmatchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Land, Water and Sky Versions",
+    "shell_requirement": "Land/Water/Sky",
+    "field": "Sky",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "6+ care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Yayacorntchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Land, Water and Sky Versions",
+    "shell_requirement": "Land/Water/Sky",
+    "field": "Sky",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "Required",
+    "other_requirement": "Connect a Purple Sky version with two different versions during the Young Stage | Cannot evolve from Rocky Young",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Bbmarutchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Land, Water and Sky Versions",
+    "shell_requirement": "Land/Water/Sky",
+    "field": "Any",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "Evolves after 4 hours in the Baby stage by maintaining less than four of a single Field Cell type (e.g. switching Tama Fields just before 15 minutes) | Can also be obtained from the Kid stage by consistently switching fields and preventing evolution | Cannot breed with other adults",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Babymarutchi",
+    "name_ja": "べびまるっち",
+    "stage": "Baby",
+    "version_group": "Jade Forest Version",
+    "shell_requirement": "Jade Forest",
+    "field": "Any",
+    "species": "未確認",
+    "evolves_from": "Egg",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "Always hatches from an egg | Evolution is prompted upon obtaining 4 of a single field cell type | Automatically evolves if the evolution prompt is missed twice, or after 4 total hours",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Forest Kid",
+    "name_ja": "もりキッズ",
+    "stage": "Kid",
+    "version_group": "Jade Forest Version",
+    "shell_requirement": "Jade Forest",
+    "field": "Any",
+    "species": "未確認",
+    "evolves_from": "Babymarutchi",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "Raise Babymarutchi in the Forest Field | Evolution is prompted when there are 4 bamboo  icons in its Tama Cells",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Land Kid",
+    "name_ja": "りくキッズ",
+    "stage": "Kid",
+    "version_group": "Jade Forest Version",
+    "shell_requirement": "Jade Forest",
+    "field": "Any",
+    "species": "未確認",
+    "evolves_from": "Babymarutchi",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "Raise Babymarutchi in the Land Field | Evolution is prompted when there are 4 leaf  icons in its Tama Cells",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Water Kid",
+    "name_ja": "みずキッズ",
+    "stage": "Kid",
+    "version_group": "Jade Forest Version",
+    "shell_requirement": "Jade Forest",
+    "field": "Any",
+    "species": "未確認",
+    "evolves_from": "Babymarutchi",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "Raise Babymarutchi in the Water Field | Evolution is prompted when there are 4 bubble  icons in its Tama Cells",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Roar Young",
+    "name_ja": "未確認",
+    "stage": "Young",
+    "version_group": "Jade Forest Version",
+    "shell_requirement": "Jade Forest",
+    "field": "Any",
+    "species": "Roar",
+    "evolves_from": "Forest Kid",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "Meat",
+    "connection_requirement": "未確認",
+    "other_requirement": "Raise a Forest Kid in the Forest Field | Have majority Peking Meat  icons in its Tama Cells",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Toddle Young",
+    "name_ja": "未確認",
+    "stage": "Young",
+    "version_group": "Jade Forest Version",
+    "shell_requirement": "Jade Forest",
+    "field": "Any",
+    "species": "Toddle",
+    "evolves_from": "Forest Kid",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "Raise a Forest Kid in the Forest Field | Have majority Bamboo Grass  icons in its Tama Cells",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Chirp Young",
+    "name_ja": "未確認",
+    "stage": "Young",
+    "version_group": "Jade Forest Version",
+    "shell_requirement": "Jade Forest",
+    "field": "Any",
+    "species": "Chirp",
+    "evolves_from": "Forest Kid",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "Raise a Forest Kid in the Forest Field | Have majority Pomegranate  icons in its Tama Cells",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Sprout Young",
+    "name_ja": "未確認",
+    "stage": "Young",
+    "version_group": "Jade Forest Version",
+    "shell_requirement": "Jade Forest",
+    "field": "Any",
+    "species": "Sprout",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "Appears if a Forest Kid's diet is indeterminable*",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Roar Young",
+    "name_ja": "未確認",
+    "stage": "Young",
+    "version_group": "Jade Forest Version",
+    "shell_requirement": "Jade Forest",
+    "field": "Any",
+    "species": "Roar",
+    "evolves_from": "Land Kid",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "Meat",
+    "connection_requirement": "未確認",
+    "other_requirement": "Raise a Land Kid in the Land Field | Have majority Meat  icons in its Tama Cells",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Toddle Young",
+    "name_ja": "未確認",
+    "stage": "Young",
+    "version_group": "Jade Forest Version",
+    "shell_requirement": "Jade Forest",
+    "field": "Any",
+    "species": "Toddle",
+    "evolves_from": "Land Kid",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "Raise a Land Kid in the Land Field | Have majority Carrot  icons in its Tama Cells",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Lick Young",
+    "name_ja": "未確認",
+    "stage": "Young",
+    "version_group": "Jade Forest Version",
+    "shell_requirement": "Jade Forest",
+    "field": "Any",
+    "species": "Lick",
+    "evolves_from": "Land Kid",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "Raise a Land Kid in the Land Field | Have majority Worm  icons in its Tama Cells",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Sprout Young",
+    "name_ja": "未確認",
+    "stage": "Young",
+    "version_group": "Jade Forest Version",
+    "shell_requirement": "Jade Forest",
+    "field": "Any",
+    "species": "Sprout",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "Appears if a Land Kid's diet is indeterminable*",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Glide Young",
+    "name_ja": "未確認",
+    "stage": "Young",
+    "version_group": "Jade Forest Version",
+    "shell_requirement": "Jade Forest",
+    "field": "Any",
+    "species": "Glide",
+    "evolves_from": "Water Kid",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "Raise a Water Kid in the Water Field | Have majority Seafood  icons in its Tama Cells",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Leap Young",
+    "name_ja": "未確認",
+    "stage": "Young",
+    "version_group": "Jade Forest Version",
+    "shell_requirement": "Jade Forest",
+    "field": "Any",
+    "species": "Leap",
+    "evolves_from": "Water Kid",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "Raise a Water Kid in the Water Field | Have majority Seaweed  icons in its Tama Cells",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Paddle Young",
+    "name_ja": "未確認",
+    "stage": "Young",
+    "version_group": "Jade Forest Version",
+    "shell_requirement": "Jade Forest",
+    "field": "Any",
+    "species": "Paddle",
+    "evolves_from": "Water Kid",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "Raise a Water Kid in the Water Field | Have majority Plankton  icons in its Tama Cells",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Float Young",
+    "name_ja": "未確認",
+    "stage": "Young",
+    "version_group": "Jade Forest Version",
+    "shell_requirement": "Jade Forest",
+    "field": "Any",
+    "species": "Float",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "Appears if a Water Kid's diet is indeterminable*",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Forest Horhotchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Jade Forest Version",
+    "shell_requirement": "Jade Forest",
+    "field": "Forest",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "Perfect",
+    "care_mistakes": "0",
+    "perfect_care": true,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0 care mistakes | Fill Hunger and Happy meters 5+ times each",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Konkotchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Jade Forest Version",
+    "shell_requirement": "Jade Forest",
+    "field": "Forest",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0-1 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Tigaotchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Jade Forest Version",
+    "shell_requirement": "Jade Forest",
+    "field": "Forest",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "2-5 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Tanoontchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Jade Forest Version",
+    "shell_requirement": "Jade Forest",
+    "field": "Forest",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "6+ care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Lessapantchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Jade Forest Version",
+    "shell_requirement": "Jade Forest",
+    "field": "Forest",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "Perfect",
+    "care_mistakes": "0",
+    "perfect_care": true,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0 care mistakes | Fill Hunger and Happy meters 5+ times each",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Kanokotchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Jade Forest Version",
+    "shell_requirement": "Jade Forest",
+    "field": "Forest",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0-1 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Suigyutchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Jade Forest Version",
+    "shell_requirement": "Jade Forest",
+    "field": "Forest",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "2-5 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Panbootchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Jade Forest Version",
+    "shell_requirement": "Jade Forest",
+    "field": "Forest",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "6+ care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Kachitchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Jade Forest Version",
+    "shell_requirement": "Jade Forest",
+    "field": "Forest",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "Perfect",
+    "care_mistakes": "0",
+    "perfect_care": true,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0 care mistakes | Fill Hunger and Happy meters 5+ times each",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Tokipatchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Jade Forest Version",
+    "shell_requirement": "Jade Forest",
+    "field": "Forest",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0-1 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Kuchipatchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Jade Forest Version",
+    "shell_requirement": "Jade Forest",
+    "field": "Forest",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "2-5 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Sparrotchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Jade Forest Version",
+    "shell_requirement": "Jade Forest",
+    "field": "Forest",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "6+ care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Shiitaketchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Jade Forest Version",
+    "shell_requirement": "Jade Forest",
+    "field": "Forest",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "Perfect",
+    "care_mistakes": "0",
+    "perfect_care": true,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0 care mistakes | Fill Hunger and Happy meters 5+ times each",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Peatchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Jade Forest Version",
+    "shell_requirement": "Jade Forest",
+    "field": "Forest",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0-1 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Nappatchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Jade Forest Version",
+    "shell_requirement": "Jade Forest",
+    "field": "Forest",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "2-5 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Rushraditchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Jade Forest Version",
+    "shell_requirement": "Jade Forest",
+    "field": "Forest",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "6+ care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Tatsutchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Jade Forest Version",
+    "shell_requirement": "Jade Forest",
+    "field": "Forest",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "Required",
+    "other_requirement": "Connect a Jade Forest version with two different versions during the Young Stage | Cannot evolve from a Forest Sprout Young",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Meowtchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Jade Forest Version",
+    "shell_requirement": "Jade Forest",
+    "field": "Land",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "Perfect",
+    "care_mistakes": "0",
+    "perfect_care": true,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0 care mistakes | Fill Hunger and Happy meters 5+ times each",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Pochitchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Jade Forest Version",
+    "shell_requirement": "Jade Forest",
+    "field": "Land",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0-1 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Gumax",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Jade Forest Version",
+    "shell_requirement": "Jade Forest",
+    "field": "Land",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "2-5 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Ratchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Jade Forest Version",
+    "shell_requirement": "Jade Forest",
+    "field": "Land",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "6+ care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Mametchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Jade Forest Version",
+    "shell_requirement": "Jade Forest",
+    "field": "Land",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "Perfect",
+    "care_mistakes": "0",
+    "perfect_care": true,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0 care mistakes | Fill Hunger and Happy meters 5+ times each",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Mimitchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Jade Forest Version",
+    "shell_requirement": "Jade Forest",
+    "field": "Land",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0-1 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Molmotchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Jade Forest Version",
+    "shell_requirement": "Jade Forest",
+    "field": "Land",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "2-5 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Sheeptchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Jade Forest Version",
+    "shell_requirement": "Jade Forest",
+    "field": "Land",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "6+ care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Leopatchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Jade Forest Version",
+    "shell_requirement": "Jade Forest",
+    "field": "Land",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "Perfect",
+    "care_mistakes": "0",
+    "perfect_care": true,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0 care mistakes | Fill Hunger and Happy meters 5+ times each",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Sebiretchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Jade Forest Version",
+    "shell_requirement": "Jade Forest",
+    "field": "Land",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0-1 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Elizardotchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Jade Forest Version",
+    "shell_requirement": "Jade Forest",
+    "field": "Land",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "2-5 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Heavytchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Jade Forest Version",
+    "shell_requirement": "Jade Forest",
+    "field": "Land",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "6+ care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Furawatchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Jade Forest Version",
+    "shell_requirement": "Jade Forest",
+    "field": "Land",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "Perfect",
+    "care_mistakes": "0",
+    "perfect_care": true,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0 care mistakes | Fill Hunger and Happy meters 5+ times each",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Potsunentchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Jade Forest Version",
+    "shell_requirement": "Jade Forest",
+    "field": "Land",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0-1 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Tustustchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Jade Forest Version",
+    "shell_requirement": "Jade Forest",
+    "field": "Land",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "2-5 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Shigemi-san",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Jade Forest Version",
+    "shell_requirement": "Jade Forest",
+    "field": "Land",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "6+ care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Irukatchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Jade Forest Version",
+    "shell_requirement": "Jade Forest",
+    "field": "Water",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "Perfect",
+    "care_mistakes": "0",
+    "perfect_care": true,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0 care mistakes | Fill Hunger and Happy meters 5+ times each",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Kametchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Jade Forest Version",
+    "shell_requirement": "Jade Forest",
+    "field": "Water",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0-1 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Kujiratchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Jade Forest Version",
+    "shell_requirement": "Jade Forest",
+    "field": "Water",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "2-5 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Uruotchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Jade Forest Version",
+    "shell_requirement": "Jade Forest",
+    "field": "Water",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "6+ care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Axolopatchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Jade Forest Version",
+    "shell_requirement": "Jade Forest",
+    "field": "Water",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "Perfect",
+    "care_mistakes": "0",
+    "perfect_care": true,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0 care mistakes | Fill Hunger and Happy meters 5+ times each",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Imoritchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Jade Forest Version",
+    "shell_requirement": "Jade Forest",
+    "field": "Water",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0-1 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Kawazutchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Jade Forest Version",
+    "shell_requirement": "Jade Forest",
+    "field": "Water",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "2-5 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Beavertchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Jade Forest Version",
+    "shell_requirement": "Jade Forest",
+    "field": "Water",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "6+ care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Tachutchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Jade Forest Version",
+    "shell_requirement": "Jade Forest",
+    "field": "Water",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "Perfect",
+    "care_mistakes": "0",
+    "perfect_care": true,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0 care mistakes | Fill Hunger and Happy meters 5+ times each",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Sharktchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Jade Forest Version",
+    "shell_requirement": "Jade Forest",
+    "field": "Water",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0-1 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Ankotchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Jade Forest Version",
+    "shell_requirement": "Jade Forest",
+    "field": "Water",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "2-5 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Otototchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Jade Forest Version",
+    "shell_requirement": "Jade Forest",
+    "field": "Water",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "6+ care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Kuraratchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Jade Forest Version",
+    "shell_requirement": "Jade Forest",
+    "field": "Water",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "Perfect",
+    "care_mistakes": "0",
+    "perfect_care": true,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0 care mistakes | Fill Hunger and Happy meters 5+ times each",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Mendakotchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Jade Forest Version",
+    "shell_requirement": "Jade Forest",
+    "field": "Water",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0-1 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Amefuratchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Jade Forest Version",
+    "shell_requirement": "Jade Forest",
+    "field": "Water",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "2-5 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Gusokutchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Jade Forest Version",
+    "shell_requirement": "Jade Forest",
+    "field": "Water",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "6+ care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Bbmarutchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Jade Forest Version",
+    "shell_requirement": "Jade Forest",
+    "field": "Any",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "Evolves after 4 hours in the Baby stage by maintaining less than four of a single Field Cell type (e.g. switching Tama Fields just before 15 minutes) | Can also be obtained from the Kid stage by consistently switching fields and preventing evolution | Cannot breed with other adults",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Babymarutchi",
+    "name_ja": "べびまるっち",
+    "stage": "Baby",
+    "version_group": "Tropics and Glacier Versions",
+    "shell_requirement": "Tropics/Glacier",
+    "field": "Any",
+    "species": "未確認",
+    "evolves_from": "Egg",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "Always hatches from an egg | Evolution is prompted upon obtaining 4 of a single field cell type | Automatically evolves if the evolution prompt is missed twice, or after 4 total hours",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Tropical Kid",
+    "name_ja": "なんごくキッズ",
+    "stage": "Kid",
+    "version_group": "Tropics and Glacier Versions",
+    "shell_requirement": "Tropics/Glacier",
+    "field": "Any",
+    "species": "未確認",
+    "evolves_from": "Babymarutchi",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "Raise Babymarutchi in the Tropical Field | Evolution is prompted when there are 4 hibiscus  icons in its Tama Cells",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Frozen Kid",
+    "name_ja": "未確認",
+    "stage": "Kid",
+    "version_group": "Tropics and Glacier Versions",
+    "shell_requirement": "Tropics/Glacier",
+    "field": "Any",
+    "species": "未確認",
+    "evolves_from": "Babymarutchi",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "Raise Babymarutchi in the Ice Field | Evolution is prompted when there are 4 snowflake  icons in its Tama Cells",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Forest Kid",
+    "name_ja": "もりキッズ",
+    "stage": "Kid",
+    "version_group": "Tropics and Glacier Versions",
+    "shell_requirement": "Tropics/Glacier",
+    "field": "Any",
+    "species": "未確認",
+    "evolves_from": "Babymarutchi",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "Raise Babymarutchi in the Forest Field | Evolution is prompted when there are 4 bamboo  icons in its Tama Cells",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Roar Young",
+    "name_ja": "未確認",
+    "stage": "Young",
+    "version_group": "Tropics and Glacier Versions",
+    "shell_requirement": "Tropics/Glacier",
+    "field": "Any",
+    "species": "Roar",
+    "evolves_from": "Tropical Kid",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "Meat",
+    "connection_requirement": "未確認",
+    "other_requirement": "Raise a Tropical Kid in the Tropical Field | Have majority Tropical Meat  icons in its Tama Cells",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Toddle Young",
+    "name_ja": "未確認",
+    "stage": "Young",
+    "version_group": "Tropics and Glacier Versions",
+    "shell_requirement": "Tropics/Glacier",
+    "field": "Any",
+    "species": "Toddle",
+    "evolves_from": "Tropical Kid",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "Raise a Tropical Kid in the Tropical Field | Have majority Banana  icons in its Tama Cells",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Lick Young",
+    "name_ja": "未確認",
+    "stage": "Young",
+    "version_group": "Tropics and Glacier Versions",
+    "shell_requirement": "Tropics/Glacier",
+    "field": "Any",
+    "species": "Lick",
+    "evolves_from": "Tropical Kid",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "Raise a Tropical Kid in the Tropical Field | Have majority Butterflies  icons in its Tama Cells",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Sprout Young",
+    "name_ja": "未確認",
+    "stage": "Young",
+    "version_group": "Tropics and Glacier Versions",
+    "shell_requirement": "Tropics/Glacier",
+    "field": "Any",
+    "species": "Sprout",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "Appears if a Tropical Kid's diet is indeterminable*",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Roar Young",
+    "name_ja": "未確認",
+    "stage": "Young",
+    "version_group": "Tropics and Glacier Versions",
+    "shell_requirement": "Tropics/Glacier",
+    "field": "Any",
+    "species": "Roar",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "Meat",
+    "connection_requirement": "未確認",
+    "other_requirement": "Raise a Frozen Kid in the Ice Field | Have majority Frozen Meat  icons in its Tama Cells",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Glide Young",
+    "name_ja": "未確認",
+    "stage": "Young",
+    "version_group": "Tropics and Glacier Versions",
+    "shell_requirement": "Tropics/Glacier",
+    "field": "Any",
+    "species": "Glide",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "Raise a Frozen Kid in the Ice Field | Have majority Northern Seafood  icons in its Tama Cells",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Toddle Young",
+    "name_ja": "未確認",
+    "stage": "Young",
+    "version_group": "Tropics and Glacier Versions",
+    "shell_requirement": "Tropics/Glacier",
+    "field": "Any",
+    "species": "Toddle",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "Raise a Frozen Kid in the Ice Field | Have majority Red Berries  icons in its Tama Cells",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Float Young",
+    "name_ja": "未確認",
+    "stage": "Young",
+    "version_group": "Tropics and Glacier Versions",
+    "shell_requirement": "Tropics/Glacier",
+    "field": "Any",
+    "species": "Float",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "Appears if a Frozen Kid's diet is indeterminable*",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Roar Young",
+    "name_ja": "未確認",
+    "stage": "Young",
+    "version_group": "Tropics and Glacier Versions",
+    "shell_requirement": "Tropics/Glacier",
+    "field": "Any",
+    "species": "Roar",
+    "evolves_from": "Forest Kid",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "Meat",
+    "connection_requirement": "未確認",
+    "other_requirement": "Raise a Forest Kid in the Forest Field | Have majority Peking Meat  icons in its Tama Cells",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Toddle Young",
+    "name_ja": "未確認",
+    "stage": "Young",
+    "version_group": "Tropics and Glacier Versions",
+    "shell_requirement": "Tropics/Glacier",
+    "field": "Any",
+    "species": "Toddle",
+    "evolves_from": "Forest Kid",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "Raise a Forest Kid in the Forest Field | Have majority Bamboo Grass  icons in its Tama Cells",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Chirp Young",
+    "name_ja": "未確認",
+    "stage": "Young",
+    "version_group": "Tropics and Glacier Versions",
+    "shell_requirement": "Tropics/Glacier",
+    "field": "Any",
+    "species": "Chirp",
+    "evolves_from": "Forest Kid",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "Raise a Forest Kid in the Forest Field | Have majority Pomegranate  icons in its Tama Cells",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Sprout Young",
+    "name_ja": "未確認",
+    "stage": "Young",
+    "version_group": "Tropics and Glacier Versions",
+    "shell_requirement": "Tropics/Glacier",
+    "field": "Any",
+    "species": "Sprout",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "Appears if a Forest Kid's diet is indeterminable*",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Tropical Meowtchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier Versions",
+    "shell_requirement": "Tropics/Glacier",
+    "field": "Tropical",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "Perfect",
+    "care_mistakes": "0",
+    "perfect_care": true,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0 care mistakes | Fill Hunger and Happy meters 5+ times each",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Madillotchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier Versions",
+    "shell_requirement": "Tropics/Glacier",
+    "field": "Tropical",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0-1 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Tarantytchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier Versions",
+    "shell_requirement": "Tropics/Glacier",
+    "field": "Tropical",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "2-5 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Crocotchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier Versions",
+    "shell_requirement": "Tropics/Glacier",
+    "field": "Tropical",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "6+ care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Tropical Mametchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier Versions",
+    "shell_requirement": "Tropics/Glacier",
+    "field": "Tropical",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "Perfect",
+    "care_mistakes": "0",
+    "perfect_care": true,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0 care mistakes | Fill Hunger and Happy meters 5+ times each",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Parorotchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier Versions",
+    "shell_requirement": "Tropics/Glacier",
+    "field": "Tropical",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0-1 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Tenatchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier Versions",
+    "shell_requirement": "Tropics/Glacier",
+    "field": "Tropical",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "2-5 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Namakemotchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier Versions",
+    "shell_requirement": "Tropics/Glacier",
+    "field": "Tropical",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "6+ care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Kuikuitchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier Versions",
+    "shell_requirement": "Tropics/Glacier",
+    "field": "Tropical",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "Perfect",
+    "care_mistakes": "0",
+    "perfect_care": true,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0 care mistakes | Fill Hunger and Happy meters 5+ times each",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Poizutchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier Versions",
+    "shell_requirement": "Tropics/Glacier",
+    "field": "Tropical",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0-1 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Chameleotchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier Versions",
+    "shell_requirement": "Tropics/Glacier",
+    "field": "Tropical",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "2-5 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Iguanatchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier Versions",
+    "shell_requirement": "Tropics/Glacier",
+    "field": "Tropical",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "6+ care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Yashikitchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier Versions",
+    "shell_requirement": "Tropics/Glacier",
+    "field": "Tropical",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "Perfect",
+    "care_mistakes": "0",
+    "perfect_care": true,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0 care mistakes | Fill Hunger and Happy meters 5+ times each",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Tropical Potsunentchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier Versions",
+    "shell_requirement": "Tropics/Glacier",
+    "field": "Tropical",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0-1 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Ananatchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier Versions",
+    "shell_requirement": "Tropics/Glacier",
+    "field": "Tropical",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "2-5 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Avovotchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier Versions",
+    "shell_requirement": "Tropics/Glacier",
+    "field": "Tropical",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "6+ care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Manapatchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier Versions",
+    "shell_requirement": "Tropics/Glacier",
+    "field": "Tropical",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "Required",
+    "other_requirement": "Connect an Orange Tropics version with two different versions during the Young Stage | Cannot evolve from a Tropical Sprout Young",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Okojotchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier Versions",
+    "shell_requirement": "Tropics/Glacier",
+    "field": "Ice",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "Perfect",
+    "care_mistakes": "0",
+    "perfect_care": true,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0 care mistakes | Fill Hunger and Happy meters 5+ times each",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Wolftchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier Versions",
+    "shell_requirement": "Tropics/Glacier",
+    "field": "Ice",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0-1 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Polakumatchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier Versions",
+    "shell_requirement": "Tropics/Glacier",
+    "field": "Ice",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "2-5 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Azaratchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier Versions",
+    "shell_requirement": "Tropics/Glacier",
+    "field": "Ice",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "6+ care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Icy Irukatchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier Versions",
+    "shell_requirement": "Tropics/Glacier",
+    "field": "Ice",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "Perfect",
+    "care_mistakes": "0",
+    "perfect_care": true,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0 care mistakes | Fill Hunger and Happy meters 5+ times each",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Ginjirotchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier Versions",
+    "shell_requirement": "Tropics/Glacier",
+    "field": "Ice",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0-1 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Rakkotchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier Versions",
+    "shell_requirement": "Tropics/Glacier",
+    "field": "Ice",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "2-5 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Hoppentchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier Versions",
+    "shell_requirement": "Tropics/Glacier",
+    "field": "Ice",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "6+ care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Lemmingtchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier Versions",
+    "shell_requirement": "Tropics/Glacier",
+    "field": "Ice",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "Perfect",
+    "care_mistakes": "0",
+    "perfect_care": true,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0 care mistakes | Fill Hunger and Happy meters 5+ times each",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Moosetchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier Versions",
+    "shell_requirement": "Tropics/Glacier",
+    "field": "Ice",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0-1 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Raichotchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier Versions",
+    "shell_requirement": "Tropics/Glacier",
+    "field": "Ice",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "2-5 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Yukiusatchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier Versions",
+    "shell_requirement": "Tropics/Glacier",
+    "field": "Ice",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "6+ care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Nerinetchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier Versions",
+    "shell_requirement": "Tropics/Glacier",
+    "field": "Ice",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "Perfect",
+    "care_mistakes": "0",
+    "perfect_care": true,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0 care mistakes | Fill Hunger and Happy meters 5+ times each",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Dangouotchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier Versions",
+    "shell_requirement": "Tropics/Glacier",
+    "field": "Ice",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0-1 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Yaytytchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier Versions",
+    "shell_requirement": "Tropics/Glacier",
+    "field": "Ice",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "2-5 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Yukiraratchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier Versions",
+    "shell_requirement": "Tropics/Glacier",
+    "field": "Ice",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "6+ care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Hobohorntchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier Versions",
+    "shell_requirement": "Tropics/Glacier",
+    "field": "Ice",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "Required",
+    "other_requirement": "Connect a White Glacier version with two different versions during the Young Stage | Cannot evolve from a Frozen Float Young",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Forest Horhotchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier Versions",
+    "shell_requirement": "Tropics/Glacier",
+    "field": "Forest",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "Perfect",
+    "care_mistakes": "0",
+    "perfect_care": true,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0 care mistakes | Fill Hunger and Happy meters 5+ times each",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Konkotchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier Versions",
+    "shell_requirement": "Tropics/Glacier",
+    "field": "Forest",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0-1 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Tigaotchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier Versions",
+    "shell_requirement": "Tropics/Glacier",
+    "field": "Forest",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "2-5 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Tanoontchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier Versions",
+    "shell_requirement": "Tropics/Glacier",
+    "field": "Forest",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "6+ care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Lessapantchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier Versions",
+    "shell_requirement": "Tropics/Glacier",
+    "field": "Forest",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "Perfect",
+    "care_mistakes": "0",
+    "perfect_care": true,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0 care mistakes | Fill Hunger and Happy meters 5+ times each",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Kanokotchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier Versions",
+    "shell_requirement": "Tropics/Glacier",
+    "field": "Forest",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0-1 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Suigyutchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier Versions",
+    "shell_requirement": "Tropics/Glacier",
+    "field": "Forest",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "2-5 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Panbootchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier Versions",
+    "shell_requirement": "Tropics/Glacier",
+    "field": "Forest",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "6+ care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Kachitchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier Versions",
+    "shell_requirement": "Tropics/Glacier",
+    "field": "Forest",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "Perfect",
+    "care_mistakes": "0",
+    "perfect_care": true,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0 care mistakes | Fill Hunger and Happy meters 5+ times each",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Tokipatchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier Versions",
+    "shell_requirement": "Tropics/Glacier",
+    "field": "Forest",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0-1 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Kuchipatchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier Versions",
+    "shell_requirement": "Tropics/Glacier",
+    "field": "Forest",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "2-5 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Sparrotchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier Versions",
+    "shell_requirement": "Tropics/Glacier",
+    "field": "Forest",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "6+ care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Shiitaketchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier Versions",
+    "shell_requirement": "Tropics/Glacier",
+    "field": "Forest",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "Perfect",
+    "care_mistakes": "0",
+    "perfect_care": true,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0 care mistakes | Fill Hunger and Happy meters 5+ times each",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Peatchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier Versions",
+    "shell_requirement": "Tropics/Glacier",
+    "field": "Forest",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "0-1 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Nappatchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier Versions",
+    "shell_requirement": "Tropics/Glacier",
+    "field": "Forest",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "2-5 care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Rushraditchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier Versions",
+    "shell_requirement": "Tropics/Glacier",
+    "field": "Forest",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "6+ care mistakes",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  },
+  {
+    "name_en": "Bbmarutchi",
+    "name_ja": "未確認",
+    "stage": "Adult",
+    "version_group": "Tropics and Glacier Versions",
+    "shell_requirement": "Tropics/Glacier",
+    "field": "Any",
+    "species": "未確認",
+    "evolves_from": "未確認",
+    "care_tier": "未確認",
+    "care_mistakes": "未確認",
+    "perfect_care": false,
+    "food_cells": "未確認",
+    "connection_requirement": "未確認",
+    "other_requirement": "Evolves after 4 hours in the Baby stage by maintaining less than four of a single Field Cell type (e.g. switching Tama Fields just before 15 minutes) | Can also be obtained from the Kid stage by consistently switching fields and preventing evolution | Cannot breed with other adults",
+    "secret": false,
+    "source_urls": [
+      "https://tamagotchi.fandom.com/wiki/Tamagotchi_Paradise/Character_list"
+    ]
+  }
+]

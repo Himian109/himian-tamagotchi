@@ -1,0 +1,233 @@
+[
+  {
+    "field": "Sky",
+    "row": 1,
+    "slot": "young",
+    "catalog_id": "flap-young-flap-young-paradise-artwork-png",
+    "english_name": "Flap Young",
+    "user_name_simplified": "帕塔帕塔",
+    "user_name_traditional": "帕塔帕塔",
+    "visual_evidence": "blue creature",
+    "confidence": "high"
+  },
+  {
+    "field": "Sky",
+    "row": 1,
+    "slot": "adult_perfect",
+    "catalog_id": "horhotchi-horhotchi-paradise-png",
+    "english_name": "Horhotchi",
+    "user_name_simplified": "伙伙吉",
+    "user_name_traditional": "伙伙吉",
+    "visual_evidence": "blue owl",
+    "confidence": "high"
+  },
+  {
+    "field": "Sky",
+    "row": 1,
+    "slot": "adult_0_1",
+    "catalog_id": "mongatchi-mongatchi-paradise-artwork-png",
+    "english_name": "Mongatchi",
+    "user_name_simplified": "飞鼠吉",
+    "user_name_traditional": "飛鼠吉",
+    "visual_evidence": "white flying squirrel",
+    "confidence": "high"
+  },
+  {
+    "field": "Sky",
+    "row": 1,
+    "slot": "adult_2_5",
+    "catalog_id": "eagletchi-eagletchi-paradise-png",
+    "english_name": "Eagletchi",
+    "user_name_simplified": "伊哥吉",
+    "user_name_traditional": "伊哥吉",
+    "visual_evidence": "purple eagle",
+    "confidence": "high"
+  },
+  {
+    "field": "Sky",
+    "row": 1,
+    "slot": "adult_6",
+    "catalog_id": "batatchi-batatchi-paradise-png",
+    "english_name": "Batatchi",
+    "user_name_simplified": "蝠吉",
+    "user_name_traditional": "蝠吉",
+    "visual_evidence": "dark blue bat",
+    "confidence": "high"
+  },
+  {
+    "field": "Sky",
+    "row": 2,
+    "slot": "young",
+    "catalog_id": "chirp-young-chirp-young-paradise-artwork-png",
+    "english_name": "Chirp Young",
+    "user_name_simplified": "皮优皮优",
+    "user_name_traditional": "皮優皮優",
+    "visual_evidence": "green bean",
+    "confidence": "high"
+  },
+  {
+    "field": "Sky",
+    "row": 2,
+    "slot": "adult_perfect",
+    "catalog_id": "peacotchi-peacotchi-paradise-png",
+    "english_name": "Peacotchi",
+    "user_name_simplified": "孔雀吉",
+    "user_name_traditional": "孔雀吉",
+    "visual_evidence": "blue peacock",
+    "confidence": "high"
+  },
+  {
+    "field": "Sky",
+    "row": 2,
+    "slot": "adult_0_1",
+    "catalog_id": "hatchitchi-hatchitchi-paradise-png",
+    "english_name": "Hatchitchi",
+    "user_name_simplified": "啪嗒吉",
+    "user_name_traditional": "啪嗒吉",
+    "visual_evidence": "黃色橢圓鳥形、淺藍翅膀與粉紅鳥喙皆與 Hatchitchi Artwork 一致",
+    "confidence": "high"
+  },
+  {
+    "field": "Sky",
+    "row": 2,
+    "slot": "adult_2_5",
+    "catalog_id": "kuchipatchi-kuchipatchi-paradise-png",
+    "english_name": "Kuchipatchi",
+    "user_name_simplified": "大嘴吉",
+    "user_name_traditional": "大嘴吉",
+    "visual_evidence": "green big mouth bird",
+    "confidence": "high"
+  },
+  {
+    "field": "Sky",
+    "row": 2,
+    "slot": "adult_6",
+    "catalog_id": "kiwitchi-kiwitchi-paradise-png",
+    "english_name": "Kiwitchi",
+    "user_name_simplified": "奇异吉",
+    "user_name_traditional": "奇異吉",
+    "visual_evidence": "green kiwi bird",
+    "confidence": "high"
+  },
+  {
+    "field": "Sky",
+    "row": 3,
+    "slot": "young",
+    "catalog_id": "bumble-young-bumble-young-png",
+    "english_name": "Bumble Young",
+    "user_name_simplified": "奔奔",
+    "user_name_traditional": "奔奔",
+    "visual_evidence": "yellow blob",
+    "confidence": "high"
+  },
+  {
+    "field": "Sky",
+    "row": 3,
+    "slot": "adult_perfect",
+    "catalog_id": "papillotchi-papillotchi-paradise-png",
+    "english_name": "Papillotchi",
+    "user_name_simplified": "蝶蝶吉",
+    "user_name_traditional": "蝶蝶吉",
+    "visual_evidence": "butterfly",
+    "confidence": "high"
+  },
+  {
+    "field": "Sky",
+    "row": 3,
+    "slot": "adult_0_1",
+    "catalog_id": "kabutotchi-kabutotchi-paradise-png",
+    "english_name": "Kabutotchi",
+    "user_name_simplified": "甲虫吉",
+    "user_name_traditional": "甲蟲吉",
+    "visual_evidence": "red beetle",
+    "confidence": "high"
+  },
+  {
+    "field": "Sky",
+    "row": 3,
+    "slot": "adult_2_5",
+    "catalog_id": "tentotchi-tentotchi-paradise-png",
+    "english_name": "Tentotchi",
+    "user_name_simplified": "小瓢吉",
+    "user_name_traditional": "小瓢吉",
+    "visual_evidence": "yellow ladybug",
+    "confidence": "high"
+  },
+  {
+    "field": "Sky",
+    "row": 3,
+    "slot": "adult_6",
+    "catalog_id": "batchi-batchi-paradise-png",
+    "english_name": "Batchi",
+    "user_name_simplified": "蜂蜂吉",
+    "user_name_traditional": "蜂蜂吉",
+    "visual_evidence": "bee",
+    "confidence": "high"
+  },
+  {
+    "field": "Sky",
+    "row": 4,
+    "slot": "young",
+    "catalog_id": "rocky-young-rocky-young-png",
+    "english_name": "Rocky Young",
+    "user_name_simplified": "卡奇卡奇",
+    "user_name_traditional": "卡奇卡奇",
+    "visual_evidence": "gray stone",
+    "confidence": "high"
+  },
+  {
+    "field": "Sky",
+    "row": 4,
+    "slot": "adult_perfect",
+    "catalog_id": "gemtchi-gemtchi-paradise-png",
+    "english_name": "Gemtchi",
+    "user_name_simplified": "宝石吉",
+    "user_name_traditional": "寶石吉",
+    "visual_evidence": "gem creature",
+    "confidence": "high"
+  },
+  {
+    "field": "Sky",
+    "row": 4,
+    "slot": "adult_0_1",
+    "catalog_id": "oretatchi-oretatchi-paradise-png",
+    "english_name": "Oretatchi",
+    "user_name_simplified": "矿石吉",
+    "user_name_traditional": "礦石吉",
+    "visual_evidence": "左右兩塊紫色多面礦石與 Oretatchi Artwork 一致",
+    "confidence": "high"
+  },
+  {
+    "field": "Sky",
+    "row": 4,
+    "slot": "adult_2_5",
+    "catalog_id": "ishikorotchi-ishikorotchi-paradise-png",
+    "english_name": "Ishikorotchi",
+    "user_name_simplified": "岩石吉",
+    "user_name_traditional": "岩石吉",
+    "visual_evidence": "藍灰單顆岩石、短腳與平直表情皆與 Ishikorotchi Artwork 一致",
+    "confidence": "high"
+  },
+  {
+    "field": "Sky",
+    "row": 4,
+    "slot": "adult_6",
+    "catalog_id": "magmatchi-magmatchi-paradise-png",
+    "english_name": "Magmatchi",
+    "user_name_simplified": "岩浆吉",
+    "user_name_traditional": "岩漿吉",
+    "visual_evidence": "red lava",
+    "confidence": "high"
+  },
+  {
+    "field": "Sky",
+    "row": "hidden",
+    "slot": "hidden",
+    "catalog_id": "yayacorntchi-yayacorntchi-paradise-png",
+    "english_name": "Yayacorntchi",
+    "user_name_simplified": "独角吉",
+    "user_name_traditional": "獨角吉",
+    "visual_evidence": "unicorn",
+    "confidence": "high"
+  }
+]

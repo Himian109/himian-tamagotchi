@@ -1,0 +1,191 @@
+[
+  {
+    "name": "帕塔帕塔",
+    "row": 1,
+    "slot": "young",
+    "appearance": "blue creature",
+    "confidence": "high",
+    "chinese_name": "帕塔帕塔",
+    "uncertain": false
+  },
+  {
+    "name": "伙伙吉",
+    "row": 1,
+    "slot": "adult_perfect",
+    "appearance": "blue owl",
+    "confidence": "high",
+    "chinese_name": "伙伙吉",
+    "uncertain": false
+  },
+  {
+    "name": "飞鼠吉",
+    "row": 1,
+    "slot": "adult_0_1",
+    "appearance": "white flying squirrel",
+    "confidence": "high",
+    "chinese_name": "飞鼠吉",
+    "uncertain": false
+  },
+  {
+    "name": "伊哥吉",
+    "row": 1,
+    "slot": "adult_2_5",
+    "appearance": "purple eagle",
+    "confidence": "high",
+    "chinese_name": "伊哥吉",
+    "uncertain": false
+  },
+  {
+    "name": "蝠吉",
+    "row": 1,
+    "slot": "adult_6",
+    "appearance": "dark blue bat",
+    "confidence": "high",
+    "chinese_name": "蝠吉",
+    "uncertain": false
+  },
+  {
+    "name": "皮优皮优",
+    "row": 2,
+    "slot": "young",
+    "appearance": "green bean",
+    "confidence": "high",
+    "chinese_name": "皮优皮优",
+    "uncertain": false
+  },
+  {
+    "name": "孔雀吉",
+    "row": 2,
+    "slot": "adult_perfect",
+    "appearance": "blue peacock",
+    "confidence": "high",
+    "chinese_name": "孔雀吉",
+    "uncertain": false
+  },
+  {
+    "name": "啪嗒吉",
+    "row": 2,
+    "slot": "adult_0_1",
+    "appearance": "yellow bird",
+    "confidence": "high",
+    "chinese_name": "啪嗒吉",
+    "uncertain": false
+  },
+  {
+    "name": "大嘴吉",
+    "row": 2,
+    "slot": "adult_2_5",
+    "appearance": "green big mouth bird",
+    "confidence": "high",
+    "chinese_name": "大嘴吉",
+    "uncertain": false
+  },
+  {
+    "name": "奇异吉",
+    "row": 2,
+    "slot": "adult_6",
+    "appearance": "green kiwi bird",
+    "confidence": "high",
+    "chinese_name": "奇异吉",
+    "uncertain": false
+  },
+  {
+    "name": "奔奔",
+    "row": 3,
+    "slot": "young",
+    "appearance": "yellow blob",
+    "confidence": "high",
+    "chinese_name": "奔奔",
+    "uncertain": false
+  },
+  {
+    "name": "蝶蝶吉",
+    "row": 3,
+    "slot": "adult_perfect",
+    "appearance": "butterfly",
+    "confidence": "high",
+    "chinese_name": "蝶蝶吉",
+    "uncertain": false
+  },
+  {
+    "name": "甲虫吉",
+    "row": 3,
+    "slot": "adult_0_1",
+    "appearance": "red beetle",
+    "confidence": "high",
+    "chinese_name": "甲虫吉",
+    "uncertain": false
+  },
+  {
+    "name": "小瓢吉",
+    "row": 3,
+    "slot": "adult_2_5",
+    "appearance": "yellow ladybug",
+    "confidence": "high",
+    "chinese_name": "小瓢吉",
+    "uncertain": false
+  },
+  {
+    "name": "蜂蜂吉",
+    "row": 3,
+    "slot": "adult_6",
+    "appearance": "bee",
+    "confidence": "high",
+    "chinese_name": "蜂蜂吉",
+    "uncertain": false
+  },
+  {
+    "name": "卡奇卡奇",
+    "row": 4,
+    "slot": "young",
+    "appearance": "gray stone",
+    "confidence": "high",
+    "chinese_name": "卡奇卡奇",
+    "uncertain": false
+  },
+  {
+    "name": "宝石吉",
+    "row": 4,
+    "slot": "adult_perfect",
+    "appearance": "gem creature",
+    "confidence": "high",
+    "chinese_name": "宝石吉",
+    "uncertain": false
+  },
+  {
+    "name": "矿石吉",
+    "row": 4,
+    "slot": "adult_0_1",
+    "appearance": "purple crystals",
+    "confidence": "high",
+    "chinese_name": "矿石吉",
+    "uncertain": false
+  },
+  {
+    "name": "岩石吉",
+    "row": 4,
+    "slot": "adult_2_5",
+    "appearance": "gray rock",
+    "confidence": "high",
+    "chinese_name": "岩石吉",
+    "uncertain": false
+  },
+  {
+    "name": "岩浆吉",
+    "row": 4,
+    "slot": "adult_6",
+    "appearance": "red lava",
+    "confidence": "high",
+    "chinese_name": "岩浆吉",
+    "uncertain": false
+  },
+  {
+    "name": "独角吉",
+    "row": "hidden",
+    "slot": "hidden",
+    "appearance": "unicorn",
+    "confidence": "high",
+    "chinese_name": "独角吉",
+    "uncertain": false
+  }
+]
