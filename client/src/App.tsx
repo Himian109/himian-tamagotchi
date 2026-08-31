@@ -14,11 +14,11 @@ import Sources from "@/pages/Sources";
 import Evolution from "@/pages/Evolution";
 import CharacterDetail from "@/pages/CharacterDetail";
 import AI from "@/pages/AI";
-import { Route, Switch } from "wouter";
+import { Route, Router, Switch } from "wouter";
 import ErrorBoundary from "./components/ErrorBoundary";
 import { ThemeProvider } from "./contexts/ThemeContext";
-function Router() {
-  // make sure to consider if you need authentication for certain routes
+
+function AppRoutes() {
   return (
     <Switch>
       <Route path="/" component={Home} />
@@ -38,12 +38,15 @@ function Router() {
 }
 
 export default function App() {
+  const base = import.meta.env.BASE_URL.replace(/\/$/, "") || undefined;
   return (
     <ErrorBoundary>
       <ThemeProvider defaultTheme="light">
         <TooltipProvider>
           <Toaster richColors position="top-center" />
-          <Router />
+          <Router base={base}>
+            <AppRoutes />
+          </Router>
         </TooltipProvider>
       </ThemeProvider>
     </ErrorBoundary>
